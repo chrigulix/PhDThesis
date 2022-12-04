@@ -1,0 +1,65 @@
+%!PS
+%%BoundingBox: 0 0 50 30 
+%%HiResBoundingBox: 0 0 49.81308 29.88785 
+%%Creator: MetaPost 2.000
+%%CreationDate: 2022.06.28:0127
+%%Pages: 1
+%*Font: cmmi10 9.96265 9.96265 74:8
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0 0 0 setrgbcolor 0 0.99626 dtransform truncate idtransform setlinewidth pop
+ [] 0 setdash 1 setlinecap 1 setlinejoin 10 setmiterlimit
+newpath 4.98161 0 moveto
+6.97421 0 lineto stroke
+newpath 8.96686 0 moveto
+10.95886 0 lineto stroke
+newpath 12.95146 0 moveto
+14.94408 0 lineto stroke
+newpath 16.9367 0 moveto
+18.9293 0 lineto stroke
+newpath 20.92131 0 moveto
+22.91393 0 lineto stroke
+newpath 24.90656 0 moveto
+26.89915 0 lineto stroke
+newpath 28.89177 0 moveto
+30.88377 0 lineto stroke
+newpath 32.87637 0 moveto
+34.86902 0 lineto stroke
+newpath 36.86162 0 moveto
+38.85422 0 lineto stroke
+newpath 40.84622 0 moveto
+42.83887 0 lineto stroke
+ 0 0.4 dtransform truncate idtransform setlinewidth pop
+newpath 11.62344 -15 moveto
+38.18945 -15 lineto stroke
+newpath 34.49384 -16.5308 moveto
+38.18945 -15 lineto
+34.49384 -13.4692 lineto
+ closepath
+gsave fill grestore stroke
+23.10776 -12 moveto
+(t) cmmi10 9.96265 fshow
+ 0 0.99626 dtransform truncate idtransform setlinewidth pop
+newpath 4.98161 29.88785 moveto
+6.97421 29.88785 lineto stroke
+newpath 8.96686 29.88785 moveto
+10.95886 29.88785 lineto stroke
+newpath 12.95146 29.88785 moveto
+14.94408 29.88785 lineto stroke
+newpath 16.9367 29.88785 moveto
+18.9293 29.88785 lineto stroke
+newpath 20.92131 29.88785 moveto
+22.91393 29.88785 lineto stroke
+newpath 24.90656 29.88785 moveto
+26.89915 29.88785 lineto stroke
+newpath 28.89177 29.88785 moveto
+30.88377 29.88785 lineto stroke
+newpath 32.87637 29.88785 moveto
+34.86902 29.88785 lineto stroke
+newpath 36.86162 29.88785 moveto
+38.85422 29.88785 lineto stroke
+newpath 40.84622 29.88785 moveto
+42.83887 29.88785 lineto stroke
+showpage
+%%EOF

@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="ParticleMassSmall.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 246.83601 237.64398"
+   height="237.644mm"
+   width="246.836mm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.64"
+     inkscape:cx="0.076181524"
+     inkscape:cy="844.18495"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g954"
+     showgrid="false"
+     inkscape:window-width="2880"
+     inkscape:window-height="1525"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-59.355345)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1744"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,-1740.883)"><flowRegion
+         id="flowRegion1746"><rect
+           id="rect1748"
+           width="64.84375"
+           height="67.96875"
+           x="-272.07031"
+           y="9171.5713" /></flowRegion><flowPara
+         id="flowPara1750" /></flowRoot>    <g
+       id="g954"
+       transform="matrix(0.33009438,0,0,0.33009438,2.482409e-4,198.961)">
+      <g
+         id="g994"
+         transform="matrix(0.03123561,0,0,0.03123561,-6.4877445e-4,287.72332)">
+        <g
+           id="g965">
+          <circle
+             r="4571.7861"
+             cy="-13947.743"
+             cx="4571.7852"
+             id="circle1016"
+             style="opacity:1;fill:#0f0000;fill-opacity:1;stroke:none;stroke-width:8.24579144;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text1028"
+             y="-13188.025"
+             x="3688.7439"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:837.66772461px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.36285257"
+             xml:space="preserve"><tspan
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2326.85473633px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes Italic';fill:#ffffff;fill-opacity:1;stroke-width:4.36285257"
+               y="-13188.025"
+               x="3688.7439"
+               id="tspan1026"
+               sodipodi:role="line">H<tspan
+   id="tspan959"
+   style="font-size:64.99999762%;baseline-shift:super">0</tspan></tspan></text>
+        </g>
+        <g
+           id="g896"
+           transform="matrix(1.0860404,0,0,1.0860404,-4308.9909,-9380.6441)">
+          <g
+             transform="matrix(15.183157,0,0,15.183157,3242.4346,-6342.6337)"
+             id="g1092">
+            <circle
+               cy="340.13"
+               cx="1144.9663"
+               id="circle1008"
+               style="opacity:1;fill:#0f0000;fill-opacity:1;stroke:none;stroke-width:0.50006247;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               r="89.251999" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="1132.3679"
+               y="357.19879"
+               id="text1034"><tspan
+                 sodipodi:role="line"
+                 id="tspan1032"
+                 x="1132.3679"
+                 y="357.19879"
+                 style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes Italic';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">b</tspan></text>
+          </g>
+          <g
+             transform="matrix(15.183157,0,0,15.183157,6039.4103,-5902.0623)"
+             id="g1087">
+            <circle
+               style="opacity:1;fill:#0f0000;fill-opacity:1;stroke:none;stroke-width:0.50006247;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle1006"
+               cx="861.24976"
+               cy="375.22589"
+               r="25.139" />
+            <text
+               xml:space="preserve"
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes Italic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="857.47644"
+               y="379.46347"
+               id="text1042"><tspan
+                 sodipodi:role="line"
+                 id="tspan1040"
+                 x="857.47644"
+                 y="379.46347"
+                 style="font-size:19.75555611px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">s</tspan></text>
+          </g>
+          <g
+             transform="matrix(15.183157,0,0,15.183157,9248.4763,-5686.4658)"
+             id="g1065">
+            <circle
+               cy="376.90417"
+               cx="611.98132"
+               id="circle1004"
+               style="opacity:1;fill:#0f0000;fill-opacity:1;stroke:none;stroke-width:0.50006247;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               r="9.2609997" />
+            <text
+               xml:space="preserve"
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes Italic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="608.92206"
+               y="380.68594"
+               id="text1046"><tspan
+                 sodipodi:role="line"
+                 id="tspan1044"
+                 x="608.92206"
+                 y="380.68594"
+                 style="font-size:11.28888893px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">d</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g882"
+           transform="matrix(1.0860404,0,0,1.0860404,-3688.5861,-8567.9006)">
+          <g
+             transform="matrix(15.183157,0,0,15.183157,4774.7716,-9141.095)"
+             id="g998">
+            <circle
+               style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.50006247;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="path834"
+               cx="1052.4827"
+               cy="50.46183"
+               r="308.54999" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="1028.9877"
+               y="88.209053"
+               id="text993"><tspan
+                 sodipodi:role="line"
+                 id="tspan991"
+                 x="1028.9877"
+                 y="88.209053"
+                 style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:141.1111145px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes Italic';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">t</tspan></text>
+          </g>
+          <g
+             transform="matrix(15.183157,0,0,15.183157,3102.3142,-1612.9725)"
+             id="g1055">
+            <circle
+               cy="-200.50745"
+               cx="867.59973"
+               id="circle1002"
+               style="opacity:1;fill:#0f0000;fill-opacity:1;stroke:none;stroke-width:0.50006247;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               r="60.001999" />
+            <text
+               xml:space="preserve"
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="856.04272"
+               y="-189.58545"
+               id="text1038"><tspan
+                 sodipodi:role="line"
+                 id="tspan1036"
+                 x="856.04272"
+                 y="-189.58545"
+                 style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">c</tspan></text>
+          </g>
+          <g
+             transform="matrix(15.183157,0,0,15.183157,6034.799,-812.07298)"
+             id="g1060">
+            <circle
+               style="opacity:1;fill:#0f0000;fill-opacity:1;stroke:none;stroke-width:0.50006247;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="path1000"
+               cx="617.27295"
+               cy="-200.41666"
+               r="7.1620002" />
+            <text
+               xml:space="preserve"
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes Italic';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="614.3548"
+               y="-197.98955"
+               id="text1050"><tspan
+                 sodipodi:role="line"
+                 id="tspan1048"
+                 x="614.3548"
+                 y="-197.98955"
+                 style="font-size:11.28888893px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">u</tspan></text>
+          </g>
+        </g>
+        <g
+           id="g5892"
+           transform="matrix(0.752247,0,0,0.752247,9236.1864,-9315.9268)">
+          <g
+             transform="translate(-264.58333,-423.33333)"
+             id="g2899">
+            <g
+               id="g1108"
+               transform="matrix(21.920356,0,0,21.920356,4851.8601,-14409.686)">
+              <circle
+                 r="239.13699"
+                 cy="1020.5127"
+                 cx="-400.1669"
+                 id="circle1012"
+                 style="opacity:1;fill:#0f0000;fill-opacity:1;stroke:none;stroke-width:0.50006247;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+              <text
+                 id="text1020"
+                 y="1065.3154"
+                 x="-469.09967"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                 xml:space="preserve"><tspan
+                   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:141.1111145px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes Italic';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+                   y="1065.3154"
+                   x="-469.09967"
+                   id="tspan1018"
+                   sodipodi:role="line">W</tspan></text>
+            </g>
+            <g
+               id="g1103"
+               transform="matrix(21.920356,0,0,21.920356,570.55541,-14897.08)">
+              <circle
+                 r="249.39799"
+                 style="opacity:1;fill:#0f0000;fill-opacity:1;stroke:none;stroke-width:0.50006247;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                 id="circle1014"
+                 cx="330.22726"
+                 cy="1032.4865" />
+              <text
+                 id="text1024"
+                 y="1078.5592"
+                 x="287.89392"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                 xml:space="preserve"><tspan
+                   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:141.1111145px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes Italic';fill:#fffdfd;fill-opacity:1;stroke-width:0.26458332"
+                   y="1078.5592"
+                   x="287.89392"
+                   id="tspan1022"
+                   sodipodi:role="line">Z</tspan></text>
+            </g>
+          </g>
+          <g
+             transform="translate(-1219.2,-356.65524)"
+             id="g5872">
+            <g
+               id="g5857">
+              <path
+                 inkscape:connector-curvature="0"
+                 style="opacity:1;fill:none;fill-opacity:1;stroke:#0a0a0a;stroke-width:150;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                 d="m 15526.425,5035.6584 c 6.596,30.549 14.194,60.8288 22.767,90.5435 8.573,29.7147 18.126,58.8611 28.605,87.1577 10.479,28.2967 21.89,55.7382 34.164,82.0615 12.273,26.3233 25.414,51.5214 39.335,75.3548 13.921,23.8334 28.627,46.2936 44.017,67.1694 15.39,20.8757 31.468,40.1573 48.119,57.6658 16.651,17.5084 33.879,33.233 51.558,47.0306 17.679,13.7976 35.813,25.6565 54.268,35.4724 18.455,9.816 37.234,17.5766 56.197,23.2182 18.963,5.6417 38.111,9.1517 57.304,10.5083 19.193,1.3567 38.43,0.5472 57.571,-2.4078 19.14,-2.9549 38.183,-8.0681 56.989,-15.2767 18.807,-7.2085 37.376,-16.525 55.573,-27.8457 18.198,-11.3207 36.023,-24.6576 53.349,-39.8684 17.326,-15.2107 34.151,-32.3063 50.359,-51.1086 16.209,-18.8022 31.798,-39.3211 46.666,-61.3458 14.867,-22.0248 29.009,-45.5642 42.338,-70.3793 13.328,-24.8151 25.839,-50.9132 37.462,-78.0316 11.623,-27.1184 22.352,-55.263 32.134,-84.1526 9.783,-28.8896 18.614,-58.5283 26.459,-88.6221 7.845,-30.0938 14.698,-60.645 20.545,-91.3525 5.848,-30.7075 10.684,-61.5717 14.513,-92.2903 3.83,-30.7185 6.647,-61.29 8.478,-91.4168 1.831,-30.1268 2.669,-59.8057 2.559,-88.7495 -0.11,-28.9437 -1.174,-57.1476 -3.128,-84.3404 -1.954,-27.1928 -4.804,-53.3681 -8.469,-78.2763 -3.666,-24.9082 -8.152,-48.5413 -13.363,-70.6761 -5.212,-22.1348 -11.152,-42.7619 -17.712,-61.6889 -6.56,-18.927 -13.743,-36.1433 -21.43,-51.4911 -7.686,-15.3477 -15.877,-28.8155 -24.444,-40.2828 -8.567,-11.4674 -17.512,-20.9222 -26.697,-28.2841 -9.186,-7.3619 -18.614,-12.6183 -28.143,-15.7303 -9.53,-3.112 -19.162,-4.0668 -28.755,-2.8678 -9.592,1.199 -19.145,4.5646 -28.518,10.0511 -9.373,5.4864 -18.564,13.1063 -27.439,22.7725 -8.876,9.6663 -17.432,21.3909 -25.541,35.0472 -8.109,13.6564 -15.767,29.2557 -22.857,46.6342 -7.089,17.3784 -13.605,36.5463 -19.442,57.3058 -5.836,20.7595 -10.989,43.1198 -15.363,66.853 -4.375,23.7331 -7.968,48.8471 -10.701,75.0882 -2.733,26.2411 -4.601,53.6158 -5.545,81.8498 -0.943,28.2341 -0.956,57.3324 0,87.0054 0.959,29.6729 2.896,59.9237 5.832,90.4533 2.937,30.5296 6.88,61.3393 11.831,92.1263 4.951,30.7871 10.916,61.551 17.879,91.9914 6.962,30.4404 14.928,60.5549 23.859,90.0512 8.932,29.4963 18.835,58.3704 29.655,86.3438 10.819,27.9735 22.56,55.0405 35.15,80.9421 12.589,25.9016 26.032,50.6304 40.238,73.9518 14.207,23.3215 29.181,45.2268 44.82,65.5104 15.639,20.2837 31.946,38.9356 48.805,55.7834 16.859,16.8478 34.273,31.8803 52.115,44.9616 17.842,13.0813 36.115,24.1995 54.684,33.2576 18.569,9.0581 37.437,16.0437 56.463,20.9008 19.027,4.8572 38.213,7.5731 57.418,8.134 19.204,0.5609 38.427,-1.0462 57.527,-4.7925 19.099,-3.7464 38.075,-9.6449 56.79,-17.625 18.715,-7.9802 37.166,-18.0543 55.222,-30.1116 18.057,-12.0573 35.715,-26.1094 52.853,-42.0072 17.138,-15.8978 33.752,-33.6522 49.73,-53.0785 15.977,-19.4264 31.314,-40.5346 45.912,-63.1083 14.598,-22.5737 28.452,-46.6214 41.477,-71.8994 13.026,-25.2781 25.219,-51.7935 36.511,-79.2798 11.292,-27.4863 21.679,-55.949 31.11,-85.1042 9.432,-29.1552 17.903,-59.0066 25.382,-89.2586 7.48,-30.2519 13.963,-60.9063 19.439,-91.6613 5.476,-30.755 9.938,-61.6108 13.396,-92.2654 3.459,-30.6545 5.907,-61.1062 7.374,-91.0587 1.467,-29.9525 1.948,-59.4024 1.489,-88.0651 -0.458,-28.6626 -1.861,-56.5329 -4.142,-83.3433 -2.28,-26.8103 -5.444,-52.554 -9.409,-76.9859 -3.964,-24.4319 -8.733,-47.5439 -14.208,-69.1179 -5.476,-21.574 -11.662,-41.6006 -18.448,-59.8933 -6.785,-18.2928 -14.173,-34.841 -22.04,-49.4935 -7.868,-14.6525 -16.218,-27.3977 -24.919,-38.1224 -8.701,-10.7247 -17.756,-19.4167 -27.026,-26.0031 -9.27,-6.5864 -18.756,-11.0546 -28.319,-13.3736 -9.562,-2.3189 -19.201,-2.4757 -28.774,-0.4816 -9.573,1.9941 -19.081,6.1519 -28.382,12.4198 -9.302,6.268 -18.397,14.6587 -27.151,25.0775 -8.753,10.4189 -17.163,22.8779 -25.103,37.2431 -7.939,14.3653 -15.405,30.648 -22.28,48.6778 -6.875,18.0298 -13.156,37.8168 -18.738,59.1573 -5.581,21.3404 -10.46,44.2434 -14.544,68.4757 -4.085,24.2324 -7.371,49.8019 -9.784,76.4506 -2.413,26.6487 -3.948,54.3829 -4.548,82.925 -0.6,28.5422 -0.259,57.8968 1.06,87.7722 1.319,29.8755 3.623,60.2745 6.929,90.8969 3.307,30.6224 7.623,61.4693 12.946,92.2378 5.324,30.7685 11.661,61.4579 18.991,91.7687 7.33,30.3107 15.659,60.2403 24.946,89.4986 9.287,29.2582 19.538,57.8407 30.694,85.4722 11.155,27.6315 23.222,54.306 36.122,79.7685 12.9,25.4625 26.639,49.7056 41.124,72.4994 14.486,22.7939 29.722,44.1297 45.603,63.8077 15.881,19.6779 32.41,37.6878 49.468,53.8636 17.059,16.1758 34.65,30.5063 52.646,42.8626 17.996,12.3562 36.399,22.7262 55.073,31.0204 18.674,8.2942 37.622,14.5001 56.702,18.5695 19.081,4.0694 38.295,5.9895 57.502,5.7542 19.206,-0.2353 38.404,-2.6387 57.454,-7.174 19.05,-4.5354 37.95,-11.2152 56.563,-19.9616 18.614,-8.7463 36.939,-19.5715 54.845,-32.3572 17.906,-12.7858 35.39,-27.5438 52.332,-44.118 16.941,-16.5743 33.336,-34.9755 49.075,-55.013 15.739,-20.0375 30.817,-41.7208 45.138,-64.8284 14.322,-23.1075 27.882,-47.6474 40.599,-73.3715 12.717,-25.7241 24.586,-52.6391 35.544,-80.4749 10.957,-27.8358 20.998,-56.5976 30.075,-85.999 9.077,-29.4013 17.186,-59.4455 24.299,-89.8354 7.113,-30.3898 13.224,-61.1269 18.328,-91.9088 5.103,-30.782 9.192,-61.6087 12.28,-92.1788 3.088,-30.57 5.169,-60.8814 6.275,-90.6396 1.106,-29.7582 1.231,-58.9595 0.428,-87.3219 -0.804,-28.3624 -2.541,-55.8805 -5.144,-82.2904 -2.603,-26.41 -6.076,-51.7049 -10.333,-75.6442 -4.256,-23.9393 -9.302,-46.5145 -15.035,-67.5134 -5.733,-20.9988 -12.158,-40.4114 -19.161,-58.0577 -7.002,-17.6463 -14.586,-33.5153 -22.627,-47.4628 -8.04,-13.9474 -16.54,-25.9615 -25.367,-35.9363 -8.826,-9.9749 -17.981,-17.8982 -27.326,-23.7048 -9.345,-5.8066 -18.881,-9.4836 -28.467,-11.008 -9.586,-1.5243 -19.221,-0.883 -28.765,1.9049 -9.545,2.7878 -18.997,7.735 -28.218,14.7803 -9.221,7.0453 -18.21,16.2012 -26.833,27.3657 -8.623,11.1645 -16.878,24.3494 -24.639,39.414 -7.762,15.0646 -15.026,32.0199 -21.679,50.6889 -6.654,18.6691 -12.691,39.062 -18.011,60.9692 -5.321,21.9071 -9.919,45.3374 -13.707,70.0528 -3.789,24.7153 -6.762,50.7232 -8.851,77.7617 -2.088,27.0386 -3.285,55.1137 -3.538,83.9448 -0.253,28.8311 0.444,58.4224 2.126,88.4803 1.682,30.058 4.354,60.5848 8.032,91.2797 3.677,30.6948 8.366,61.5582 14.062,92.2876 5.695,30.7294 12.403,61.3236 20.099,91.4845 7.696,30.161 16.386,59.8856 26.025,88.8862 9.64,29.0006 20.234,57.2724 31.723,84.5435 11.488,27.2711 23.874,53.5352 37.08,78.5416 13.205,25.0065 27.234,48.7475 41.992,70.9986 14.758,22.2511 30.249,43.0031 46.364,62.0621 16.115,19.0591 32.858,36.4149 50.108,51.9079 17.251,15.493 35.011,29.1119 53.152,40.7349 18.141,11.6229 36.665,21.2378 55.435,28.7625 18.77,7.5248 37.788,12.9469 56.912,16.2258 19.125,3.2789 38.358,4.4018 57.557,3.3706 19.199,-1.0313 38.363,-4.2296 57.353,-9.5508 18.99,-5.3212 37.805,-12.778 56.308,-22.2847 18.503,-9.5067 36.692,-21.0756 54.439,-34.5813 17.747,-13.5057 35.049,-28.9596 51.786,-46.1993 16.737,-17.2396 32.906,-36.2754 48.398,-56.9106 15.493,-20.6352 30.305,-42.8792 44.344,-66.5051 14.039,-23.6259 27.299,-48.6417 39.702,-74.7946 12.403,-26.153 23.945,-53.4495 34.563,-81.6162 10.619,-28.1668 20.31,-57.2085 29.03,-86.8363 8.72,-29.6277 16.464,-59.8447 23.209,-90.3521 6.744,-30.5074 12.484,-61.3066 17.214,-92.0949 4.731,-30.7884 8.448,-61.5654 11.166,-92.0305 2.719,-30.4651 4.434,-60.616 5.181,-90.16 0.747,-29.544 0.521,-58.4771 -0.624,-86.5203 -1.144,-28.0431 -3.213,-55.1906 -6.132,-81.1825 -2.92,-25.9919 -6.696,-50.8211 -11.24,-74.2517 -4.543,-23.4307 -9.858,-45.4542 -15.842,-65.8638 -5.984,-20.4096 -12.64,-39.1954 -19.852,-56.1834 -7.212,-16.988 -14.984,-32.1672 -23.189,-45.4003 -8.205,-13.233 -16.846,-24.5079 -25.788,-33.7263 -8.943,-9.2184 -18.189,-16.3678 -27.599,-21.3906 -9.411,-5.0228 -18.986,-7.9063 -28.586,-8.635 -9.599,-0.7286 -19.222,0.7104 -28.728,4.2901 -9.506,3.5797 -18.893,9.313 -28.025,17.1309 -9.131,7.8179 -18.004,17.7329 -26.488,29.6355 -8.483,11.9027 -16.574,25.8048 -24.149,41.5587 -7.575,15.7538 -14.631,33.3703 -21.054,52.6662 -6.423,19.2959 -12.211,40.2809 -17.263,62.7402 -5.051,22.4592 -9.363,46.4011 -12.849,71.583 -3.487,25.1818 -6.144,51.6107 -7.903,79.021 -1.758,27.4102 -2.614,55.8075 -2.516,84.9083 0.1,29.1008 1.154,58.9091 3.2,89.1294 2.047,30.2202 5.089,60.8546 9.138,91.6013 4.05,30.7467 9.112,61.606 15.179,92.2757 6.067,30.6698 13.145,61.1484 21.204,91.1393 8.06,29.9909 17.108,59.4908 27.097,88.2143 9.988,28.7235 20.923,56.6657 32.739,83.5581 11.816,26.8925 24.518,52.7286 38.023,77.2623 13.505,24.5337 27.818,47.7568 42.842,69.4502 15.024,21.6934 30.762,41.8478 47.104,60.2752 16.342,18.4275 33.291,35.1175 50.724,49.9174 17.434,14.7999 35.355,27.6981 53.632,38.58 18.277,10.8818 36.912,19.7351 55.769,26.4854 18.856,6.7503 37.935,11.3849 57.095,13.8712 19.159,2.4862 38.401,2.8112 57.582,0.9847 19.182,-1.8266 38.303,-5.8176 57.224,-11.9211 18.921,-6.1036 37.641,-14.3323 56.024,-24.593 18.383,-10.2608 36.428,-22.5657 54.008,-36.7823 17.579,-14.2166 34.689,-30.3561 51.214,-48.2496 16.524,-17.8935 32.459,-37.5511 47.698,-58.7702 15.24,-21.2192 29.78,-44.009 43.53,-68.1375 13.749,-24.1285 26.704,-49.6033 38.788,-76.1676 12.084,-26.5643 23.293,-54.2242 33.57,-82.703 10.276,-28.4788 19.613,-57.781 27.974,-87.6154"
+                 title="t+cos(3*t) 3*sin(3*t)"
+                 id="path4169" />
+              <text
+                 inkscape:transform-center-y="-952.50005"
+                 inkscape:transform-center-x="-52.916667"
+                 id="text5832"
+                 y="6493.9697"
+                 x="16924.807"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                 xml:space="preserve"><tspan
+                   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1411.11108398px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes Italic';stroke-width:0.26458332"
+                   y="6493.9697"
+                   x="16924.807"
+                   id="tspan5830"
+                   sodipodi:role="line">g</tspan></text>
+            </g>
+            <g
+               id="g5862"
+               transform="translate(40.136371)">
+              <path
+                 inkscape:connector-curvature="0"
+                 style="opacity:1;fill:none;fill-opacity:1;stroke:#0a0a0a;stroke-width:150;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                 d="m 15446.171,9240.9859 c 6.346,-27.0087 12.641,-54.8808 18.883,-83.3913 6.241,-28.5104 12.429,-57.661 18.561,-87.2124 6.132,-29.5514 12.209,-59.5057 18.228,-89.6186 6.02,-30.1129 11.983,-60.385 17.889,-90.5707 5.906,-30.1858 11.756,-60.2845 17.549,-90.0535 5.793,-29.7689 11.53,-59.2059 17.213,-88.075 5.682,-28.8691 11.311,-57.1667 16.887,-84.6676 5.577,-27.5009 11.101,-54.2001 16.578,-79.8866 5.476,-25.6864 10.904,-50.3539 16.288,-73.8093 5.384,-23.4553 10.723,-45.6909 16.024,-66.5345 5.3,-20.8436 10.561,-40.2866 15.788,-58.1803 5.228,-17.8936 10.421,-34.2286 15.587,-48.882 5.166,-14.6535 10.305,-27.6153 15.422,-38.7908 5.118,-11.1754 10.214,-20.5538 15.296,-28.07 5.083,-7.5162 10.151,-13.159 15.212,-16.894 5.061,-3.7349 10.115,-5.5506 15.169,-5.4437 5.054,0.1068 10.108,2.1478 15.17,6.0947 5.062,3.947 10.131,9.8114 15.215,17.5345 5.084,7.723 10.182,17.3157 15.302,28.6895 5.12,11.3738 10.261,24.5393 15.43,39.3793 5.169,14.84 10.367,31.3645 15.598,49.43 5.231,18.0654 10.496,37.6809 15.801,58.6787 5.305,20.9979 10.649,43.3861 16.038,66.9756 5.389,23.5894 10.822,48.3871 16.304,74.1855 5.481,25.7984 11.012,52.6033 16.594,80.1921 5.583,27.5887 11.217,55.9658 16.906,84.8973 5.689,28.9315 11.432,58.4205 17.232,88.2253 5.799,29.8049 11.655,59.9272 17.567,90.1218 5.913,30.1946 11.882,60.4616 17.908,90.5561 6.026,30.0945 12.109,60.0151 18.247,89.5212 6.139,29.506 12.333,58.5948 18.58,87.0337 6.248,28.439 12.549,56.2239 18.901,83.1343 6.351,26.9104 12.754,52.9408 19.203,77.886 6.45,24.9452 12.946,48.7986 19.485,71.374 6.539,22.5753 13.121,43.8648 19.74,63.704 6.618,19.8392 13.275,38.2192 19.963,55.0004 6.687,16.7811 13.407,31.9536 20.152,45.4045 6.744,13.4508 13.515,25.1696 20.303,35.0718 6.789,9.9023 13.596,17.9772 20.416,24.1703 6.819,6.1931 13.649,10.493 20.485,12.8764 6.835,2.3834 13.675,2.8387 20.512,1.3737 6.836,-1.4649 13.671,-4.8617 20.495,-10.1512 6.824,-5.2896 13.638,-12.4833 20.436,-21.5116 6.797,-9.0283 13.577,-19.9022 20.334,-32.5228 6.756,-12.6206 13.489,-26.9983 20.191,-43.0065 6.703,-16.0081 13.375,-33.6563 20.011,-52.7923 6.637,-19.1359 13.237,-39.7683 19.796,-61.7216 6.559,-21.9532 13.076,-45.2351 19.548,-69.6494 6.472,-24.4144 12.897,-49.968 19.273,-76.4474 6.375,-26.4794 12.701,-53.89 18.974,-82.0049 6.273,-28.1148 12.493,-56.9378 18.657,-86.2318 6.165,-29.2941 12.275,-59.0618 18.328,-89.0599 6.053,-29.998 12.049,-60.2275 17.989,-90.4428 5.939,-30.2153 11.822,-60.416 17.648,-90.3583 5.826,-29.9423 11.596,-59.6244 17.311,-88.8079 5.715,-29.1836 11.375,-57.8653 16.982,-85.8166 5.607,-27.9513 11.162,-55.1674 16.667,-81.4329 5.505,-26.2655 10.961,-51.5744 16.371,-75.728 5.41,-24.1535 10.775,-47.1446 16.099,-68.7944 5.324,-21.6497 10.607,-41.9499 15.854,-60.7446 5.248,-18.7947 10.46,-36.0747 15.643,-51.7094 5.183,-15.6347 10.336,-29.6141 15.467,-41.8351 5.13,-12.2211 10.237,-22.6731 15.328,-31.2821 5.092,-8.6091 10.167,-15.3641 15.232,-20.2216 5.066,-4.8574 10.123,-7.8059 15.177,-8.8329 5.055,-1.027 10.108,-0.121 15.166,2.6991 5.058,2.8201 10.121,7.5658 15.197,14.1872 5.076,6.6215 10.165,15.1299 15.272,25.4453 5.108,10.3153 10.235,22.4484 15.389,36.2903 5.153,13.842 10.332,29.4029 15.544,46.5467 5.212,17.1439 10.456,35.8802 15.738,56.0479 5.281,20.1677 10.601,41.7753 15.964,64.6397 5.363,22.8643 10.77,46.9927 16.223,72.1826 5.454,25.19 10.955,51.4477 16.507,78.5546 5.552,27.1069 11.155,55.0679 16.812,83.6519 5.657,28.5841 11.368,57.7947 17.134,87.3921 5.767,29.5974 11.589,59.5837 17.468,89.7143 5.88,30.1306 11.816,60.4061 17.808,90.581 5.993,30.1749 12.042,60.2483 18.148,89.978 6.105,29.7296 12.267,59.1131 18.483,87.9151 6.216,28.802 12.486,57.0188 18.807,84.4259 6.322,27.4071 12.695,53.9994 19.117,79.5668 6.421,25.5675 12.891,50.1039 19.405,73.4169 6.513,23.3131 13.071,45.3954 19.667,66.0758 6.596,20.6804 13.232,39.9503 19.901,57.6625 6.668,17.7122 13.37,33.8572 20.1,48.3139 6.729,14.4566 13.486,27.2146 20.263,38.1811 6.777,10.9666 13.575,20.1307 20.386,27.4291 6.812,7.2985 13.637,12.72 20.469,16.232 6.832,3.512 13.671,5.103 20.509,4.7715 6.838,-0.3315 13.675,-2.5969 20.505,-6.7664 6.829,-4.1696 13.651,-10.2546 20.457,-18.1945 6.807,-7.94 13.599,-17.7459 20.369,-29.3275 6.769,-11.5816 13.517,-24.9493 20.237,-39.9845 6.72,-15.0353 13.411,-31.7479 20.068,-49.9929 6.657,-18.245 13.28,-38.0314 19.863,-59.1902 6.583,-21.1587 13.126,-43.6978 19.624,-67.427 6.498,-23.7292 12.951,-48.6553 19.356,-74.5699 6.405,-25.9146 12.761,-52.8234 19.065,-80.503 6.303,-27.6796 12.555,-56.1344 18.752,-85.1299 6.197,-28.9955 12.339,-58.5347 18.425,-88.3756 6.087,-29.8409 12.116,-59.9852 18.09,-90.1875 5.973,-30.2022 11.889,-60.4625 17.748,-90.536 5.86,-30.0735 11.662,-59.9588 17.41,-89.4157 5.747,-29.4568 11.439,-58.4824 17.078,-86.8446 5.638,-28.3623 11.223,-56.057 16.758,-82.8646 5.534,-26.8075 11.018,-52.7221 16.455,-77.5399 5.438,-24.8178 10.828,-48.532 16.176,-70.9574 5.349,-22.4255 10.655,-43.5543 15.924,-63.2235 5.269,-19.6693 10.501,-37.87 15.701,-54.4639 5.201,-16.5939 10.37,-31.5713 15.515,-44.8206 5.144,-13.2494 10.264,-24.7603 15.365,-34.4501 5.101,-9.6898 10.184,-17.5475 15.256,-23.5206 5.072,-5.9731 10.133,-10.0502 15.189,-12.2096 5.056,-2.1594 10.109,-2.3897 15.164,-0.7004 5.056,1.6892 10.115,5.3095 15.184,10.82 5.069,5.5106 10.149,12.9227 15.246,22.1651 5.096,9.2424 10.211,20.326 15.349,33.1504 5.139,12.8243 10.302,27.3997 15.495,43.5978 5.193,16.1982 10.417,34.0288 15.677,53.338 5.26,19.3093 10.556,40.1058 15.894,62.2128 5.339,22.107 10.718,45.532 16.144,70.0781 5.426,24.546 10.899,50.2196 16.421,76.8064 5.522,26.5869 11.095,54.0924 16.72,82.2887 5.626,28.1963 11.304,57.0875 17.038,86.4358 5.734,29.3483 11.524,59.1563 17.369,89.1805 5.846,30.0241 11.748,60.2654 17.708,90.4782 5.959,30.2129 11.975,60.3968 18.048,90.3081 6.072,29.9113 12.201,59.5481 18.385,88.6727 6.183,29.1245 12.422,57.7334 18.713,85.5985 6.291,27.8652 12.635,54.982 19.027,81.1357 6.393,26.1537 12.835,51.3384 19.323,75.3564 6.487,24.0179 13.02,46.8619 19.593,68.3544 6.573,21.4925 13.186,41.6252 19.835,60.2435 6.648,18.6183 13.332,35.713 20.045,51.1551 6.713,15.4421 13.455,29.2215 20.219,41.2367 6.764,12.0153 13.552,22.2558 20.355,30.6494 6.802,8.3935 13.621,14.929 20.449,19.5646 6.827,4.6356 13.663,7.36 20.501,8.1625 6.838,0.8025 13.677,-0.3284 20.51,-3.372 6.834,-3.0437 13.662,-8.0115 20.476,-14.8519 6.815,-6.8404 13.617,-15.5645 20.399,-26.0907 6.782,-10.5262 13.545,-22.8652 20.281,-36.9063 6.735,-14.0412 13.445,-29.7947 20.121,-47.1231 6.677,-17.3284 13.321,-36.2409 19.927,-56.5753 6.606,-20.3344 13.173,-42.0991 19.697,-65.1096 6.525,-23.0105 13.005,-47.2742 19.438,-72.5875 6.434,-25.3133 12.819,-51.6823 19.153,-78.8877 6.334,-27.2054 12.617,-55.252 18.846,-83.908 6.229,-28.6561 12.404,-57.9251 18.523,-87.5669 6.119,-29.6419 12.182,-59.6585 18.189,-89.8051 6.006,-30.1466 11.956,-60.4238 17.849,-90.5862 5.893,-30.1623 11.729,-60.2089 17.509,-89.8975 5.78,-29.6887 11.504,-59.0171 17.174,-87.7504 5.67,-28.7333 11.286,-56.8677 16.851,-84.1795 5.564,-27.3117 11.077,-53.7957 16.542,-79.2428 5.466,-25.4471 10.883,-49.8509 16.256,-73.0204 5.374,-23.1695 10.704,-45.0972 15.995,-65.6133 5.291,-20.5161 10.544,-39.6119 15.763,-57.1417 5.22,-17.5297 10.407,-33.4839 15.566,-47.7429 5.16,-14.259 10.293,-26.8126 15.405,-37.5695 5.113,-10.7569 10.205,-19.7063 15.284,-26.7866 5.079,-7.0803 10.145,-12.2803 15.205,-15.5691 5.059,-3.2888 10.112,-4.655 15.167,-4.099 5.054,0.5561 10.109,3.0458 15.173,7.4377 5.064,4.3919 10.136,10.6972 15.223,18.8536 5.087,8.1565 10.19,18.1751 15.315,29.9638 5.125,11.7886 10.272,25.3579 15.448,40.5876 5.175,15.2296 10.38,32.1295 15.619,50.553 5.239,18.4235 10.513,38.3797 15.827,59.6982 5.314,21.3185 10.668,44.0073 16.068,67.8748 5.399,23.8676 10.843,48.9208 16.336,74.9502 5.493,26.0294 11.036,53.0406 16.63,80.8095 5.594,27.7689 11.241,56.2998 16.943,85.3577 5.701,29.0579 11.458,58.6457 17.27,88.5211 5.813,29.8754 11.682,60.0399 17.608,90.2481 5.925,30.2082 11.908,60.4601 17.947,90.5109 6.04,30.0509 12.136,59.8994 18.287,89.3054 6.151,29.406 12.358,58.3666 18.618,86.6506 6.26,28.2841 12.573,55.8871 18.937,82.5903 6.363,26.7031 12.777,52.5007 19.237,77.1897 6.461,24.689 12.968,48.2625 19.516,70.5368 6.549,22.2743 13.14,43.2414 19.767,62.7396 6.628,19.4982 13.292,37.5186 19.987,53.9243 6.695,16.4058 13.421,31.1871 20.172,44.2342 6.751,13.0472 13.526,24.3496 20.319,33.8264 6.793,9.4768 13.604,17.117 20.425,22.8698 6.822,5.7527 13.655,9.6067 20.491,11.542 6.836,1.9354 13.676,1.9406 20.512,0.027 6.836,-1.9134 13.669,-5.7571 20.491,-11.4883 6.821,-5.7312 13.632,-13.3613 20.426,-22.8173 6.793,-9.456 13.568,-20.7487 20.319,-33.7761 6.751,-13.0273 13.477,-27.7995 20.173,-44.1869 6.695,-16.3873 13.36,-34.3993 19.987,-53.8807 6.628,-19.4815 13.219,-40.441 19.769,-62.7005 6.549,-22.2595 13.056,-45.8265 19.517,-70.5028 6.461,-24.6764 12.875,-50.4685 19.239,-77.1614 6.364,-26.6928 12.678,-54.2916 18.938,-82.5679 6.261,-28.2763 12.468,-57.2339 18.62,-86.6349"
+                 title="t+cos(0.15*t) 15*sin(0.15*t)"
+                 id="path5825" />
+              <text
+                 id="text5850"
+                 y="10764.78"
+                 x="16705.434"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                 xml:space="preserve"><tspan
+                   y="10764.78"
+                   x="16705.434"
+                   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1411.11108398px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes Italic'"
+                   id="tspan5852"
+                   sodipodi:role="line">γ</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g
+           id="g972">
+          <g
+             transform="matrix(16.489522,0,0,16.489522,7691.7678,-10729.866)"
+             id="g979">
+            <circle
+               style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.50006247;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle859"
+               cx="98.038689"
+               cy="150.11426"
+               r="0.44299999" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="97.882408"
+               y="150.26595"
+               id="text907"><tspan
+                 sodipodi:role="line"
+                 id="tspan905"
+                 x="97.882408"
+                 y="150.26595"
+                 style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes Italic';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">e</tspan></text>
+          </g>
+          <g
+             transform="matrix(16.489522,0,0,16.489522,7387.6442,-11157.043)"
+             id="g1082">
+            <circle
+               r="26.194"
+               cy="150.26926"
+               cx="129.1071"
+               id="circle875"
+               style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.50006247;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="123.25946"
+               y="152.06702"
+               id="text917"><tspan
+                 sodipodi:role="line"
+                 id="tspan919"
+                 x="123.25946"
+                 y="152.06702"
+                 style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes Italic';fill:#ffffff;fill-opacity:1">μ</tspan></text>
+          </g>
+          <g
+             transform="matrix(16.489522,0,0,16.489522,7200.6006,-11902.593)"
+             id="g963">
+            <circle
+               style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.50006247;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle879"
+               cx="229.92955"
+               cy="154.56679"
+               r="67.110001" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="212.20035"
+               y="165.71739"
+               id="text937"><tspan
+                 sodipodi:role="line"
+                 id="tspan939"
+                 x="212.20035"
+                 y="165.71739"
+                 style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes Italic';fill:#ffffff;fill-opacity:1">τ</tspan></text>
+          </g>
+          <g
+             id="g906"
+             transform="matrix(16.489522,0,0,16.489522,7714.1223,-10729.002)">
+            <circle
+               r="0.050999999"
+               style="opacity:1;fill:#585858;fill-opacity:1;stroke:none;stroke-width:0.50006247;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle900"
+               cx="95.411819"
+               cy="150.1356" />
+            <text
+               id="text904"
+               y="150.19926"
+               x="95.47995"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               xml:space="preserve"><tspan
+                 sodipodi:role="line"
+                 id="tspan940"
+                 style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.35277778px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes Italic'"
+                 x="95.47995"
+                 y="150.19926">ν<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan942">μ</tspan></tspan></text>
+          </g>
+          <g
+             id="g938">
+            <g
+               id="g944"
+               transform="matrix(16.489522,0,0,16.489522,7714.1223,-10734.259)">
+              <circle
+                 r="0.050999999"
+                 style="opacity:1;fill:#585858;fill-opacity:1;stroke:none;stroke-width:0.50006247;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                 id="circle836"
+                 cx="95.411819"
+                 cy="150.1356" />
+              <text
+                 id="text901"
+                 y="150.19926"
+                 x="95.47995"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                 xml:space="preserve"><tspan
+                   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.35277778px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes Italic'"
+                   y="150.19926"
+                   x="95.47995"
+                   id="tspan903"
+                   sodipodi:role="line">ν<tspan
+   id="tspan916"
+   style="font-size:64.99999762%;baseline-shift:sub">e</tspan></tspan></text>
+            </g>
+            <g
+               id="g914"
+               transform="matrix(16.489522,0,0,16.489522,7714.1225,-10723.755)">
+              <circle
+                 r="0.050999999"
+                 style="opacity:1;fill:#585858;fill-opacity:1;stroke:none;stroke-width:0.50006247;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+                 id="circle908"
+                 cx="95.411819"
+                 cy="150.1356" />
+              <text
+                 id="text912"
+                 y="150.19926"
+                 x="95.47995"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                 xml:space="preserve"><tspan
+                   y="150.19926"
+                   x="95.47995"
+                   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.35277778px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes Italic'"
+                   id="tspan924"
+                   sodipodi:role="line">ν<tspan
+   id="tspan926"
+   style="font-size:64.99999762%;baseline-shift:sub">τ</tspan></tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

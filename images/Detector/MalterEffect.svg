@@ -1,0 +1,1515 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="MalterEffect.svg">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-43.845237 : 79.860119 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="56.154763 : 79.860119 : 1"
+       inkscape:persp3d-origin="6.1547627 : 63.193452 : 1"
+       id="perspective815" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="194.17926"
+     inkscape:cy="79.591685"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     showguides="false"
+     inkscape:window-width="2880"
+     inkscape:window-height="1525"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-197)">
+    <g
+       id="g1454">
+      <rect
+         y="197.00002"
+         x="0"
+         height="100"
+         width="100"
+         id="rect820"
+         style="opacity:1;fill:#aaccff;fill-opacity:1;stroke:none;stroke-width:1.66920018;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="19.75"
+         cy="247"
+         cx="50"
+         id="path818"
+         style="opacity:1;fill:#a2a2a2;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g834">
+        <circle
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path822"
+           cx="28"
+           cy="247"
+           r="2" />
+        <circle
+           r="2"
+           cy="247"
+           cx="72"
+           id="circle824"
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           r="2"
+           cy="269"
+           cx="50"
+           id="circle826"
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle828"
+           cx="50"
+           cy="225"
+           r="2" />
+      </g>
+      <g
+         transform="rotate(10,50,247)"
+         id="g904">
+        <circle
+           r="2"
+           cy="247"
+           cx="28"
+           id="circle896"
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle898"
+           cx="72"
+           cy="247"
+           r="2" />
+        <circle
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle900"
+           cx="50"
+           cy="269"
+           r="2" />
+        <circle
+           r="2"
+           cy="225"
+           cx="50"
+           id="circle902"
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <g
+         id="g914"
+         transform="rotate(20,50,247)">
+        <circle
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle906"
+           cx="28"
+           cy="247"
+           r="2" />
+        <circle
+           r="2"
+           cy="247"
+           cx="72"
+           id="circle908"
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           r="2"
+           cy="269"
+           cx="50"
+           id="circle910"
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle912"
+           cx="50"
+           cy="225"
+           r="2" />
+      </g>
+      <g
+         transform="rotate(30,50,247)"
+         id="g924">
+        <circle
+           r="2"
+           cy="247"
+           cx="28"
+           id="circle916"
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle918"
+           cx="72"
+           cy="247"
+           r="2" />
+        <circle
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle920"
+           cx="50"
+           cy="269"
+           r="2" />
+        <circle
+           r="2"
+           cy="225"
+           cx="50"
+           id="circle922"
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <g
+         id="g934"
+         transform="rotate(40,50,247)">
+        <circle
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle926"
+           cx="28"
+           cy="247"
+           r="2" />
+        <circle
+           r="2"
+           cy="247"
+           cx="72"
+           id="circle928"
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           r="2"
+           cy="269"
+           cx="50"
+           id="circle930"
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle932"
+           cx="50"
+           cy="225"
+           r="2" />
+      </g>
+      <g
+         transform="rotate(50,50,247)"
+         id="g944">
+        <circle
+           r="2"
+           cy="247"
+           cx="28"
+           id="circle936"
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle938"
+           cx="72"
+           cy="247"
+           r="2" />
+        <circle
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle940"
+           cx="50"
+           cy="269"
+           r="2" />
+        <circle
+           r="2"
+           cy="225"
+           cx="50"
+           id="circle942"
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <g
+         id="g954"
+         transform="rotate(60,50,247)">
+        <circle
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle946"
+           cx="28"
+           cy="247"
+           r="2" />
+        <circle
+           r="2"
+           cy="247"
+           cx="72"
+           id="circle948"
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           r="2"
+           cy="269"
+           cx="50"
+           id="circle950"
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle952"
+           cx="50"
+           cy="225"
+           r="2" />
+      </g>
+      <g
+         transform="rotate(70,50,247)"
+         id="g964">
+        <circle
+           r="2"
+           cy="247"
+           cx="28"
+           id="circle956"
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle958"
+           cx="72"
+           cy="247"
+           r="2" />
+        <circle
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle960"
+           cx="50"
+           cy="269"
+           r="2" />
+        <circle
+           r="2"
+           cy="225"
+           cx="50"
+           id="circle962"
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <g
+         id="g974"
+         transform="rotate(80,50,247)">
+        <circle
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle966"
+           cx="28"
+           cy="247"
+           r="2" />
+        <circle
+           r="2"
+           cy="247"
+           cx="72"
+           id="circle968"
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           r="2"
+           cy="269"
+           cx="50"
+           id="circle970"
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <circle
+           style="opacity:1;fill:#0065ff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle972"
+           cx="50"
+           cy="225"
+           r="2" />
+      </g>
+      <g
+         style="opacity:0.987"
+         transform="translate(13.630746,-37.01683)"
+         id="g1709">
+        <circle
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle1703"
+           cx="11.759859"
+           cy="277.35568"
+           r="2" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="10.174222"
+           y="278.76837"
+           id="text1707"><tspan
+             sodipodi:role="line"
+             id="tspan1705"
+             x="10.174222"
+             y="278.76837"
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.98699999"
+         id="g1701"
+         transform="translate(20.240295,-12.322266)">
+        <circle
+           r="2"
+           cy="277.35568"
+           cx="11.759859"
+           id="path1692"
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text1696"
+           y="278.76837"
+           x="10.174222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+             y="278.76837"
+             x="10.174222"
+             id="tspan1694"
+             sodipodi:role="line">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.987"
+         id="g1717"
+         transform="translate(15.167546,-41.426777)">
+        <circle
+           r="2"
+           cy="277.35568"
+           cx="11.759859"
+           id="circle1711"
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text1715"
+           y="278.76837"
+           x="10.174222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+             y="278.76837"
+             x="10.174222"
+             id="tspan1713"
+             sodipodi:role="line">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.98699999"
+         transform="translate(12.601624,-28.236219)"
+         id="g1725">
+        <circle
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle1719"
+           cx="11.759859"
+           cy="277.35568"
+           r="2" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="10.174222"
+           y="278.76837"
+           id="text1723"><tspan
+             sodipodi:role="line"
+             id="tspan1721"
+             x="10.174222"
+             y="278.76837"
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.987"
+         id="g1733"
+         transform="translate(16.102989,-49.043958)">
+        <circle
+           r="2"
+           cy="277.35568"
+           cx="11.759859"
+           id="circle1727"
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text1731"
+           y="278.76837"
+           x="10.174222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+             y="278.76837"
+             x="10.174222"
+             id="tspan1729"
+             sodipodi:role="line">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.987"
+         id="g1749"
+         transform="translate(31.070082,-68.554633)">
+        <circle
+           r="2"
+           cy="277.35568"
+           cx="11.759859"
+           id="circle1743"
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text1747"
+           y="278.76837"
+           x="10.174222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+             y="278.76837"
+             x="10.174222"
+             id="tspan1745"
+             sodipodi:role="line">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.987"
+         transform="translate(68.487816,-58.398391)"
+         id="g1757">
+        <circle
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle1751"
+           cx="11.759859"
+           cy="277.35568"
+           r="2" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="10.174222"
+           y="278.76837"
+           id="text1755"><tspan
+             sodipodi:role="line"
+             id="tspan1753"
+             x="10.174222"
+             y="278.76837"
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">+</tspan></text>
+      </g>
+      <g
+         style="opacity:1"
+         id="g1765"
+         transform="translate(74.902285,-31.404169)">
+        <circle
+           r="2"
+           cy="277.35568"
+           cx="11.759859"
+           id="circle1759"
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text1763"
+           y="278.76837"
+           x="10.174222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+             y="278.76837"
+             x="10.174222"
+             id="tspan1761"
+             sodipodi:role="line">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.987"
+         transform="translate(75.971363,-4.1426772)"
+         id="g1773">
+        <circle
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle1767"
+           cx="11.759859"
+           cy="277.35568"
+           r="2" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="10.174222"
+           y="278.76837"
+           id="text1771"><tspan
+             sodipodi:role="line"
+             id="tspan1769"
+             x="10.174222"
+             y="278.76837"
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.987"
+         id="g1781"
+         transform="translate(59.400652,2.1381567)">
+        <circle
+           r="2"
+           cy="277.35568"
+           cx="11.759859"
+           id="circle1775"
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text1779"
+           y="278.76837"
+           x="10.174222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+             y="278.76837"
+             x="10.174222"
+             id="tspan1777"
+             sodipodi:role="line">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.987"
+         transform="translate(-3.2740522,8.1517211)"
+         id="g1789">
+        <circle
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle1783"
+           cx="11.759859"
+           cy="277.35568"
+           r="2" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="10.174222"
+           y="278.76837"
+           id="text1787"><tspan
+             sodipodi:role="line"
+             id="tspan1785"
+             x="10.174222"
+             y="278.76837"
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.987"
+         id="g1797"
+         transform="translate(31.871891,8.5526254)">
+        <circle
+           r="2"
+           cy="277.35568"
+           cx="11.759859"
+           id="circle1791"
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text1795"
+           y="278.76837"
+           x="10.174222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+             y="278.76837"
+             x="10.174222"
+             id="tspan1793"
+             sodipodi:role="line">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.987"
+         transform="translate(-1.2695304,-45.16855)"
+         id="g1805">
+        <circle
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle1799"
+           cx="11.759859"
+           cy="277.35568"
+           r="2" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="10.174222"
+           y="278.76837"
+           id="text1803"><tspan
+             sodipodi:role="line"
+             id="tspan1801"
+             x="10.174222"
+             y="278.76837"
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.987"
+         id="g1813"
+         transform="translate(48.709871,-53.58754)">
+        <circle
+           r="2"
+           cy="277.35568"
+           cx="11.759859"
+           id="circle1807"
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text1811"
+           y="278.76837"
+           x="10.174222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+             y="278.76837"
+             x="10.174222"
+             id="tspan1809"
+             sodipodi:role="line">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.987"
+         transform="translate(52.852549,-51.315749)"
+         id="g1821">
+        <circle
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle1815"
+           cx="11.759859"
+           cy="277.35568"
+           r="2" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="10.174222"
+           y="278.76837"
+           id="text1819"><tspan
+             sodipodi:role="line"
+             id="tspan1817"
+             x="10.174222"
+             y="278.76837"
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.987"
+         id="g1829"
+         transform="translate(56.059783,-48.509419)">
+        <circle
+           r="2"
+           cy="277.35568"
+           cx="11.759859"
+           id="circle1823"
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text1827"
+           y="278.76837"
+           x="10.174222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+             y="278.76837"
+             x="10.174222"
+             id="tspan1825"
+             sodipodi:role="line">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.98699999"
+         transform="translate(44.765631,-55.130383)"
+         id="g1837">
+        <circle
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle1831"
+           cx="11.759859"
+           cy="277.35568"
+           r="2" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="10.174222"
+           y="278.76837"
+           id="text1835"><tspan
+             sodipodi:role="line"
+             id="tspan1833"
+             x="10.174222"
+             y="278.76837"
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.987"
+         id="g1845"
+         transform="translate(37.75182,-59.467469)">
+        <circle
+           r="2"
+           cy="277.35568"
+           cx="11.759859"
+           id="circle1839"
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text1843"
+           y="278.76837"
+           x="10.174222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+             y="278.76837"
+             x="10.174222"
+             id="tspan1841"
+             sodipodi:role="line">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.987"
+         transform="translate(11.024867,-70.826424)"
+         id="g1853">
+        <circle
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle1847"
+           cx="11.759859"
+           cy="277.35568"
+           r="2" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="10.174222"
+           y="278.76837"
+           id="text1851"><tspan
+             sodipodi:role="line"
+             id="tspan1849"
+             x="10.174222"
+             y="278.76837"
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.987"
+         id="g1861"
+         transform="translate(9.6885193,-33.275055)">
+        <circle
+           r="2"
+           cy="277.35568"
+           cx="11.759859"
+           id="circle1855"
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text1859"
+           y="278.76837"
+           x="10.174222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+             y="278.76837"
+             x="10.174222"
+             id="tspan1857"
+             sodipodi:role="line">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.98699999"
+         transform="translate(60.692342,-43.516246)"
+         id="g1869">
+        <circle
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle1863"
+           cx="11.759859"
+           cy="277.35568"
+           r="2" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="10.174222"
+           y="278.76837"
+           id="text1867"><tspan
+             sodipodi:role="line"
+             id="tspan1865"
+             x="10.174222"
+             y="278.76837"
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.987"
+         id="g1877"
+         transform="translate(65.146946,-40.357698)">
+        <circle
+           r="2"
+           cy="277.35568"
+           cx="11.759859"
+           id="circle1871"
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text1875"
+           y="278.76837"
+           x="10.174222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+             y="278.76837"
+             x="10.174222"
+             id="tspan1873"
+             sodipodi:role="line">+</tspan></text>
+      </g>
+      <g
+         style="opacity:1"
+         transform="translate(65.013311,-33.275056)"
+         id="g1885">
+        <circle
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle1879"
+           cx="11.759859"
+           cy="277.35568"
+           r="2" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="10.174222"
+           y="278.76837"
+           id="text1883"><tspan
+             sodipodi:role="line"
+             id="tspan1881"
+             x="10.174222"
+             y="278.76837"
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.987"
+         id="g1893"
+         transform="translate(64.077868,-28.196935)">
+        <circle
+           r="2"
+           cy="277.35568"
+           cx="11.759859"
+           id="circle1887"
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text1891"
+           y="278.76837"
+           x="10.174222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+             y="278.76837"
+             x="10.174222"
+             id="tspan1889"
+             sodipodi:role="line">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.987"
+         transform="translate(63.00879,-24.187892)"
+         id="g1901">
+        <circle
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle1895"
+           cx="11.759859"
+           cy="277.35568"
+           r="2" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="10.174222"
+           y="278.76837"
+           id="text1899"><tspan
+             sodipodi:role="line"
+             id="tspan1897"
+             x="10.174222"
+             y="278.76837"
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.98699999"
+         id="g1909"
+         transform="translate(61.496836,-19.41364)">
+        <circle
+           r="2"
+           cy="277.35568"
+           cx="11.759859"
+           id="circle1903"
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text1907"
+           y="278.76837"
+           x="10.174222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+             y="278.76837"
+             x="10.174222"
+             id="tspan1905"
+             sodipodi:role="line">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.98699999"
+         transform="translate(59.144126,-15.729955)"
+         id="g1917">
+        <circle
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle1911"
+           cx="11.759859"
+           cy="277.35568"
+           r="2" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="10.174222"
+           y="278.76837"
+           id="text1915"><tspan
+             sodipodi:role="line"
+             id="tspan1913"
+             x="10.174222"
+             y="278.76837"
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.98699999"
+         id="g1925"
+         transform="translate(56.529518,-11.791085)">
+        <circle
+           r="2"
+           cy="277.35568"
+           cx="11.759859"
+           id="circle1919"
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text1923"
+           y="278.76837"
+           x="10.174222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+             y="278.76837"
+             x="10.174222"
+             id="tspan1921"
+             sodipodi:role="line">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.98699999"
+         transform="translate(52.851204,-9.2453088)"
+         id="g1933">
+        <circle
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle1927"
+           cx="11.759859"
+           cy="277.35568"
+           r="2" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="10.174222"
+           y="278.76837"
+           id="text1931"><tspan
+             sodipodi:role="line"
+             id="tspan1929"
+             x="10.174222"
+             y="278.76837"
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.98699999"
+         id="g1941"
+         transform="translate(48.704497,-6.7791096)">
+        <circle
+           r="2"
+           cy="277.35568"
+           cx="11.759859"
+           id="circle1935"
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text1939"
+           y="278.76837"
+           x="10.174222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+             y="278.76837"
+             x="10.174222"
+             id="tspan1937"
+             sodipodi:role="line">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.98699999"
+         transform="translate(44.484929,-5.7060022)"
+         id="g1949">
+        <circle
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle1943"
+           cx="11.759859"
+           cy="277.35568"
+           r="2" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="10.174222"
+           y="278.76837"
+           id="text1947"><tspan
+             sodipodi:role="line"
+             id="tspan1945"
+             x="10.174222"
+             y="278.76837"
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.98699999"
+         id="g1957"
+         transform="translate(40.196529,-4.8407339)">
+        <circle
+           r="2"
+           cy="277.35568"
+           cx="11.759859"
+           id="circle1951"
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text1955"
+           y="278.76837"
+           x="10.174222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+             y="278.76837"
+             x="10.174222"
+             id="tspan1953"
+             sodipodi:role="line">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.98699999"
+         transform="translate(35.399443,-4.6745305)"
+         id="g1965">
+        <circle
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle1959"
+           cx="11.759859"
+           cy="277.35568"
+           r="2" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="10.174222"
+           y="278.76837"
+           id="text1963"><tspan
+             sodipodi:role="line"
+             id="tspan1961"
+             x="10.174222"
+             y="278.76837"
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.98699999"
+         id="g1973"
+         transform="translate(14.996304,-19.547274)">
+        <circle
+           r="2"
+           cy="277.35568"
+           cx="11.759859"
+           id="circle1967"
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text1971"
+           y="278.76837"
+           x="10.174222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+             y="278.76837"
+             x="10.174222"
+             id="tspan1969"
+             sodipodi:role="line">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.98699999"
+         transform="translate(17.282868,-15.666493)"
+         id="g1981">
+        <circle
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle1975"
+           cx="11.759859"
+           cy="277.35568"
+           r="2" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="10.174222"
+           y="278.76837"
+           id="text1979"><tspan
+             sodipodi:role="line"
+             id="tspan1977"
+             x="10.174222"
+             y="278.76837"
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.987"
+         id="g1989"
+         transform="translate(1.8040684,-14.165285)">
+        <circle
+           r="2"
+           cy="277.35568"
+           cx="11.759859"
+           id="circle1983"
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text1987"
+           y="278.76837"
+           x="10.174222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+             y="278.76837"
+             x="10.174222"
+             id="tspan1985"
+             sodipodi:role="line">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.987"
+         transform="translate(57.930669,-65.881939)"
+         id="g1997">
+        <circle
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle1991"
+           cx="11.759859"
+           cy="277.35568"
+           r="2" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="10.174222"
+           y="278.76837"
+           id="text1995"><tspan
+             sodipodi:role="line"
+             id="tspan1993"
+             x="10.174222"
+             y="278.76837"
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.987"
+         id="g2005"
+         transform="translate(77.30771,-73.632755)">
+        <circle
+           r="2"
+           cy="277.35568"
+           cx="11.759859"
+           id="circle1999"
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text2003"
+           y="278.76837"
+           x="10.174222"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+             y="278.76837"
+             x="10.174222"
+             id="tspan2001"
+             sodipodi:role="line">+</tspan></text>
+      </g>
+      <g
+         style="opacity:0.98699999"
+         transform="translate(23.496213,-51.422189)"
+         id="g2013">
+        <circle
+           style="opacity:0.35;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle2007"
+           cx="11.759859"
+           cy="277.35568"
+           r="2" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="10.174222"
+           y="278.76837"
+           id="text2011"><tspan
+             sodipodi:role="line"
+             id="tspan2009"
+             x="10.174222"
+             y="278.76837"
+             style="font-size:5.64444447px;fill:#ff0000;fill-opacity:1;stroke-width:0.26458332">+</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="42.929466"
+         y="248.41573"
+         id="text2017"><tspan
+           sodipodi:role="line"
+           id="tspan2015"
+           x="42.929466"
+           y="248.41573"
+           style="stroke-width:0.26458332">Cathode</tspan></text>
+      <text
+         id="text2021"
+         y="288.94901"
+         x="49.551918"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="288.94901"
+           x="49.551918"
+           id="tspan2019"
+           sodipodi:role="line">Argon Ions (Ar<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan2023">2</tspan><tspan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="tspan2025">+</tspan>)</tspan></text>
+      <text
+         id="text2029"
+         y="214.21599"
+         x="5.3727264"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="214.21599"
+           x="5.3727264"
+           id="tspan2027"
+           sodipodi:role="line">Crystalline Argon Monolayers</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 34.076864,215.02918 7.656466,9.54262"
+         id="path2031"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 45.302185,286.84376 c 4.075859,0.80181 4.075859,0.80181 4.075859,0.80181"
+         id="path2035"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g1116">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="48.856998"
+           y="231.78821"
+           id="text1472"><tspan
+             sodipodi:role="line"
+             id="tspan1470"
+             x="48.856998"
+             y="231.78821"
+             style="stroke-width:0.26458332">-</tspan></text>
+        <text
+           id="text1486"
+           y="265.39386"
+           x="48.856998"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.26458332"
+             y="265.39386"
+             x="48.856998"
+             id="tspan1484"
+             sodipodi:role="line">-</tspan></text>
+        <text
+           id="text1498"
+           y="234.03937"
+           x="57.258415"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.26458332"
+             y="234.03937"
+             x="57.258415"
+             id="tspan1496"
+             sodipodi:role="line">-</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="40.455589"
+           y="263.14273"
+           id="text1502"><tspan
+             sodipodi:role="line"
+             id="tspan1500"
+             x="40.455589"
+             y="263.14273"
+             style="stroke-width:0.26458332">-</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="63.408684"
+           y="240.18962"
+           id="text1508"><tspan
+             sodipodi:role="line"
+             id="tspan1506"
+             x="63.408684"
+             y="240.18962"
+             style="stroke-width:0.26458332">-</tspan></text>
+        <text
+           id="text1512"
+           y="256.99246"
+           x="34.305332"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.26458332"
+             y="256.99246"
+             x="34.305332"
+             id="tspan1510"
+             sodipodi:role="line">-</tspan></text>
+        <text
+           id="text1518"
+           y="248.59103"
+           x="65.659828"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.26458332"
+             y="248.59103"
+             x="65.659828"
+             id="tspan1516"
+             sodipodi:role="line">-</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="32.054176"
+           y="248.59103"
+           id="text1522"><tspan
+             sodipodi:role="line"
+             id="tspan1520"
+             x="32.054176"
+             y="248.59103"
+             style="stroke-width:0.26458332">-</tspan></text>
+        <text
+           transform="scale(-1)"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="-65.694664"
+           y="-253.81039"
+           id="text1570"><tspan
+             sodipodi:role="line"
+             id="tspan1568"
+             x="-65.694664"
+             y="-253.81039"
+             style="stroke-width:0.26458332">-</tspan></text>
+        <text
+           transform="scale(-1)"
+           id="text1574"
+           y="-237.00757"
+           x="-36.591312"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.26458332"
+             y="-237.00757"
+             x="-36.591312"
+             id="tspan1572"
+             sodipodi:role="line">-</tspan></text>
+        <text
+           transform="scale(-1)"
+           id="text1578"
+           y="-259.96066"
+           x="-59.544411"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="stroke-width:0.26458332"
+             y="-259.96066"
+             x="-59.544411"
+             id="tspan1576"
+             sodipodi:role="line">-</tspan></text>
+        <text
+           transform="scale(-1)"
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="-42.741585"
+           y="-230.85732"
+           id="text1582"><tspan
+             sodipodi:role="line"
+             id="tspan1580"
+             x="-42.741585"
+             y="-230.85732"
+             style="stroke-width:0.26458332">-</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="53.205891"
+         y="232.36075"
+         id="text1120"><tspan
+           sodipodi:role="line"
+           id="tspan1118"
+           x="53.205891"
+           y="232.36075"
+           style="stroke-width:0.26458332">-</tspan></text>
+      <text
+         id="text1124"
+         y="264.82132"
+         x="44.508106"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="264.82132"
+           x="44.508106"
+           id="tspan1122"
+           sodipodi:role="line">-</tspan></text>
+      <text
+         id="text1128"
+         y="236.70966"
+         x="60.738396"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="236.70966"
+           x="60.738396"
+           id="tspan1126"
+           sodipodi:role="line">-</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="36.975609"
+         y="260.47244"
+         id="text1132"><tspan
+           sodipodi:role="line"
+           id="tspan1130"
+           x="36.975609"
+           y="260.47244"
+           style="stroke-width:0.26458332">-</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="65.087303"
+         y="244.24216"
+         id="text1136"><tspan
+           sodipodi:role="line"
+           id="tspan1134"
+           x="65.087303"
+           y="244.24216"
+           style="stroke-width:0.26458332">-</tspan></text>
+      <text
+         id="text1140"
+         y="252.93994"
+         x="32.626717"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="252.93994"
+           x="32.626717"
+           id="tspan1138"
+           sodipodi:role="line">-</tspan></text>
+      <text
+         id="text1144"
+         y="252.93993"
+         x="65.087288"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="252.93993"
+           x="65.087288"
+           id="tspan1142"
+           sodipodi:role="line">-</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="32.62672"
+         y="244.24214"
+         id="text1148"><tspan
+           sodipodi:role="line"
+           id="tspan1146"
+           x="32.62672"
+           y="244.24214"
+           style="stroke-width:0.26458332">-</tspan></text>
+      <text
+         transform="scale(-1)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-63.024376"
+         y="-257.29037"
+         id="text1152"><tspan
+           sodipodi:role="line"
+           id="tspan1150"
+           x="-63.024376"
+           y="-257.29037"
+           style="stroke-width:0.26458332">-</tspan></text>
+      <text
+         transform="scale(-1)"
+         id="text1156"
+         y="-233.52759"
+         x="-39.261593"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="-233.52759"
+           x="-39.261593"
+           id="tspan1154"
+           sodipodi:role="line">-</tspan></text>
+      <text
+         transform="scale(-1)"
+         id="text1160"
+         y="-261.63928"
+         x="-55.491875"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="-261.63928"
+           x="-55.491875"
+           id="tspan1158"
+           sodipodi:role="line">-</tspan></text>
+      <text
+         transform="scale(-1)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-46.794098"
+         y="-229.17871"
+         id="text1164"><tspan
+           sodipodi:role="line"
+           id="tspan1162"
+           x="-46.794098"
+           y="-229.17871"
+           style="stroke-width:0.26458332">-</tspan></text>
+    </g>
+  </g>
+</svg>

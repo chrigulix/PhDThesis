@@ -1,0 +1,413 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% STYLE AND LAYOUT
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Page geometry
+\usepackage[
+%	papersize={6.5in,9in},
+	hmargin={1.5in,1.5in},
+	vmargin={1.2in,1in},
+	ignoreheadfoot
+]{geometry}
+
+% Style
+% \usepackage{palatino} % Use a different font (still a classical serif)
+% \usepackage[parfill]{parskip} % Enter skips after paragraphs instead of indendation
+% \raggedbottom % all pages have the height of the text on that page
+
+% Define nice headers with a ruled line
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{} %clear default fancy header style
+%\fancyfoot{} %clear default fancy footer style
+\fancyhead[RO]{\slshape \thepage} % odd pages, right
+\fancyhead[LO]{\slshape \rightmark} % odd pages, left
+\fancyhead[LE]{\slshape \thepage} % even pages, right
+\fancyhead[RE]{\slshape \leftmark} % even pages, left
+\renewcommand{\headrulewidth}{0.4pt}
+%\renewcommand{\footrulewidth}{0.4pt}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PACKAGE IMPORTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{setspace} % Control line spacing
+\usepackage{hyperref}
+	 \hypersetup{
+	 colorlinks,
+	 breaklinks=true,
+	 linkcolor=blue,
+	 anchorcolor=blue,
+	 citecolor=blue,
+	 urlcolor=blue,
+} % enable tags and links and references
+\usepackage[british]{babel} % English motherfucker, do you speak it?
+\usepackage{csquotes} % Removes warning when babel is used with biblatex
+\usepackage[usenames,dvipsnames]{xcolor} % allows colour definitions
+\usepackage{graphicx} % place images
+% \usepackage{svg} % include svg graphics format
+\usepackage{rotating} % allows for figures/tables to be placed sideways
+\usepackage[small,bf]{caption} % more verbose captions, use small/bold font
+\usepackage{tocloft}[titles] % better table of contents
+\usepackage{xspace} % for dynamic spaces (e.g. none before a colon, ...)
+\usepackage{listings} % listings environment for source code formatting
+
+% Use Biber as Biblatex backend
+\usepackage[backend=biber,
+            natbib=true,
+%             style=phys, % Physics style
+%             articletitle=false,biblabel=brackets,% APS style if phys
+%             chaptertitle=false,pageranges=false,% APS style if phys
+%             style=nature,
+%             style=ieee,
+            style=numeric,
+            sorting=none]
+            {biblatex}
+
+\usepackage{tocbibind} % adds Bib, LoF, LoT, LoL to the ToC
+\usepackage{expl3} % code for lookahead functionality of latin abbrev.
+\usepackage{ifthen} % for definitions of edit and comment macros
+\usepackage{amssymb} % some more symbols are available
+\usepackage{amsmath} % math package
+\usepackage{amsxtra} % math package
+\usepackage{mathtools} % math package
+\usepackage[low-sup]{subdepth} % correct for subscript shift when having a superscript
+\usepackage{mathbbol} % Fancy math font (Identity matrix)
+\usepackage[mathscr,scaled=1.15]{urwchancal} % Fancy math font, for lowercase operatiors 
+\usepackage{physics} % Why? Because I'm a fucking Physicist, that's why!!!
+\usepackage{braket} % use bra-ket vectors
+% \usepackage{tensor} % Field theory tensor syntax
+\usepackage{slashed} % Feynman slash operators = \gamma_{\mu}A^{\mu}
+\usepackage{leftidx} % Left sub- and superscripts. Nicer (symmetrical) type set for subscripts in formulas
+\usepackage{siunitx} % SI units
+\usepackage[version=4]{mhchem} % chemistry symbols
+\usepackage{chemformula} % other chemistry symbols package for nicer excited states, but everything els is rubbish
+\usepackage{textgreek} % greek text symbols
+\usepackage{textcomp} % more symbols in text form e.g. \textonehalf 
+% \usepackage{xfrac} % same as textcomp but nicer? e.g. \textonehalf = \sfrac{1}{2}
+\usepackage{simpler-wick} % Contractions
+\usepackage{simplewick}
+\usepackage{feynmp} % Feynman diagrams
+\usepackage{subfig} % Subfigures
+% \usepackage{subcaption} % Subfigure and Subcaption
+\usepackage{pdfpages} % Insert whole PDF pages
+\usepackage[normalem]{ulem} % for \sout
+\usepackage{tabu} % Better tables (more control)
+\usepackage{tabularx} % Best tables (more control)
+\usepackage{multirow} % Multirow table entries
+\usepackage{booktabs} % More table options
+\usepackage[toc,acronym]{glossaries} % Glossary (create table of content entry and use acronym index)
+\usepackage[xindy]{glossaries-extra} % Use Glossary extras for resetting at chapters
+\usepackage{datetime2} % Dates
+\usepackage{bm} % Bold mathstyle symbols, \hat for unit vectors
+\usepackage{lineno} % Line numbers for proofreading
+\usepackage[strict]{changepage} % For adjustwidth with subfloats
+\usepackage{outlines} % For better staged itemize
+\usepackage[
+type={CC},
+modifier={by-nc-sa},
+version={4.0},
+]{doclicense} % Creative commons license
+% \usepackage{lmodern} % For quotes
+% \usepackage{hyperref}
+% % \usepackage[pagebackref=true]{hyperref}
+% 	 \hypersetup{
+% 	 colorlinks,
+% 	 breaklinks=true,
+% 	 linkcolor=blue,
+% 	 anchorcolor=blue,
+% 	 citecolor=blue,
+% 	 urlcolor=blue,
+% } % enable tags and links and references
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Create additional math symbols
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Create \mathpzc font, which is a lowercase caligraphy font used for operators
+\DeclareFontFamily{OT1}{pzc}{}
+\DeclareFontShape{OT1}{pzc}{m}{it}
+                 {<-> s * [1.15] pzcmi7t}{}
+\DeclareMathAlphabet{\mathpzc}{OT1}{pzc}{m}{it}
+
+% Create sign function
+\DeclareMathOperator{\sgn}{sgn}
+
+%Math abbreviationis 
+\newcommand{\Lagr}{\mathcal{L}}
+\newcommand{\Hami}{\mathcal{H}}
+
+% C++ signe without linebreak
+\def\cpp{{C\nolinebreak[4]\hspace{-.05em}\raisebox{.4ex}{\tiny\bf ++}}\xspace}
+
+%Math conventions
+% \let\vec\mathbf % vectors are denoted as boldface characters and do not have a arrow on top (this is viewd as standard for typeset version by many (arrow only in handwriting))
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Change Setups
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\sisetup{detect-all}
+\sisetup{separate-uncertainty}
+% Date format
+\DTMusemodule{british}{en-GB}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% VARIABLE DEFINITIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% =============
+% Use big initial characters for autoref tags
+\def\chapterautorefname{Chapter}
+\def\sectionautorefname{Section}
+\def\subsectionautorefname{Subsection}
+\def\subsubsectionname{Subsubsection}
+
+% =============
+% 'Variables' for figure placement
+\newcommand{\graphwidth}{0.9\textwidth}
+\newcommand{\figurewidth}{0.9\linewidth}
+\newcommand{\tablewidth}{1.2\linewidth}
+\newcommand{\spacebeforegraph}{-5pt}
+\newcommand{\spacebeforegraphcaption}{-10pt}
+
+% =============
+% Variables to toggle comments and edits
+\newboolean{showedits}
+\setboolean{showedits}{true} % toggle to show or hide edits
+\newboolean{showcomments}
+\setboolean{showcomments}{true} % toggle to show or hide comments
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% SQUARE BOX MACRO
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Gray text box macro
+% arg1: title, arg2: content
+\newcommand{\squarebox}[2]{
+\vspace{5pt}
+\noindent\fcolorbox{white}{black!10}{%
+    \minipage[t]{\dimexpr\linewidth-2\fboxsep-2\fboxrule\relax}
+\textbf{#1} --- #2
+    \endminipage}%
+\vspace{1pt}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Macros for Quotation and Example-Story formatting
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Environment for formatting quotes
+% arg1: quote, arg2: source of the quote
+\newcommand{\quoting}[2]{
+	\begin{quote}
+		``#1'' #2
+	\end{quote}
+}
+
+% Environment for formatting of example stories
+\newenvironment{example}{
+	%\small
+	\noindent
+	%\mbox{}
+	\slshape
+	\quote
+}{
+	\vspace{\baselineskip}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% MARKUP MACROS: PROOF READING
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\ifthenelse{\boolean{showedits}}
+{
+	\newcommand{\ugh}[1]{\textcolor{red}{\uwave{#1}}}  % please rephrase
+	\newcommand{\ins}[1]{\textcolor{blue}{\uline{#1}}} % please insert
+	\newcommand{\del}[1]{\textcolor{red}{\sout{#1}}}   % please delete
+	\newcommand{\chg}[2]{\textcolor{red}{\sout{#1}}{$\rightarrow$}\textcolor{blue}{\uline{#2}}} % please change
+}{
+	\newcommand{\ugh}[1]{#1} % please rephrase
+	\newcommand{\ins}[1]{#1} % please insert
+	\newcommand{\del}[1]{}   % please delete
+	\newcommand{\chg}[2]{#2} % please change
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% MARKUP MACROS: COMMENTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\id}[1]{$-$ \textsc{\rversion} $-$}
+\newcommand{\yellowbox}[1]{\noindent\fcolorbox{gray}{yellow}{\bfseries\sffamily\scriptsize#1}}
+\newcommand{\triangles}[1]{{\sf\small$\blacktriangleright$\textit{#1}$\blacktriangleleft$}}
+\ifthenelse{\boolean{showcomments}}
+{ 
+	\newcommand{\ob}[2]{ % an orange box with following text
+		{\noindent\colorbox{RedOrange}
+			{\bfseries\sffamily\scriptsize\textcolor{white}{#1}}}
+		{\textcolor{RedOrange}
+			{\sf\small$\blacktriangleright$\textit{#2}$\blacktriangleleft$}}
+	}
+	\newcommand{\bb}[2]{ % an yellow box with following text
+		{\noindent\colorbox{MidnightBlue}
+			{\bfseries\sffamily\scriptsize\textcolor{white}{#1}}}
+		{\textcolor{MidnightBlue}
+			{\sf\small$\blacktriangleright$\textit{#2}$\blacktriangleleft$}}
+	}
+	\newcommand{\rb}[2]{% an red box with following text
+		{\noindent\colorbox{BrickRed}
+			{\bfseries\sffamily\scriptsize\textcolor{white}{#1}}}
+		{\textcolor{BrickRed}
+			{\sf\small$\blacktriangleright$\textit{#2}$\blacktriangleleft$}}
+	}
+	\newcommand{\gb}[2]{ % an green box with following text
+		{\noindent\colorbox{Green}
+			{\bfseries\sffamily\scriptsize\textcolor{white}{#1}}}
+		{\textcolor{Green}
+			{\sf\small$\blacktriangleright$\textit{#2}$\blacktriangleleft$}}
+	}
+	\newcommand{\version}{\noindent\emph{\scriptsize\id}}
+}
+{
+	\newcommand{\ob}[2]{}
+	\newcommand{\rb}[2]{}
+	\newcommand{\bb}[2]{}
+	\newcommand{\gb}[2]{}
+	\newcommand{\version}{}
+}
+
+% =============
+% Macros for working with this document...
+\newcommand{\here}{\yellowbox{$\Rightarrow$ CONTINUE HERE $\Leftarrow$}}
+\newcommand\fix[1]{\rb{FIX}{#1}} % fix this part
+\newcommand\todo[1]{\ob{TO DO}{#1}} % things to do
+\newcommand\think[1]{\bb{THINK}{#1}} % think about this
+\newcommand\revcom[1]{\gb{@Reviewer}{#1}} % comment to the reviewers
+\newcommand{\findQ}[1]{\ob{FIND QUOTE}{#1}} % find a quote for this 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% LATIN ABBREVIATION MACROS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% This handles punctuation and spacing
+\ExplSyntaxOn
+\newcommand{\latinabbrev}[1]{
+  \peek_meaning:NTF .
+  {#1\xspace}
+  {
+  	#1.\xspace
+  }
+}
+% Same as above but with additional \emph{} style
+\newcommand{\latinabbrevstyled}[1]{
+  \peek_meaning:NTF .
+  {\emph{#1}\xspace}
+  {
+  	\emph{#1.}\xspace
+  }
+}
+\ExplSyntaxOff
+
+% Use these macros in text
+\newcommand{\ie}{\latinabbrevstyled{i.e}}
+\newcommand{\eg}{\latinabbrevstyled{e.g}}
+\newcommand{\etc}{\latinabbrevstyled{etc}}
+\newcommand{\ia}{\latinabbrevstyled{i.a}}
+\newcommand{\cf}{\latinabbrevstyled{cf}}
+\newcommand{\etal}{\latinabbrevstyled{et\ al}}
+\newcommand{\perse}{\latinabbrevstyled{per\ se}}
+
+
+% \DeclareGraphicsExtensions{.pdf,.png,.jpg}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Additional SI units
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\DeclareSIUnit\ppm{ppm}
+\DeclareSIUnit\ppb{ppb}
+\DeclareSIUnit\ppt{ppt}
+\DeclareSIUnit\erg{erg}
+\DeclareSIUnit\atmosphere{atm}
+\DeclareSIUnit\year{a}
+\DeclareSIUnit\lightspeed{\textit{c}}
+\DeclareSIUnit\fps{fps}
+\DeclareSIUnit\pot{POT}
+
+% Equation numbering level
+\numberwithin{equation}{section}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Feynman diagram settings
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% In order to be able to read mp files for Feynman diagrams
+\DeclareGraphicsRule{*}{mps}{*}{}
+
+% Introduce a small momentum arrow with 5 variables:
+% 1 Identifier/name, 2 position of the arrow (up, down, left, right), 3 label position (top, bot, lft, rt) (optional), 4 label eg. {$p_1$} (optional), 5 start and end positon of the feynman graph leg eg. {i,o}
+\newcommand{\marrow}[5]{%
+    \fmfcmd{style_def marrow#1
+    expr p = drawarrow subpath (1/4, 3/4) of p shifted 6 #2 withpen pencircle scaled 0.4;
+    label.#3(btex #4 etex, point 0.5 of p shifted 6 #2);
+    enddef;}
+    \fmf{marrow#1,tension=0}{#5}
+}
+
+% Introduce a time arrow with same usage properties
+\newcommand{\tarrow}[5]{%
+    \fmfcmd{style_def tarrow#1
+    expr p = drawarrow subpath (1/6, 5/6) of p shifted 15 #2 withpen pencircle scaled 0.4;
+    label.#3(btex #4 etex, point 0.5 of p shifted 15 #2);
+    enddef;}
+    \fmf{tarrow#1,tension=0}{#5}
+}
+
+% Introduce bundled and corved quark lines. Needs to be in seperate files, otherwise it breaks other Feynman graphs
+% Use: \quark{unique label}{text label}{startpoint,endpoint of line e.g. 0,1}{Arrowhead possition e.g. 1.00, tension e.g. infinity}{shift the line e.g. 0,0}{position of the curve e.g. left} {shift the vertex e.g. 0,0}{shift the last point of a tangent e.g. 0,0}{from, to e.g. i3,v3}
+\newcommand{\quark}[9]{
+  \fmfcmd{input TEX;
+    style_def quark#1 expr p =
+    pair a, b, m, n;
+    if "#6"="left":
+      a = point 0 of p; b = point length(p) of p + (#7); m = point length(p) of p + (#8);
+      path q; q = a{m-a}..tension ypart(#4)..{right}b;
+      label.lft(btex #2 etex, point xpart(#3) of q shifted (#5))
+    fi;
+    if "#6"="right":
+      a = point 0 of p + (#7); b = point length(p) of p; m = point 0 of p + (#8);
+      path q; q = a{right}..tension ypart(#4)..{b-m}b;
+      label.rt(btex #2 etex, point ypart(#3) of q shifted (#5))
+    fi;
+    cdraw subpath (#3) of q                          shifted (#5);
+    cfill (tarrow (q,(xpart(#3)+ypart(#3))*0.46*xpart(#4))) shifted (#5);
+    enddef;}
+  \fmf{quark#1,tension=0}{#9}}
+
+% Introduce braces for feynman graphs
+\usepackage{scalerel}
+% USE: \myleftbrace{Size in pt}{vspace in pt}{text space}
+\newcommand{\mylbrace}[3]{\vspace{#2pt}\hspace{#3pt}\scaleleftright[\dimexpr5pt+#1\dimexpr0.06pt]{\lbrace}{\rule[\dimexpr2pt-#1\dimexpr0.5pt]{-4pt}{#1pt}}{.}}
+\newcommand{\myrbrace}[3]{\vspace{#2pt}\scaleleftright[\dimexpr5pt+#1\dimexpr0.06pt]{.}{\rule[\dimexpr2pt-#1\dimexpr0.5pt]{-4pt}{#1pt}}{\rbrace}\hspace{#3pt}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Glossary settings
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Make glossary entries bold when first used
+% \renewcommand*{\glstextformat}{\textbf}
+
+% Reset all acronyms at the beginning of every new chapter
+\preto\chapter{\glsresetall}
+
+% Set acronym style to use first the long version then the short
+\setabbreviationstyle[acronym]{long-short}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Deal with unessersary warnings
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Suppress warning when there are multiple PDF-graphics on one page
+\pdfsuppresswarningpagegroup=1
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Stuff for Bob Ross Quote
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newlength\boradest

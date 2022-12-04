@@ -1,0 +1,121 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% LE START
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Use A4 double sided layout for this text.
+\documentclass[10pt,a4paper,twoside]{book}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% META INFO
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Meta information about this report
+
+\newcommand{\rtitle}
+{
+\begin{spacing}{0.8}
+Measurement of Muon Neutrino Charged Current Inclusive Interactions on Argon
+\end{spacing}
+}
+\newcommand{\rtypeofwork}{Inauguraldissertation der Philosophisch-naturwissenschafftlichen Fakult\"at der Universit\"at Bern}
+\newcommand{\rauthor}{Christoph Rudolf von Rohr}
+\newcommand{\rhometown}{Subingen SO \& Egerkingen SO}
+% \newcommand{\rsupervisor}{Prof. Dr. Antonio Ereditato}
+\newcommand{\rsupervisor}{Prof. Dr. Michele Weber}
+\newcommand{\rdean}{Prof. Dr. Marco Herwegh}
+\newcommand{\rdate}{Some Semester 2012/13}
+\newcommand{\rschool}{Laboratory for High Energy Physics \\ Albert Einstein Centre for Fundamental Physics \\ Physikalisches Institut}
+\newcommand{\remail}{christoph@rudolf-von-rohr.ch}
+% \newcommand{\rurl}{www.myhomepage.net}
+\newcommand{\rversion}{Id: version.something.xyz $-$ 0.0.1 \today \date{\currenttime}}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% TEMPLATE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Load the template here.
+\input{parts/template}
+
+% Load glossaries
+\input{parts/glossaries}
+
+% Load bibliography sources
+\addbibresource{bib/main.bib}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% TEXT MACROS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Macros to help with non-ambiguous formatting
+\newcommand{\keyw}[1]{\textsl{#1}} % use this for keywords
+\newcommand{\proj}[1]{\textsc{#1}} % use this for names of external 
+
+% Define your own macros here...
+\newcommand{\blah}{\keyw{blah, blah, blah}\xspace}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% LINEUP
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+    \hypersetup{pageanchor=false}
+    
+    \frontmatter
+
+    % Title and meta page
+    \input{parts/title}
+
+    % Front matter
+    \input{parts/front}
+
+    \hypersetup{pageanchor=true}
+
+    \mainmatter
+
+    % Activate if in proofreading mode
+%     \linenumbers 
+
+    % Introduction
+    \input{parts/introduction}
+
+    % Theory Chapter
+    \input{parts/theory}
+
+    % LArTPC
+    \input{parts/lartpcs}
+
+    % detector setup
+    \input{parts/microboone}
+
+    % Results
+    \input{parts/cosmicgamma}
+    \input{parts/ccinclusive}
+    \input{parts/newccinclusive}
+
+    % Conclusion
+    \input{parts/conclusion}
+    
+    % Appendices
+%     \input{parts/appendix}
+
+    % Back matter
+    \input{parts/back}
+
+    % Bibliography
+%     \clearpage
+%     \listoffigures
+%     \clearpage
+%     \listoftables
+%     \printglossary[type=acronym]
+%     \printglossary
+%     \printbibliography[heading=bibintoc] % This option puts bibliogrphy in table of content
+
+% TODO make all "Eigennamen" bold, e.g. textbf{Bethe equation}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% LE FIN
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{document}

@@ -1,0 +1,112 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% FRONT MATTER
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frontmatter
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% METAPAGE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% This is the flip side of the title page
+
+% Disclaimer
+\thispagestyle{empty}
+\mbox{}
+\vskip 12cm
+\noindent
+Christoph Rudolf von Rohr: \textit{Measurement of Muon Neutrino Charged Current Inclusive Interactions on Argon}, 01.12.2022
+
+\noindent
+\doclicenseThis
+
+\noindent
+This thesis written with \LaTeX. The source code, graphics, and scripts are available on \url{https://github.com/chrigulix/PhDThesis.git}. For further information about this work and the tools used or for an electronic version of this document, feel free to contact the author.
+\vskip 11pt
+
+% =============
+% Add meta info (see definitions above...)
+\vskip 11pt
+\noindent
+\rauthor\\
+\remail\\
+% \rurl\\
+\vskip 11pt
+
+% =============
+% EPFL
+\vskip 11pt
+\noindent \rschool\\
+\noindent Sidlerstrasse 5\\
+\noindent CH-3012 Bern\\
+\noindent Switzerland\\
+
+\cleardoublepage 
+
+\thispagestyle{empty}
+\null\vfill
+
+\settowidth\boradest{\huge\itshape just happy little accidents.}
+\begin{center}
+\parbox{\boradest}{
+  \raggedright{\huge\itshape
+   We don't make mistakes, \\ 
+   just happy little accidents. \par\bigskip
+  }   
+  \raggedleft\Large\MakeUppercase{Bob Ross}\par%
+}
+\end{center}
+
+\vfill\vfill
+
+\cleardoublepage
+
+% =============
+% Abstract
+\newcommand{\abstracttitle}{Abstract}
+\newenvironment{abstract}{
+	%\small
+	\mbox{}
+	\vskip 7cm
+	\begin{center}
+		{\bfseries \abstracttitle\vspace{-0.5em}\vspace{0pt}}
+	\end{center}
+	\quotation
+}
+{\endquotation}
+
+\begin{abstract}
+\phantomsection
+\addcontentsline{toc}{chapter}{Abstract}
+    The next generation of neutrino oscillation detectors rely on accurate cross section models in order to achieve their stated goal of measuring the \gls{CP} violating phase in the lepton sector, $\delta_\text{cp}$. A key component for model improvements are neutrino interaction measurements. Today's models particularly lack proper understanding of secondary interactions in the target nucleus. For this reason experiments with the same target materials can improve each other's measurements. Since one of the next generation oscillation experiments will use \glspl{lartpc} as their primary detectors, it is evident that neutrino interaction measurements on argon atoms are of special interest. Such measurements can be provided by MicroBooNE which is also a \gls{lartpc} based experiment. In this thesis two $\nu_\mu$ \gls{cc} inclusive event rate measurements are presented using MicroBooNE data. In order to reduce model dependency and uncertainties, the analysis is presented in a forward-folded manner. This means that models are forward-folded to represent the measured raw data rates, rather than unfolding the data to match the cross section format provided by model. The results are presented as differential and double-differential muon kinematic distributions. The latter shows tensions between our data and various models of different event generators, with the best performing model provided by NEUT (v5.4.0.1) exhibiting a $\chi^2/\text{NDF} = \num{12.34}$. The deviation is greatest at high muon momentum. As an additional result, the total $\nu_\mu$ \gls{cc} inclusive cross section of MicroBooNE is found to be $\sigma_{\nu_{\mu}} = ( \num{0.933} \pm 0.045 (\text{stat.}) \pm 0.146 (\text{syst.}) ) \times \SI{e-38}{\centi\metre\squared}$. This is in agreement with other total cross section measurements using MicroBooNE. 
+\end{abstract}
+
+\cleardoublepage
+
+% =============
+% Table of Contents
+\tableofcontents
+\label{sec:contents}
+\newpage
+\cleardoublepage
+
+% =============
+% Acknowledgements
+\chapter{Acknowledgements}
+First and foremost, I would like to offer my warmest thank to my better three-quarters, my best friend, and my wife: Ursina. She was able to bring sunshine into my life in stressful times and without her this thesis would not exist.
+
+I would like to express my utmost gratitude to my supervisor Michele Weber. With his earnest support he became the guiding hand during my time as a PhD student. His advice was paramount for the creation of my thesis.
+
+Also, I greatefully acknowledge my former supervisor Antonio Ereditato for not only giving me the opportunity to start my PhD at LHEP, but also for securing the funds for travel and equipment needed for my studies.
+
+My wholehearted thanks go to Anne Schukraft who led and greatly supported my analysis efforts with her knowledge and competence. She was able to make a lab rat, like me, excited about data analyses.
+
+As a detector physicist at heart, I would like to thank Igor Kreslo for sharing his great knowledge and the great time in the lab. I personally profited greatly from his vast experience.
+
+I would like express my sincere thanks to all my LHEP office mates and regular visitors: Martti, Marcel, S\'ebastien, Martin, Matthias, Damian, Sabina, Camilla, James, David, Yifan and Francesca. Together with you, I lived through some of the funniest moments of my life. But with the tragic losses of two of our friends, S\'ebastien Delaquis and Martin Auger, I also experienced some of the saddest moments of my life with you. May they rest in peace.
+
+Furthermore, I would like to convey my gratitude to all the people of LHEP and FNAL which are not mentioned by name here. You were the little helpers, the inspiring scientists, the interesting conversational partners, and the great company that kept me going forward.
+
+Finally, I would like to thank my parents Margrith and Urs for their tireless support throughout my life.
+\\
+\\
+Thank you all!
+

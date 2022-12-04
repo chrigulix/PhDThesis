@@ -1,0 +1,47 @@
+pandoraNu pandoraNu ------------------------------------------------------
+
+Track Reco Product Name : pandoraNu  Vertex Reco Product Name : pandoraNu
+Total POT : 0
+number of CC events with vertex in FV : 199999
+number of events with flash > 50 PE : 145668 48408
+number of events with track start/end within 5cm to vtx : 145255 48370
+number of events with vtx in FV : 84636 38340
+number of events with tracks matched within 80cm to flash : 43619 28541
+number of events with contained tracks : 20402 12654
+number of events with longest track > 75cm : 7654 6299
+number of events with track start end within 5cm to mc-vtx : 5226
+number of events with contained MC tracks : 49748
+number of well selected events : 6090
+number of NC events selected : 342
+number of anti-Neutrino events selected : 77
+number of Nu_e events selected : 160
+number of events selected cosmic : 751
+number of nu_mu events out of FV : 234
+event selection efficiency : 0.122417
+event selection correctness : 0.68278
+
+Old method---------------------------------------------------------------------------
+
+Track Reco Product Name : pandoraNu  Vertex Reco Product Name : pandoraNu
+Total POT : 0
+number of CC events with vertex in FV : 199999
+number of events with flash > 50 PE : 145668 48408
+number of events with vtx in FV : 140144 48160
+number of events with track start/end within 5cm to vtx : 138675 48036
+number of events with tracks matched within 80cm to flash : 48534 26053
+number of events with contained tracks : 11102 7652
+number of events with longest track > 75cm : 8255 6453
+number of events with track start end within 5cm to mc-vtx : 5535
+number of events with contained MC tracks : 49748
+number of well selected events : 6037
+number of NC events selected : 178
+number of anti-Neutrino events selected : 70
+number of Nu_e events selected : 143
+number of events selected cosmic : 1549
+number of nu_mu events out of FV : 278
+event selection efficiency : 0.121352
+event selection correctness : 0.670503
+
+
+New method---------------------------------------------------------------------------
+

@@ -1,0 +1,49 @@
+pandoraNu pandoraNu ------------------------------------------------------
+
+
+Track Reco Product Name : pandoraNu  Vertex Reco Product Name : pandoraNu
+Total POT : 0
+number of CC events with vertex in FV : 200000
+number of events with flash > 50 PE : 146406 46847
+number of events with track start/end within 5cm to vtx : 146045 46819
+number of events with vtx in FV : 85228 37185
+number of events with tracks matched within 80cm to flash : 43809 27597
+number of events with contained tracks : 21844 13187
+number of events with longest track > 75cm : 7770 6306
+number of events with track start end within 5cm to mc-vtx : 4935
+number of events with contained MC tracks : 48119
+number of well selected events : 6093
+number of NC events selected : 444
+number of anti-Neutrino events selected : 69
+number of Nu_e events selected : 170
+number of events selected cosmic : 770
+number of nu_mu events out of FV : 224
+event selection efficiency : 0.126624
+event selection correctness : 0.635135
+
+
+Old method---------------------------------------------------------------------------
+
+Track Reco Product Name : pandoraNu  Vertex Reco Product Name : pandoraNu
+Total POT : 0
+number of CC events with vertex in FV : 200000
+number of events with flash > 50 PE : 146406 46847
+number of events with vtx in FV : 141011 46641
+number of events with track start/end within 5cm to vtx : 139473 46519
+number of events with tracks matched within 80cm to flash : 47526 24471
+number of events with contained tracks : 11141 7399
+number of events with longest track > 75cm : 8035 6155
+number of events with track start end within 5cm to mc-vtx : 5128
+number of events with contained MC tracks : 48119
+number of well selected events : 5746
+number of NC events selected : 249
+number of anti-Neutrino events selected : 63
+number of Nu_e events selected : 153
+number of events selected cosmic : 1569
+number of nu_mu events out of FV : 255
+event selection efficiency : 0.119412
+event selection correctness : 0.638208
+
+
+New method---------------------------------------------------------------------------
+

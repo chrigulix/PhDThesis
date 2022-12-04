@@ -1,0 +1,251 @@
+Original---------------------------------------------------------------------
+
+Track Reco Product Name : pandoraNu  Vertex Reco Product Name : pandoraNu
+Total POT : 6.16088e+17
+number of CC events with vertex in FV : 182303
+number of events with flash > 50 PE : 45389 0
+number of events with vtx in FV : 42359 0
+number of events with track start/end within 5cm to vtx : 41326 0
+number of events with tracks matched within 80cm to flash : 10789 0
+number of events with contained tracks : 2367 0
+number of events with longest track > 75cm : 1582 0
+number of events with track start end within 5cm to mc-vtx : 0
+number of events with contained MC tracks : 0
+number of well selected events : 0
+number of NC events selected : 0
+number of anti-Neutrino events selected : 0
+number of Nu_e events selected : 0
+number of events selected cosmic : 1582
+number of nu_mu events out of FV : 0
+event selection efficiency : -nan
+event selection correctness : 0
+
+Track Reco Product Name : pandoraNu  Vertex Reco Product Name : pandoraNu
+Total POT : 6.28727e+17
+number of CC events with vertex in FV : 182303
+number of events with flash > 50 PE : 45184 0
+number of events with vtx in FV : 42152 0
+number of events with track start/end within 5cm to vtx : 41143 0
+number of events with tracks matched within 80cm to flash : 10749 0
+number of events with contained tracks : 2321 0
+number of events with longest track > 75cm : 1552 0
+number of events with track start end within 5cm to mc-vtx : 0
+number of events with contained MC tracks : 0
+number of well selected events : 0
+number of NC events selected : 0
+number of anti-Neutrino events selected : 0
+number of Nu_e events selected : 0
+number of events selected cosmic : 1552
+number of nu_mu events out of FV : 0
+event selection efficiency : -nan
+event selection correctness : 0
+
+Track Reco Product Name : pandoraNu  Vertex Reco Product Name : pandoraNu
+Total POT : 6.09627e+17
+number of CC events with vertex in FV : 182304
+number of events with flash > 50 PE : 45350 0
+number of events with vtx in FV : 42306 0
+number of events with track start/end within 5cm to vtx : 41310 0
+number of events with tracks matched within 80cm to flash : 10954 0
+number of events with contained tracks : 2403 0
+number of events with longest track > 75cm : 1597 0
+number of events with track start end within 5cm to mc-vtx : 0
+number of events with contained MC tracks : 0
+number of well selected events : 0
+number of NC events selected : 0
+number of anti-Neutrino events selected : 0
+number of Nu_e events selected : 0
+number of events selected cosmic : 1597
+number of nu_mu events out of FV : 0
+event selection efficiency : -nan
+event selection correctness : 0
+
+Mod--------------------------------------------------------------------------
+
+Track Reco Product Name : pandoraNu  Vertex Reco Product Name : pandoraNu
+Total POT : 6.16088e+17
+number of CC events with vertex in FV : 182303
+number of events with flash > 50 PE : 45389 0
+number of events with track start/end within 5cm to vtx : 44992 0
+number of events with vtx in FV : 25065 0
+number of events with tracks matched within 80cm to flash : 7360 0
+number of events with contained tracks : 3615 0
+number of events with longest track > 75cm : 1118 0
+number of events with track start end within 5cm to mc-vtx : 0
+number of events with contained MC tracks : 0
+number of well selected events : 0
+number of NC events selected : 0
+number of anti-Neutrino events selected : 0
+number of Nu_e events selected : 0
+number of events selected cosmic : 1118
+number of nu_mu events out of FV : 0
+event selection efficiency : -nan
+event selection correctness : 0
+
+Track Reco Product Name : pandoraNu  Vertex Reco Product Name : pandoraNu
+Total POT : 6.28727e+17
+number of CC events with vertex in FV : 182303
+number of events with flash > 50 PE : 45184 0
+number of events with track start/end within 5cm to vtx : 44802 0
+number of events with vtx in FV : 24858 0
+number of events with tracks matched within 80cm to flash : 7241 0
+number of events with contained tracks : 3532 0
+number of events with longest track > 75cm : 1009 0
+number of events with track start end within 5cm to mc-vtx : 0
+number of events with contained MC tracks : 0
+number of well selected events : 0
+number of NC events selected : 0
+number of anti-Neutrino events selected : 0
+number of Nu_e events selected : 0
+number of events selected cosmic : 1009
+number of nu_mu events out of FV : 0
+event selection efficiency : -nan
+event selection correctness : 0
+
+Track Reco Product Name : pandoraNu  Vertex Reco Product Name : pandoraNu
+Total POT : 6.09627e+17
+number of CC events with vertex in FV : 182304
+number of events with flash > 50 PE : 45350 0
+number of events with track start/end within 5cm to vtx : 44950 0
+number of events with vtx in FV : 24904 0
+number of events with tracks matched within 80cm to flash : 7458 0
+number of events with contained tracks : 3575 0
+number of events with longest track > 75cm : 1086 0
+number of events with track start end within 5cm to mc-vtx : 0
+number of events with contained MC tracks : 0
+number of well selected events : 0
+number of NC events selected : 0
+number of anti-Neutrino events selected : 0
+number of Nu_e events selected : 0
+number of events selected cosmic : 1086
+number of nu_mu events out of FV : 0
+event selection efficiency : -nan
+event selection correctness : 0
+
+
+Before split!------------------------------------------------------------------
+
+Track Reco Product Name : pandoraNu  Vertex Reco Product Name : pandoraNu
+Total POT : 9.07113e+17
+number of CC events with vertex in FV : 282738
+number of events with flash > 50 PE : 70220 0
+number of events with track start/end within 5cm to vtx : 69616 0
+number of events with vtx in FV : 38669 0
+number of events with tracks matched within 80cm to flash : 11340 0
+number of events with contained tracks : 5492 0
+number of events with longest track > 75cm : 1628 0
+number of events with track start end within 5cm to mc-vtx : 0
+number of events with contained MC tracks : 0
+number of well selected events : 0
+number of NC events selected : 0
+number of anti-Neutrino events selected : 0
+number of Nu_e events selected : 0
+number of events selected cosmic : 1628
+number of nu_mu events out of FV : 0
+event selection efficiency : -nan
+event selection correctness : 0
+
+Track Reco Product Name : pandoraNu  Vertex Reco Product Name : pandoraNu
+Total POT : 9.02781e+17
+number of CC events with vertex in FV : 282739
+number of events with flash > 50 PE : 69396 0
+number of events with track start/end within 5cm to vtx : 68784 0
+number of events with vtx in FV : 38113 0
+number of events with tracks matched within 80cm to flash : 11152 0
+number of events with contained tracks : 5429 0
+number of events with longest track > 75cm : 1736 0
+number of events with track start end within 5cm to mc-vtx : 0
+number of events with contained MC tracks : 0
+number of well selected events : 0
+number of NC events selected : 0
+number of anti-Neutrino events selected : 0
+number of Nu_e events selected : 0
+number of events selected cosmic : 1736
+number of nu_mu events out of FV : 0
+event selection efficiency : -nan
+event selection correctness : 0
+
+
+OOOOOOOOOOOOOOOOOLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLDDDDDDDDDDDDDDDDDDDDDDDDDD
+
+
+pandoraNu pandoraNu ------------------------------------------------------
+
+Track Reco Product Name : pandoraNu  Vertex Reco Product Name : pandoraNu
+Total POT : 8.99803e+17
+number of CC events with vertex in FV : 204478
+number of events with flash > 50 PE : 56885
+number of events with track start/end within 5cm to vtx : 56342
+number of events with vtx in FV : 31487
+number of events with tracks matched within 80cm to flash : 9320
+number of events with contained tracks : 4516
+number of events with longest track > 75cm : 1436
+number of events with track start end within 5cm to mc-vtx : 0
+number of events with contained MC tracks : 0
+number of well selected events : 0
+number of NC events selected : 0
+number of anti-Neutrino events selected : 0
+number of Nu_e events selected : 0
+number of events selected cosmic : 1436
+event selection efficiency : -nan
+event selection correctness : 0
+
+Track Reco Product Name : pandoraNu  Vertex Reco Product Name : pandoraNu
+Total POT : 7.87508e+17
+number of CC events with vertex in FV : 179041
+number of events with flash > 50 PE : 49549
+number of events with track start/end within 5cm to vtx : 49070
+number of events with vtx in FV : 27307
+number of events with tracks matched within 80cm to flash : 7985
+number of events with contained tracks : 3866
+number of events with longest track > 75cm : 1192
+number of events with track start end within 5cm to mc-vtx : 0
+number of events with contained MC tracks : 0
+number of well selected events : 0
+number of NC events selected : 0
+number of anti-Neutrino events selected : 0
+number of Nu_e events selected : 0
+number of events selected cosmic : 1192
+event selection efficiency : -nan
+event selection correctness : 0
+
+New method---------------------------------------------------------------------------
+
+Track Reco Product Name : pandoraNu  Vertex Reco Product Name : pandoraNu
+Total POT : 8.52418e+17
+number of CC events with vertex in FV : 193581
+number of events with flash > 50 PE : 53883 53883
+number of events with tracks matched within 80cm to flash : 35965 35965
+number of events with track start/end within 5cm to vtx : 35965 35965
+number of events with vtx in FV : 19207 19207
+number of events with contained tracks : 7696 7696
+number of events with longest track > 75cm : 2417 2417
+number of events with track start end within 5cm to mc-vtx : 0
+number of events with contained MC tracks : 0
+number of well selected events : 0
+number of NC events selected : 0
+number of anti-Neutrino events selected : 0
+number of Nu_e events selected : 0
+number of events selected cosmic : 2417
+event selection efficiency : -nan
+event selection correctness : 0
+
+Track Reco Product Name : pandoraNu  Vertex Reco Product Name : pandoraNu
+Total POT : 8.34894e+17
+number of CC events with vertex in FV : 189938
+number of events with flash > 50 PE : 52551 52551
+number of events with tracks matched within 80cm to flash : 34996 34996
+number of events with track start/end within 5cm to vtx : 34996 34996
+number of events with vtx in FV : 18681 18681
+number of events with contained tracks : 7360 7360
+number of events with longest track > 75cm : 2253 2253
+number of events with track start end within 5cm to mc-vtx : 0
+number of events with contained MC tracks : 0
+number of well selected events : 0
+number of NC events selected : 0
+number of anti-Neutrino events selected : 0
+number of Nu_e events selected : 0
+number of events selected cosmic : 2253
+event selection efficiency : -nan
+event selection correctness : 0
+

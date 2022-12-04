@@ -1,0 +1,63 @@
+%!PS
+%%BoundingBox: 0 0 40 20 
+%%HiResBoundingBox: 0 0 39.85046 19.92523 
+%%Creator: MetaPost 2.000
+%%CreationDate: 2022.06.28:0127
+%%Pages: 1
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0 0 0 setrgbcolor 0 0.99626 dtransform truncate idtransform setlinewidth pop
+ [] 0 setdash 1 setlinecap 1 setlinejoin 10 setmiterlimit
+newpath 8.96645 9.96262 moveto
+10.8967 9.96262 lineto stroke
+newpath 12.82695 9.96262 moveto
+14.7572 9.96262 lineto stroke
+newpath 16.68745 9.96262 moveto
+18.6177 9.96262 lineto stroke
+newpath 20.54796 9.96262 moveto
+22.47821 9.96262 lineto stroke
+newpath 24.40846 9.96262 moveto
+26.3387 9.96262 lineto stroke
+newpath 28.26895 9.96262 moveto
+30.1992 9.96262 lineto stroke
+newpath 32.12946 9.96262 moveto
+34.05971 9.96262 lineto stroke
+newpath 35.98996 9.96262 moveto
+37.92021 9.96262 lineto stroke
+newpath 22.28754 8.12845 moveto
+29.13266 9.96262 lineto
+22.28754 11.79678 lineto
+ closepath fill
+ 0.99626 0 dtransform exch truncate exch idtransform pop setlinewidth
+newpath 7.60016 9.03758 moveto
+6.99765 7.53127 lineto stroke
+newpath 6.39523 6.02509 moveto
+5.79272 4.51877 lineto stroke
+newpath 5.19022 3.0125 moveto
+4.5878 1.50632 lineto stroke
+ 0 0.99626 dtransform truncate idtransform setlinewidth pop
+newpath 6.97389 9.96262 moveto
+5.23041 9.96262 lineto stroke
+newpath 3.48692 9.96262 moveto
+1.74348 9.96262 lineto stroke
+ 0.99626 0 dtransform exch truncate exch idtransform pop setlinewidth
+newpath 7.60016 10.88765 moveto
+6.99765 12.39397 lineto stroke
+newpath 6.39523 13.90015 moveto
+5.79272 15.40646 lineto stroke
+newpath 5.19022 16.91273 moveto
+4.5878 18.41891 lineto stroke
+ 0 0.99626 dtransform truncate idtransform setlinewidth pop
+newpath 8.96643 9.96262 moveto
+8.96643 10.22685 8.86145 10.48024 8.67462 10.66707 curveto
+8.4878 10.8539 8.2344 10.95888 7.97017 10.95888 curveto
+7.70593 10.95888 7.45255 10.8539 7.26572 10.66707 curveto
+7.07889 10.48024 6.9739 10.22685 6.9739 9.96262 curveto
+6.9739 9.69838 7.07889 9.44499 7.26572 9.25816 curveto
+7.45255 9.07133 7.70593 8.96635 7.97017 8.96635 curveto
+8.2344 8.96635 8.4878 9.07133 8.67462 9.25816 curveto
+8.86145 9.44499 8.96643 9.69838 8.96643 9.96262 curveto closepath
+gsave fill grestore stroke
+showpage
+%%EOF

@@ -1,0 +1,37 @@
+%!PS
+%%BoundingBox: 0 0 40 20 
+%%HiResBoundingBox: 0 0 39.85046 19.92523 
+%%Creator: MetaPost 2.000
+%%CreationDate: 2022.06.28:0127
+%%Pages: 1
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0 0 0 setrgbcolor 0 0.99626 dtransform truncate idtransform setlinewidth pop
+ [] 0 setdash 1 setlinecap 1 setlinejoin 10 setmiterlimit
+newpath 8.96645 9.96262 moveto
+39.85046 9.96262 lineto stroke
+newpath 22.28754 8.12845 moveto
+29.13266 9.96262 lineto
+22.28754 11.79678 lineto
+ closepath fill
+newpath 7.60016 9.03758 moveto
+8.84767 6.79128 lineto
+4.54517 6.76494 lineto
+7.04024 2.2725 lineto
+2.73773 2.24617 lineto
+3.98529 0 lineto stroke
+newpath 7.60016 10.88765 moveto
+3.98529 19.92523 lineto stroke
+newpath 8.96643 9.96262 moveto
+8.96643 10.22685 8.86145 10.48024 8.67462 10.66707 curveto
+8.4878 10.8539 8.2344 10.95888 7.97017 10.95888 curveto
+7.70593 10.95888 7.45255 10.8539 7.26572 10.66707 curveto
+7.07889 10.48024 6.9739 10.22685 6.9739 9.96262 curveto
+6.9739 9.69838 7.07889 9.44499 7.26572 9.25816 curveto
+7.45255 9.07133 7.70593 8.96635 7.97017 8.96635 curveto
+8.2344 8.96635 8.4878 9.07133 8.67462 9.25816 curveto
+8.86145 9.44499 8.96643 9.69838 8.96643 9.96262 curveto closepath
+gsave fill grestore stroke
+showpage
+%%EOF

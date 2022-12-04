@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="80mm"
+   height="80mm"
+   viewBox="0 0 80 80"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="WireTransparency.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       id="clipPath854"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path852"
+         d="M 0,0 H 595 V 842 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath876"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path874"
+         d="m 49.362,17.4754 h 487.08 V 502.272 H 49.362 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath1170"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1168"
+         d="M 29.7631,153.425 H 515.894 V 638.389 H 29.7631 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath1204"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1202"
+         d="M 0,792 H 612 V 0 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath2104"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2102"
+         d="M 0,792 H 612 V 0 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath2116"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2114"
+         d="M 0,792 H 612 V 0 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath2132"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2130"
+         d="M 0,792 H 612 V 0 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath2144"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2142"
+         d="M 0,792 H 612 V 0 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath2256"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2254"
+         d="M 0,792 H 612 V 0 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath2268"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2266"
+         d="M 0,792 H 612 V 0 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath2316"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2314"
+         d="M 0,792 H 612 V 0 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath2328"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2326"
+         d="M 0,792 H 612 V 0 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath2372"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2370"
+         d="M 0,792 H 612 V 0 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath2384"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2382"
+         d="M 0,792 H 612 V 0 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath2396"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path2394"
+         d="M 0,792 H 612 V 0 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3044"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3042"
+         d="M 28.957,154.947 H 514.965 V 639.39 H 28.957 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3078"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3076"
+         d="M 0,0 H 612 V 792 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4426"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4424"
+         d="M 27.3918,154.947 H 516.531 V 639.39 H 27.3918 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath4460"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4458"
+         d="M 0,0 H 612 V 792 H 0 Z" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="275.95563"
+     inkscape:cy="188.43922"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g870"
+     showgrid="false"
+     showguides="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="833"
+     inkscape:window-x="1200"
+     inkscape:window-y="1104"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-217)">
+    <g
+       transform="matrix(0.14667441,0,0,-0.14667441,59.562239,190.78351)"
+       id="g866">
+      <g
+         transform="translate(-49.362,-17.475)"
+         id="g868">
+        <g
+           id="g870">
+          <g
+             id="g14578">
+            <g
+               transform="translate(-232.53161,-221.06346)"
+               id="g878">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path880"
+                 style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 0,0 V -4.25 M 0,-431 v 4.25 M -43,-431 H 387.75 V 0 H -43 Z" />
+            </g>
+            <g
+               transform="translate(-232.53161,-647.81346)"
+               id="g882">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path884"
+                 style="fill:none;stroke:#bfbfbf;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+                 d="M 0,0 V 422.5" />
+            </g>
+            <g
+               transform="translate(-189.53161,-221.06346)"
+               id="g886">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path888"
+                 style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 0,0 V -4.25 M 0,-431 v 4.25" />
+            </g>
+            <g
+               transform="translate(-189.53161,-647.81346)"
+               id="g890">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path892"
+                 style="fill:none;stroke:#bfbfbf;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+                 d="M 0,0 V 422.5" />
+            </g>
+            <g
+               transform="translate(-146.28161,-221.06346)"
+               id="g894">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path896"
+                 style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 0,0 V -4.25 M 0,-431 v 4.25" />
+            </g>
+            <g
+               transform="translate(-146.28161,-647.81346)"
+               id="g898">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path900"
+                 style="fill:none;stroke:#bfbfbf;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+                 d="M 0,0 V 422.5" />
+            </g>
+            <g
+               transform="translate(-103.28161,-221.06346)"
+               id="g902">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path904"
+                 style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 0,0 V -4.25 M 0,-431 v 4.25" />
+            </g>
+            <g
+               transform="translate(-103.28161,-647.81346)"
+               id="g906">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path908"
+                 style="fill:none;stroke:#bfbfbf;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+                 d="M 0,0 V 422.5" />
+            </g>
+            <g
+               transform="translate(-60.03161,-221.06346)"
+               id="g910">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path912"
+                 style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 0,0 V -4.25 M 0,-431 v 4.25" />
+            </g>
+            <g
+               transform="translate(-60.03161,-647.81346)"
+               id="g914">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path916"
+                 style="fill:none;stroke:#bfbfbf;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+                 d="M 0,0 V 422.5" />
+            </g>
+            <g
+               transform="translate(-17.03161,-221.06346)"
+               id="g918">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path920"
+                 style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 0,0 V -4.25 M 0,-431 v 4.25" />
+            </g>
+            <g
+               transform="translate(-17.03161,-647.81346)"
+               id="g922">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path924"
+                 style="fill:none;stroke:#bfbfbf;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+                 d="M 0,0 V 422.5" />
+            </g>
+            <g
+               transform="translate(25.96839,-221.06346)"
+               id="g926">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path928"
+                 style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 0,0 V -4.25 M 0,-431 v 4.25" />
+            </g>
+            <g
+               transform="translate(25.96839,-647.81346)"
+               id="g930">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path932"
+                 style="fill:none;stroke:#bfbfbf;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+                 d="M 0,0 V 422.5" />
+            </g>
+            <g
+               transform="translate(69.21839,-221.06346)"
+               id="g934">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path936"
+                 style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 0,0 V -4.25 M 0,-431 v 4.25" />
+            </g>
+            <g
+               transform="translate(69.21839,-647.81346)"
+               id="g938">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path940"
+                 style="fill:none;stroke:#bfbfbf;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+                 d="M 0,0 V 422.5" />
+            </g>
+            <g
+               transform="translate(112.21839,-221.06346)"
+               id="g942">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path944"
+                 style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 0,0 V -4.25 M 0,-431 v 4.25" />
+            </g>
+            <g
+               transform="translate(112.21839,-647.81346)"
+               id="g946">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path948"
+                 style="fill:none;stroke:#bfbfbf;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+                 d="M 0,0 V 422.5" />
+            </g>
+            <g
+               transform="translate(155.21839,-609.06346)"
+               id="g950">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path952"
+                 style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 0,0 h -4.25 m -426.5,0 h 4.25" />
+            </g>
+            <g
+               transform="translate(-271.28161,-609.06346)"
+               id="g954">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path956"
+                 style="fill:none;stroke:#bfbfbf;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+                 d="M 0,0 H 422.25" />
+            </g>
+            <g
+               transform="translate(155.21839,-565.81346)"
+               id="g958">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path960"
+                 style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 0,0 h -4.25 m -426.5,0 h 4.25" />
+            </g>
+            <g
+               transform="translate(-271.28161,-565.81346)"
+               id="g962">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path964"
+                 style="fill:none;stroke:#bfbfbf;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+                 d="M 0,0 H 422.25" />
+            </g>
+            <g
+               transform="translate(155.21839,-522.81346)"
+               id="g966">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path968"
+                 style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 0,0 h -4.25 m -426.5,0 h 4.25" />
+            </g>
+            <g
+               transform="translate(-271.28161,-522.81346)"
+               id="g970">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path972"
+                 style="fill:none;stroke:#bfbfbf;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+                 d="M 0,0 H 422.25" />
+            </g>
+            <g
+               transform="translate(155.21839,-479.56346)"
+               id="g974">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path976"
+                 style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 0,0 h -4.25 m -426.5,0 h 4.25" />
+            </g>
+            <g
+               transform="translate(-271.28161,-479.56346)"
+               id="g978">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path980"
+                 style="fill:none;stroke:#bfbfbf;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+                 d="M 0,0 H 422.25" />
+            </g>
+            <g
+               transform="translate(155.21839,-436.56346)"
+               id="g982">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path984"
+                 style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 0,0 h -4.25 m -426.5,0 h 4.25" />
+            </g>
+            <g
+               transform="translate(-271.28161,-436.56346)"
+               id="g986">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path988"
+                 style="fill:none;stroke:#bfbfbf;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+                 d="M 0,0 H 422.25" />
+            </g>
+            <g
+               transform="translate(155.21839,-393.56346)"
+               id="g990">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path992"
+                 style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 0,0 h -4.25 m -426.5,0 h 4.25" />
+            </g>
+            <g
+               transform="translate(-271.28161,-393.56346)"
+               id="g994">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path996"
+                 style="fill:none;stroke:#bfbfbf;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+                 d="M 0,0 H 422.25" />
+            </g>
+            <g
+               transform="translate(155.21839,-350.31346)"
+               id="g998">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1000"
+                 style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 0,0 h -4.25 m -426.5,0 h 4.25" />
+            </g>
+            <g
+               transform="translate(-271.28161,-350.31346)"
+               id="g1002">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1004"
+                 style="fill:none;stroke:#bfbfbf;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+                 d="M 0,0 H 422.25" />
+            </g>
+            <g
+               transform="translate(155.21839,-307.31346)"
+               id="g1006">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1008"
+                 style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 0,0 h -4.25 m -426.5,0 h 4.25" />
+            </g>
+            <g
+               transform="translate(-271.28161,-307.31346)"
+               id="g1010">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1012"
+                 style="fill:none;stroke:#bfbfbf;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+                 d="M 0,0 H 422.25" />
+            </g>
+            <g
+               transform="translate(155.21839,-264.06346)"
+               id="g1014">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1016"
+                 style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 0,0 h -4.25 m -426.5,0 h 4.25" />
+            </g>
+            <g
+               transform="translate(-271.28161,-264.06346)"
+               id="g1018">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1020"
+                 style="fill:none;stroke:#bfbfbf;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+                 d="M 0,0 H 422.25" />
+            </g>
+            <g
+               transform="translate(-252.53161,-608.56346)"
+               id="g1022">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1024"
+                 style="fill:#b300ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 -0.25,0.5 -0.5,1 -1,1.25 H -2 L -2.5,1 -3,0.5 V 0 L -3.25,-0.5 -3,-1 V -1.25 L -2.5,-1.75 -2,-2 h 1 l 0.5,0.25 0.25,0.5 L 0,-1 Z" />
+            </g>
+            <g
+               transform="translate(-188.03161,-608.56346)"
+               id="g1026">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1028"
+                 style="fill:#b300ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 V 0.5 L -0.5,1 -1,1.25 H -2 L -2.25,1 -2.75,0.5 -3,0 v -1 l 0.25,-0.25 0.5,-0.5 L -2,-2 h 1 l 0.5,0.25 0.5,0.5 V -1 l 0.25,0.5 z" />
+            </g>
+            <g
+               transform="translate(-123.28161,-608.56346)"
+               id="g1030">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1032"
+                 style="fill:#b300ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 -0.25,0.5 -0.5,1 -1,1.25 H -2 L -2.5,1 -2.75,0.5 -3,0 -3.25,-0.5 -3,-1 -2.75,-1.25 -2.5,-1.75 -2,-2 h 1 l 0.5,0.25 0.25,0.5 L 0,-1 Z" />
+            </g>
+            <g
+               transform="translate(-58.53161,-608.56346)"
+               id="g1034">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1036"
+                 style="fill:#b300ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 -0.25,0.5 -0.75,1 -1,1.25 H -2 L -2.5,1 -3,0.5 -3.25,0 V -1 L -3,-1.25 -2.5,-1.75 -2,-2 h 1 l 0.25,0.25 0.5,0.5 L 0,-1 Z" />
+            </g>
+            <g
+               transform="translate(5.96839,-608.56346)"
+               id="g1038">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1040"
+                 style="fill:#b300ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 -0.25,0.5 -0.5,1 -1,1.25 H -2 L -2.5,1 -2.75,0.5 -3,0 V -1 L -2.75,-1.25 -2.5,-1.75 -2,-2 h 1 l 0.5,0.25 0.25,0.5 L 0,-1 0.25,-0.5 Z" />
+            </g>
+            <g
+               transform="translate(70.71839,-608.56346)"
+               id="g1042">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1044"
+                 style="fill:#b300ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 -0.25,0.5 -0.5,1 -1,1.25 H -2 L -2.5,1 -3,0.5 V 0 L -3.25,-0.5 -3,-1 V -1.25 L -2.5,-1.75 -2,-2 h 1 l 0.5,0.25 0.25,0.5 L 0,-1 Z" />
+            </g>
+            <g
+               transform="translate(135.21839,-608.56346)"
+               id="g1046">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1048"
+                 style="fill:#b300ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 V 0.5 L -0.5,1 -1,1.25 H -2 L -2.25,1 -2.75,0.5 -3,0 v -1 l 0.25,-0.25 0.5,-0.5 L -2,-2 h 1 l 0.5,0.25 0.5,0.5 V -1 l 0.25,0.5 z" />
+            </g>
+            <g
+               transform="translate(-252.53161,-543.81346)"
+               id="g1050">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1052"
+                 style="fill:#b300ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 -0.25,0.5 -0.5,0.75 -1,1 H -2 L -2.5,0.75 -3,0.5 V 0 L -3.25,-0.5 -3,-1 V -1.5 L -2.5,-1.75 -2,-2 h 1 l 0.5,0.25 0.25,0.25 L 0,-1 Z" />
+            </g>
+            <g
+               transform="translate(-188.03161,-543.81346)"
+               id="g1054">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1056"
+                 style="fill:#b300ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 V 0.5 L -0.5,0.75 -1,1 H -2 L -2.25,0.75 -2.75,0.5 -3,0 v -1 l 0.25,-0.5 0.5,-0.25 L -2,-2 h 1 L -0.5,-1.75 0,-1.5 V -1 l 0.25,0.5 z" />
+            </g>
+            <g
+               transform="translate(-123.28161,-543.81346)"
+               id="g1058">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1060"
+                 style="fill:#b300ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 -0.25,0.5 -0.5,0.75 -1,1 H -2 L -2.5,0.75 -2.75,0.5 -3,0 -3.25,-0.5 -3,-1 -2.75,-1.5 -2.5,-1.75 -2,-2 h 1 l 0.5,0.25 0.25,0.25 L 0,-1 Z" />
+            </g>
+            <g
+               transform="translate(-58.53161,-543.81346)"
+               id="g1062">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1064"
+                 style="fill:#b300ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 -0.25,0.5 -0.75,0.75 -1,1 H -2 L -2.5,0.75 -3,0.5 -3.25,0 V -1 L -3,-1.5 -2.5,-1.75 -2,-2 h 1 l 0.25,0.25 0.5,0.25 L 0,-1 Z" />
+            </g>
+            <g
+               transform="translate(5.96839,-543.81346)"
+               id="g1066">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1068"
+                 style="fill:#b300ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 -0.25,0.5 -0.5,0.75 -1,1 H -2 L -2.5,0.75 -2.75,0.5 -3,0 V -1 L -2.75,-1.5 -2.5,-1.75 -2,-2 h 1 l 0.5,0.25 0.25,0.25 L 0,-1 0.25,-0.5 Z" />
+            </g>
+            <g
+               transform="translate(70.71839,-543.81346)"
+               id="g1070">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1072"
+                 style="fill:#b300ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 -0.25,0.5 -0.5,0.75 -1,1 H -2 L -2.5,0.75 -3,0.5 V 0 L -3.25,-0.5 -3,-1 V -1.5 L -2.5,-1.75 -2,-2 h 1 l 0.5,0.25 0.25,0.25 L 0,-1 Z" />
+            </g>
+            <g
+               transform="translate(135.21839,-543.81346)"
+               id="g1074">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1076"
+                 style="fill:#b300ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 V 0.5 L -0.5,0.75 -1,1 H -2 L -2.25,0.75 -2.75,0.5 -3,0 v -1 l 0.25,-0.5 0.5,-0.25 L -2,-2 h 1 L -0.5,-1.75 0,-1.5 V -1 l 0.25,0.5 z" />
+            </g>
+            <g
+               transform="translate(-252.53161,-479.06346)"
+               id="g1078">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1080"
+                 style="fill:#b300ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 -0.25,0.25 -0.5,0.75 -1,1 H -2 L -2.5,0.75 -3,0.25 V 0 L -3.25,-0.5 -3,-1 V -1.5 L -2.5,-2 -2,-2.25 h 1 L -0.5,-2 -0.25,-1.5 0,-1 Z" />
+            </g>
+            <g
+               transform="translate(-188.03161,-479.06346)"
+               id="g1082">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1084"
+                 style="fill:#b300ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 V 0.25 L -0.5,0.75 -1,1 H -2 L -2.25,0.75 -2.75,0.25 -3,0 V -1 L -2.75,-1.5 -2.25,-2 -2,-2.25 h 1 L -0.5,-2 0,-1.5 V -1 l 0.25,0.5 z" />
+            </g>
+            <g
+               transform="translate(-123.28161,-479.06346)"
+               id="g1086">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1088"
+                 style="fill:#b300ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 -0.25,0.25 -0.5,0.75 -1,1 H -2 L -2.5,0.75 -2.75,0.25 -3,0 -3.25,-0.5 -3,-1 -2.75,-1.5 -2.5,-2 -2,-2.25 h 1 L -0.5,-2 -0.25,-1.5 0,-1 Z" />
+            </g>
+            <g
+               transform="translate(-58.53161,-479.06346)"
+               id="g1090">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1092"
+                 style="fill:#b300ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 -0.25,0.25 -0.75,0.75 -1,1 H -2 L -2.5,0.75 -3,0.25 -3.25,0 V -1 L -3,-1.5 -2.5,-2 -2,-2.25 h 1 L -0.75,-2 -0.25,-1.5 0,-1 Z" />
+            </g>
+            <g
+               transform="translate(5.96839,-479.06346)"
+               id="g1094">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1096"
+                 style="fill:#b300ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 -0.25,0.25 -0.5,0.75 -1,1 H -2 L -2.5,0.75 -2.75,0.25 -3,0 V -1 L -2.75,-1.5 -2.5,-2 -2,-2.25 h 1 L -0.5,-2 -0.25,-1.5 0,-1 0.25,-0.5 Z" />
+            </g>
+            <g
+               transform="translate(70.71839,-479.06346)"
+               id="g1098">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1100"
+                 style="fill:#b300ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 -0.25,0.25 -0.5,0.75 -1,1 H -2 L -2.5,0.75 -3,0.25 V 0 L -3.25,-0.5 -3,-1 V -1.5 L -2.5,-2 -2,-2.25 h 1 L -0.5,-2 -0.25,-1.5 0,-1 Z" />
+            </g>
+            <g
+               transform="translate(135.21839,-479.06346)"
+               id="g1102">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1104"
+                 style="fill:#b300ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="M 0,0 V 0.25 L -0.5,0.75 -1,1 H -2 L -2.25,0.75 -2.75,0.25 -3,0 V -1 L -2.75,-1.5 -2.25,-2 -2,-2.25 h 1 L -0.5,-2 0,-1.5 V -1 l 0.25,0.5 z" />
+            </g>
+            <g
+               transform="translate(133.71839,-221.06346)"
+               id="g1106">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path1108"
+                 style="fill:none;stroke:#ffb300;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 0,0 v -233 l -0.25,-4.75 v -16 H -0.5 v -1 L -0.75,-255 H -1 v -0.25 h -0.25 v -0.25 H -1.5 l -0.25,-0.25 H -2 V -256 h -0.25 l -0.25,-0.25 H -2.75 L -3,-256.5 -3.25,-256.75 -3.5,-257 -3.75,-257.5 H -4 l -0.25,-0.25 -0.25,-0.5 -0.25,-0.25 -0.25,-0.75 -0.25,-0.5 -0.25,-0.5 -0.25,-0.75 -0.25,-0.5 -0.25,-0.75 -0.25,-0.75 v -0.75 l -0.25,-0.75 -0.25,-1 v -0.75 l -0.25,-1 v -1.25 l -0.25,-1.25 V -271 l -0.25,-1.5 V -276 L -8,-277.5 v -7.5 l -0.25,-2.75 V -298 l -0.25,-2 v -3.75 l -0.25,-1.75 V -307 L -9,-308.5 v -1.5 l -0.25,-1.5 v -1.25 l -0.5,-1.75 -0.5,-2.5 v -0.75 l -0.25,-1.25 -0.25,-0.75 -0.25,-1 -0.25,-0.75 -0.25,-1 -0.25,-1 -0.25,-1.5 v -0.5 l -0.25,-1.5 -0.25,-1 -0.25,-1.5 -0.25,-1.5 v -0.5 l -0.25,-2.25 v -1.5 L -13.5,-337 v -4 l -0.25,-2.5 v -8.75 l 0.25,-1.5 v -4.5 l 0.25,-2 0.25,-1.5 v -1.75 l 0.25,-1.25 0.25,-1.5 0.25,-1.25 0.25,-1.25 0.25,-1.25 0.25,-1 0.25,-1.25 0.25,-1 0.25,-1 0.5,-1 0.25,-0.75 0.25,-1 0.5,-0.75 0.75,-1.5 0.25,-0.25 0.75,-1.25 V -381 l 0.75,-1 0.25,-0.25 0.25,-0.25 0.5,-0.75 H -5.5 L -5,-384 h 0.25 l 0.5,-0.75 H -4 l 0.75,-0.75 v -0.25 l 0.5,-0.25 0.25,-0.25 1.25,-0.75 m -3,387 V -24 L -4.5,-212 v -24.25 l -0.25,-2 v -4.25 L -5,-244.25 v -2 l -0.25,-1 v -1 L -5.5,-249 v -1 l -0.25,-1 -0.25,-1 -0.5,-1.25 -0.25,-0.5 -0.25,-0.75 v -0.5 l -0.25,-0.75 H -7.5 l -0.25,-1 -0.25,-0.5 -0.25,-0.75 -0.25,-0.75 v -0.5 l -0.5,-1 -0.25,-1 -0.25,-1.25 -0.25,-1 -0.25,-1.25 v -1 l -0.25,-1.25 -0.25,-1.5 v -1.25 l -0.25,-1.5 V -273 l -0.25,-1.75 v -3.75 l -0.25,-2.25 v -7.75 l -0.25,-2.75 v -5 l -0.25,-2.25 v -4.25 l -0.25,-2 v -1.75 l -0.25,-1.75 v -2 l -0.25,-1.75 -0.5,-3.25 -0.25,-1 -0.25,-1.5 V -319 l -0.25,-1.25 -0.25,-1 -0.25,-1.25 -0.25,-1.25 -0.25,-1.5 v -1.25 l -0.25,-1.5 -0.25,-1.25 -0.25,-1.75 v -1.75 l -0.25,-1.75 v -1.75 L -16,-338 v -18.25 l 0.25,-2 V -360 l 0.25,-1.75 0.25,-1.5 v -1.5 l 0.25,-1.25 0.25,-1.5 0.25,-1 0.25,-1.25 0.25,-1.25 0.25,-1 0.25,-1 0.5,-1 0.25,-0.75 0.5,-1 0.25,-1 0.5,-0.75 0.25,-0.75 0.25,-0.25 0.75,-1 0.25,-0.75 0.25,-0.25 0.75,-0.75 v -0.25 l 1,-1 v -0.25 l 1,-0.75 v -0.25 h 0.25 l 0.75,-0.75 0.75,-0.5 0.5,-0.5 h 0.25 l 0.75,-0.5 v -0.25 L -3,-386.5 h 0.25 l 1.25,-0.75 M -8.5,0 v -24 l -0.25,-92 V -228.25 L -9,-231 v -6.5 l -0.25,-2 v -1.5 l -0.25,-1.75 v -1.5 l -0.25,-1.5 V -247 l -0.25,-1.75 -0.5,-2.25 v -1 l -0.5,-1.25 v -0.5 l -0.25,-1.25 -0.25,-0.75 -0.25,-1 -0.25,-1 -0.25,-1 V -260 l -0.25,-1 -0.25,-0.75 -0.25,-2 -0.25,-1.5 -0.25,-1.5 v -1.75 l -0.25,-1.5 -0.25,-1.75 v -2 l -0.25,-1.75 v -4.5 l -0.25,-2.25 v -5.25 l -0.25,-2.75 V -298 l -0.25,-2.25 v -2.25 l -0.25,-2.25 v -2 l -0.25,-2.25 -0.25,-2.75 -0.25,-2.75 -0.25,-1.25 v -1.75 l -0.25,-1.5 -0.25,-1.5 v -0.75 L -17,-323 l -0.25,-1.5 -0.25,-1.75 v -1 l -0.25,-2.25 -0.25,-1.5 v -2 l -0.25,-2 v -2 l -0.25,-2.25 v -15.25 l 0.25,-2 v -1.75 L -18,-360 v -1.75 l 0.25,-1.5 0.25,-1.5 V -366 l 0.25,-1.25 0.25,-1.25 0.25,-1.25 0.25,-1 0.25,-1.25 0.25,-1 0.5,-1 0.25,-0.5 0.25,-1.25 0.5,-0.75 0.25,-0.75 0.5,-0.75 0.5,-0.75 0.5,-0.75 0.25,-0.5 0.5,-0.75 0.5,-0.75 0.25,-0.25 0.75,-0.75 h 0.25 l 1,-1.25 H -9 l 1,-0.75 0.25,-0.25 0.25,-0.25 0.75,-0.5 0.5,-0.25 L -6,-386 h 0.25 l 0.5,-0.25 0.75,-0.25 0.25,-0.25 h 0.5 L -3.5,-387 h 0.25 l 0.75,-0.25 1,-0.25 M -12.75,0 V -2.5 L -13,-24 v -196.75 l -0.25,-3.5 v -8.5 L -13.5,-235 v -4.5 l -0.25,-2 v -2 l -0.25,-2 -0.25,-2.5 -0.25,-2 v -0.75 l -0.5,-2 v -1 l -0.25,-1.5 -0.25,-1.25 -0.25,-1.25 V -259 l -0.25,-1.5 -0.25,-1.5 -0.25,-1.5 -0.25,-3.5 -0.25,-1.25 -0.25,-2.5 v -2 L -17.5,-275 v -4.5 l -0.25,-2.5 v -8 l -0.25,-2.75 v -5.5 l -0.25,-2.5 v -2.5 l -0.25,-2.5 v -2.75 l -0.25,-3.5 -0.25,-2 -0.25,-2 v -1.75 l -0.25,-1.75 v -1 l -0.25,-2 -0.25,-1.5 -0.25,-2 v -2.5 l -0.25,-0.5 v -3.25 l -0.25,-1.75 v -2.5 l -0.25,-2.25 v -14.75 l 0.25,-2 v -3.5 l 0.25,-1.75 v -1.5 l 0.25,-1.5 0.25,-1.5 v -1.25 l 0.25,-1.25 0.25,-1.25 0.25,-1.25 0.25,-1 0.25,-1.25 0.25,-1 0.5,-1 0.25,-0.75 0.25,-1 0.5,-0.75 0.5,-1 0.25,-0.75 0.5,-0.75 0.5,-0.75 0.5,-0.5 0.5,-0.75 1,-1.25 0.5,-0.25 0.25,-0.25 0.75,-0.75 0.5,-0.25 0.75,-0.5 V -385 l 1.25,-0.75 H -9 l 1,-0.5 0.25,-0.25 0.75,-0.25 h 0.5 l 0.75,-0.25 0.25,-0.25 h 0.75 L -4,-387.5 h 0.25 l 0.5,-0.25 H -3 L -1.5,-388 M -17.25,0 v -210 l -0.25,-7.5 v -16 l -0.25,-2.75 v -2.5 l -0.25,-2.5 v -2.5 l -0.25,-2.75 -0.25,-1.5 v -2.25 l -0.25,-1.5 -0.25,-1.75 v -1.5 l -0.25,-1.5 -0.25,-1.75 V -260 l -0.25,-1.5 -0.25,-2 v -2 l -0.25,-1.25 -0.25,-3.75 v -1.75 l -0.25,-2.75 v -5 l -0.25,-2.75 v -8.75 l -0.25,-3 v -5.75 L -21.5,-303 v -3 l -0.25,-3 -0.25,-4.25 v -1.5 l -0.25,-2.5 v -2 l -0.25,-1 v -2.5 l -0.25,-1.75 -0.25,-2.25 v -3.5 l -0.25,-3.75 v -1.75 l -0.25,-2.75 v -14.75 l 0.25,-2 v -3.5 l 0.25,-1.75 v -3 l 0.25,-1.5 0.25,-1.5 v -1 l 0.25,-1.5 0.25,-1.25 0.25,-1.25 0.25,-1 0.25,-1.25 0.25,-1 0.5,-1 0.25,-1 0.25,-0.75 0.5,-1 0.5,-0.75 0.5,-0.75 0.25,-0.75 0.75,-0.75 0.5,-0.75 0.5,-0.75 0.5,-0.5 0.75,-0.5 0.5,-0.5 0.25,-0.25 1,-0.75 0.5,-0.25 1,-0.5 0.25,-0.25 1,-0.5 h 0.25 l 0.75,-0.25 0.25,-0.25 1.5,-0.25 1,-0.25 h 0.75 l 0.25,-0.25 h 4.5 M -21.5,0 v -139.25 l -0.25,-69.25 v -24.25 L -22,-235.5 v -5.75 l -0.25,-1.75 v -3.25 l -0.25,-2 v -2.25 l -0.25,-1.75 v -2 L -23,-256 v -1.5 l -0.25,-2.5 -0.25,-2 v -2.25 l -0.25,-2.25 v -3 L -24,-272 v -5.5 l -0.25,-3 v -12.75 l -0.25,-3.25 v -6.5 l -0.25,-3.75 v -3 l -0.25,-3.5 v -2.25 l -0.25,-2.5 v -3.5 l -0.25,-3 v -2 l -0.25,-3.25 v -4.5 l -0.25,-2.5 v -19 l 0.25,-2 v -3.5 l 0.25,-1.5 v -2.5 l 0.25,-2.25 0.25,-1.25 0.25,-1.5 V -371 l 0.25,-1.75 0.25,-1 0.25,-1.25 0.25,-1 0.25,-1 0.5,-1 0.25,-0.75 0.25,-1 0.5,-0.75 0.5,-1 0.5,-1 0.5,-0.75 0.5,-0.75 0.75,-0.5 0.5,-0.75 0.5,-0.5 1.25,-0.75 0.25,-0.25 0.75,-0.5 0.5,-0.25 0.75,-0.25 0.75,-0.5 h 0.25 l 0.75,-0.25 h 0.25 l 1.25,-0.5 h 0.75 l 0.75,-0.25 h 5.25 L -4,-389 h 0.75 l 0.5,0.25 1.25,0.25 M -25.75,0 v -81.25 l -0.25,-96 v -54 l -0.25,-3.25 v -8 l -0.25,-4.5 v -4.5 l -0.25,-2 v -4 l -0.25,-3.25 v -4.75 l -0.25,-2.75 v -6.25 l -0.25,-2.25 v -18.5 l -0.25,-3.75 v -12 l -0.25,-2.75 v -6.75 l -0.25,-3.75 v -6 l -0.25,-1 v -27.25 l 0.25,-1.75 v -2.5 l 0.25,-3.5 v -3.25 l 0.25,-0.75 0.25,-2.5 v -1 l 0.25,-1.25 0.25,-1 v -1 l 0.25,-0.5 0.25,-1.5 0.25,-0.75 0.5,-1.5 0.25,-0.75 v -0.25 l 0.75,-1.75 0.25,-0.5 0.75,-1 0.5,-1 0.5,-0.5 0.5,-0.5 0.75,-0.5 0.5,-0.5 0.5,-0.5 0.5,-0.25 0.75,-0.5 0.25,-0.25 1.25,-0.25 0.75,-0.5 h 0.75 L -16,-391 h 1 l 1,-0.25 h 5 l 0.25,0.25 h 0.25 l 1.25,0.25 h 0.75 l 0.25,0.25 h 0.5 l 0.25,0.25 H -5 l 0.5,0.25 0.75,0.25 h 0.25 l 0.5,0.25 0.5,0.25 1.25,0.5 M -30,0 v -9.5 l -0.25,-86.25 v -146.5 l -0.25,-3.25 v -19 l -0.25,-3.25 v -43.75 l -0.25,-4.25 v -52.5 l 0.25,-1.25 v -6 l 0.25,-0.75 V -379 l 0.25,-1.75 V -381 l 0.25,-2.25 v -0.25 l 0.25,-1.25 0.25,-1 V -386 l 0.5,-1.75 0.25,-1 0.75,-1.5 v -0.25 l 0.5,-0.75 h 0.25 l 0.25,-0.75 0.5,-0.25 0.25,-0.5 0.5,-0.25 0.5,-0.25 0.25,-0.5 h 0.5 l 0.5,-0.25 0.25,-0.25 0.75,-0.25 h 0.5 l 0.25,-0.25 h 0.75 l 0.25,-0.25 h 1.5 l 1.75,-0.25 v 0.25 h 2.5 l 1.25,0.25 h 0.5 l 1,0.25 h 0.25 l 0.75,0.25 0.5,0.25 0.75,0.25 h 0.25 l 1.25,0.5 h 0.25 l 0.5,0.25 H -8 l 1.25,0.75 0.75,0.25 h 0.25 v 0.25 l 0.75,0.25 0.25,0.25 0.5,0.25 0.75,0.25 v 0.25 l 0.75,0.25 v 0.25 h 0.25 v 0.25 l 1.25,0.75 M -34.5,0 v -246.75 l 0.25,-3.25 v -17.25 l 0.25,-1 V -308 l 0.25,-5.25 v -25.5 l 0.25,-2.25 v -10.25 l -0.25,-2.25 v -14.75 L -34,-372 v -2.5 l -0.25,-1.25 v -2 L -34.5,-379 v -0.5 l -0.25,-1.75 v -0.5 l -0.25,-1.75 -0.25,-1 -0.25,-1 v -0.25 l -0.5,-1.75 -0.25,-0.75 -0.25,-0.5 -0.5,-1.25 -0.25,-0.25 -0.75,-1 -0.25,-0.25 -0.5,-0.75 -0.5,-0.25 -0.5,-0.25 -0.5,-0.5 -0.25,-0.25 -0.5,-0.25 h -0.5 l -1,-0.5 -1.25,-0.25 h -1 l -1.5,-0.25 h -2.25 l -0.5,0.25 h -1 l -1,0.25 h -0.75 L -52,-394 h -0.75 l -0.25,0.25 -1,0.25 h -0.25 l -1.5,0.5 -1,0.5 H -57 l -1.25,0.5 -0.75,0.5 -0.75,0.25 -0.25,0.25 -0.25,0.25 h -0.25 l -0.75,0.5 H -61.5 L -62,-390 v 0.25 l -1.25,0.75 m 24.5,389 v -235.75 l 0.25,-3.25 v -7.75 l 0.25,-2.5 v -2.25 l 0.25,-2.25 v -3.75 l 0.25,-3 v -5 l 0.25,-2.5 v -8.75 l 0.25,-3.75 V -295 l 0.25,-3.75 v -8 l 0.25,-4 v -8.75 l 0.25,-0.75 v -6.25 l 0.25,-3.75 v -30 L -36.5,-362 v -3.75 l -0.25,-1.75 v -1.75 L -37,-370 l -0.25,-2.25 v -1.25 l -0.25,-1.5 -0.25,-1 v -1 l -0.25,-0.75 -0.25,-1.25 -0.25,-1 -0.25,-0.5 -0.5,-1.5 -0.25,-0.5 -0.25,-0.25 -0.75,-1.75 -0.25,-0.5 -0.75,-1 -0.5,-0.5 -0.5,-0.75 -0.5,-0.5 -0.5,-0.5 -0.5,-0.25 -0.75,-0.5 -0.75,-0.5 -0.75,-0.25 -1,-0.5 -0.5,-0.25 -1,-0.25 h -0.75 l -0.75,-0.25 h -1 l -0.75,-0.25 h -1 l -1,0.25 h -2 l -0.5,0.25 h -1 l -0.25,0.25 h -0.75 l -0.25,0.25 h -0.75 l -0.5,0.25 -0.75,0.25 -0.75,0.25 -0.25,0.25 H -62 l -1.25,0.5 M -43,0 v -95.75 l -0.25,-99.5 v -18.25 l 0.25,-5 v -17 l 0.25,-2.75 v -3 l 0.25,-3 v -1.5 l 0.25,-3 v -1.75 l 0.25,-2 v -1.75 l 0.25,-2 V -258 l 0.25,-2.25 0.25,-1.75 v -2.25 l 0.25,-2.5 v -1 l 0.25,-4.5 v -5.25 l 0.25,-2.75 v -12.5 l 0.25,-3.25 v -6.5 L -40,-306 v -2.5 l 0.25,-4.75 v -2 l 0.25,-2.75 v -3.25 l 0.25,-3 v -2 l 0.25,-3 v -1 l 0.25,-3.5 v -23.5 L -39,-359 v -3.25 l -0.25,-1.75 v -0.5 l -0.25,-2.75 v -1 l -0.25,-1.75 -0.25,-1 -0.25,-1.5 -0.25,-1 -0.25,-1.25 -0.25,-1 -0.25,-1 -0.25,-1 -0.5,-1 -0.25,-0.75 -0.5,-1 -0.5,-0.75 -0.5,-0.75 -0.5,-1 -0.5,-0.75 -0.5,-0.5 -0.5,-0.5 -0.75,-0.75 -0.5,-0.5 -0.75,-0.5 -0.5,-0.25 -0.5,-0.25 -1,-0.5 -0.75,-0.5 H -51 l -0.5,-0.25 -0.75,-0.25 h -0.25 l -1,-0.25 -0.25,-0.25 H -55 l -1.25,-0.25 h -3 v 0.25 h -1 l -1,0.25 h -0.5 L -63,-388.5 M -47.25,0 V -9.5 L -47.5,-95.75 V -219.5 l 0.25,-4 v -11.75 l 0.25,-2.5 v -2.5 l 0.25,-2.25 0.25,-2.75 0.25,-3 V -250 l 0.25,-1.75 v -1.5 l 0.25,-1.5 0.25,-1.5 v -1.25 l 0.25,-2 0.25,-1.5 0.25,-2 v -1.75 l 0.25,-1.75 0.25,-3 v -2 l 0.25,-2.75 V -279 l 0.25,-2.75 v -8.5 l 0.25,-3 V -299 l 0.25,-2.75 v -3 L -43,-308 v -2.25 l 0.25,-3.5 v -1.75 l 0.25,-2.5 0.25,-1.75 v -1 l 0.25,-2.5 V -325 l 0.25,-2.5 v -1.75 l 0.25,-2.25 v -2 l 0.25,-2.5 v -19.25 L -41.5,-357 v -3.5 l -0.25,-1.5 v -1.5 L -42,-365 v -1.5 l -0.25,-1.25 -0.25,-0.75 -0.25,-1.75 -0.25,-1 -0.25,-1.25 -0.25,-1 -0.25,-1 -0.25,-0.75 -0.5,-1.25 -0.25,-0.75 -0.5,-1 -0.25,-0.75 -0.5,-0.75 -0.5,-0.75 -0.5,-1 -0.5,-0.5 -0.75,-0.75 -0.5,-0.5 -0.5,-0.75 -0.5,-0.5 H -50 l -1,-0.75 -0.25,-0.25 -1,-0.5 -0.25,-0.25 -0.75,-0.25 -0.25,-0.25 -1.25,-0.5 -1.5,-0.5 h -1 L -57.5,-388 H -59 l -0.75,-0.25 H -63 M -51.75,0 v -225.5 l 0.25,-3 v -7.5 l 0.25,-2.25 v -2 l 0.25,-2 v -2 l 0.25,-2 0.25,-2.5 0.25,-1.5 0.25,-1.25 0.25,-1.5 v -1 l 0.25,-1.25 0.25,-1.25 v -1 l 0.25,-1.5 0.25,-1.5 0.25,-1.5 0.25,-1.5 0.25,-3 0.25,-1.5 v -2.5 l 0.25,-1.75 v -2.25 l 0.25,-2 v -2.5 l 0.25,-2.25 v -8.25 l 0.25,-2.75 v -5.25 l 0.25,-2.5 v -5 l 0.25,-2.5 0.25,-3.5 0.25,-1.75 v -2.5 l 0.25,-1.5 0.25,-2 0.25,-1.5 v -2 l 0.25,-1.5 0.25,-2 V -328 l 0.25,-0.75 v -3 l 0.25,-1.75 v -2.5 l 0.25,-2 v -17 l -0.25,-1.75 v -3.5 l -0.25,-1.5 -0.25,-1.5 v -1.5 l -0.25,-1.5 -0.25,-1.25 -0.25,-1.25 -0.25,-1.25 -0.25,-1 -0.25,-1 -0.25,-1 -0.25,-1 -0.25,-1 -0.5,-1 -0.25,-0.75 -0.5,-1 -0.5,-0.75 -0.25,-0.75 -0.5,-0.75 -0.5,-0.5 -0.5,-0.75 -0.25,-0.5 -0.75,-0.5 -0.5,-0.5 -0.25,-0.5 -0.75,-0.5 -0.5,-0.5 -0.75,-0.5 -1.25,-0.75 h -0.25 l -1,-0.75 -0.5,-0.25 h -0.5 l -0.5,-0.25 -0.5,-0.25 -0.75,-0.25 H -60 l -0.25,-0.25 H -61 l -0.5,-0.25 -1.5,-0.25 m 7,388 v -232.5 l 0.25,-2.25 v -4 l 0.25,-1.75 v -3 l 0.25,-1.5 0.25,-1.25 v -1.5 l 0.25,-1.75 0.5,-2.5 0.25,-0.5 0.25,-1.5 v -0.25 l 0.5,-1.5 v -0.75 l 0.25,-0.5 0.25,-1.25 0.25,-1 0.25,-1 V -261 l 0.25,-1.75 0.25,-1.5 0.25,-1.5 0.25,-1.5 0.25,-1.75 v -1.5 l 0.25,-1.75 v -2 l 0.25,-2 v -2 l 0.25,-2.25 v -7.75 l 0.25,-2.5 V -296 l 0.25,-2.5 v -4.5 l 0.25,-2.25 v -2 l 0.25,-2.25 0.25,-3 0.25,-1.75 0.25,-1.75 0.25,-1.5 v -1.5 l 0.25,-1.5 0.25,-0.75 V -323 l 0.25,-1.25 0.25,-2 V -327 l 0.25,-2.25 0.25,-1.5 0.25,-2 v -2 l 0.25,-2 V -356 l -0.25,-1.25 v -2.25 l -0.25,-1.5 v -1.5 l -0.25,-1.5 -0.25,-1.5 -0.25,-1.25 V -368 l -0.25,-1.25 -0.25,-1 -0.25,-1.25 -0.5,-1 -0.25,-1 -0.25,-1 -0.5,-1 -0.25,-0.75 -0.5,-0.75 -0.25,-1 -0.5,-0.75 -0.5,-0.5 -0.5,-0.75 -0.5,-0.75 -0.5,-0.5 -0.5,-0.75 -0.5,-0.5 -1.25,-1 v -0.25 l -1,-0.75 -0.5,-0.25 -0.5,-0.5 -0.5,-0.25 -0.75,-0.5 H -59 l -0.75,-0.5 -1,-0.25 -0.5,-0.25 h -0.25 l -0.5,-0.25 -1,-0.25 M -60.25,0 V -95.75 L -60.5,-202 v -13.25 l 0.25,-4.25 v -20.25 l 0.25,-1.5 v -3.5 l 0.25,-1.25 v -1 l 0.25,-1 v -0.75 l 0.25,-0.75 v -1 l 0.25,-1 0.5,-1 0.25,-0.75 V -254 l 0.25,-0.5 0.25,-0.5 0.25,-0.5 v -0.25 l 0.5,-1 0.25,-0.5 0.25,-0.75 0.25,-0.75 V -259 l 0.25,-1 0.25,-1 0.5,-1.25 0.25,-1 v -1.25 l 0.25,-1 0.25,-1.25 V -268 l 0.25,-1.25 0.25,-1.5 v -1.5 l 0.25,-1.75 v -3.75 l 0.25,-2.25 v -7.5 l 0.25,-2.75 v -7.5 L -53,-300 v -2 l 0.25,-2 v -3.5 l 0.25,-2 0.25,-1.75 0.25,-2.25 0.25,-2.25 0.25,-1.25 0.25,-1.25 0.25,-1.25 0.25,-1 v -0.75 l 0.25,-1.5 0.25,-1.25 0.25,-1.5 v -0.5 l 0.25,-2 0.25,-1.25 0.25,-1.75 v -1.75 l 0.25,-1.75 v -1.5 l 0.25,-1.25 V -342 l 0.25,-3 v -6.5 l -0.25,-2.5 v -2 l -0.25,-2 v -1.75 l -0.25,-1.75 v -1.5 l -0.25,-1.5 -0.25,-1.25 -0.25,-1.5 -0.25,-1.25 -0.25,-1 -0.25,-1.25 -0.25,-1 -0.25,-1 -0.25,-1 -0.25,-0.75 -0.5,-1 -0.25,-1 -0.5,-0.75 -0.5,-0.75 -0.25,-0.5 -0.5,-1 -0.25,-0.5 -0.25,-0.25 -0.75,-1 -1,-1.25 -0.25,-0.25 -0.75,-0.75 -0.5,-0.25 -0.25,-0.5 -0.25,-0.25 -0.5,-0.25 -0.5,-0.5 h -0.25 l -0.5,-0.5 H -60.5 V -386 l -0.75,-0.25 -0.5,-0.25 -1.25,-0.75 M -64.5,0 v -9.5 l -0.25,-80.75 V -253.5 l -0.25,-0.25 v -1 l -0.25,-0.5 h -0.25 l -0.5,-0.25 -0.25,-0.25 H -66.5 V -256 h -0.25 l -0.5,-0.25 -0.25,-0.25 -0.25,-0.25 -0.5,-0.25 v -0.25 l -0.25,-0.25 -0.25,-0.25 -0.25,-0.5 -0.25,-0.25 -0.25,-0.5 -0.5,-0.75 -0.25,-0.5 -0.25,-0.5 v -0.75 l -0.25,-0.5 -0.25,-0.75 -0.25,-0.75 v -0.75 l -0.25,-1 V -266 l -0.25,-1 -0.25,-1.25 v -2.5 l -0.25,-1.25 v -1.75 l -0.25,-1.75 v -6.5 l -0.25,-2.5 v -8.25 l -0.25,-2.5 v -6.5 l -0.25,-1.75 v -3.25 l -0.25,-1.5 v -1.5 l -0.25,-1.5 -0.25,-1.25 -0.25,-1.5 -0.5,-2.75 v -0.5 l -0.25,-1.5 -0.25,-0.75 -0.25,-1 -0.25,-0.75 -0.25,-0.75 -0.25,-1.25 -0.25,-1 V -325 l -0.25,-1.25 -0.25,-1 -0.25,-1.5 -0.25,-1.25 v -1.5 l -0.25,-0.75 v -2 l -0.25,-1.5 v -2 l -0.25,-1.75 v -14.25 L -78,-356 v -3.75 l 0.25,-1.75 0.25,-1.5 v -1.5 l 0.25,-1.5 0.25,-1.25 0.25,-1.25 0.25,-1.25 0.25,-1 0.25,-1.25 0.25,-1 0.5,-1 0.25,-1 v -0.25 l 0.75,-1.5 0.25,-0.5 v -0.5 l 0.75,-1.25 0.25,-0.25 0.5,-1 0.25,-0.25 0.5,-0.75 0.25,-0.5 0.25,-0.25 0.75,-0.75 V -383 l 0.25,-0.25 0.5,-0.5 V -384 l 0.5,-0.25 v -0.25 l 0.75,-0.5 0.75,-0.75 0.5,-0.5 L -66,-387 M -69,0 v -230.5 l -0.25,-2.75 V -241 l -0.25,-1.25 v -2.5 l -0.25,-1.25 v -1.75 l -0.25,-1 -0.25,-1 v -0.75 l -0.25,-1 -0.75,-2 v -0.5 l -0.5,-0.75 v -0.5 l -0.25,-0.25 -0.25,-1 -0.25,-0.5 -0.25,-1 -0.25,-0.5 -0.25,-0.75 -0.25,-0.5 -0.25,-1.25 -0.25,-1 -0.25,-1.25 -0.25,-1 v -1.25 l -0.25,-1.25 L -75,-268 v -1.25 l -0.25,-1.5 v -1.5 L -75.5,-274 v -1.75 l -0.25,-2 v -4.5 L -76,-285 v -7.75 l -0.25,-2.5 V -300 l -0.25,-2 v -3.75 l -0.25,-2 -0.25,-1.75 v -1.75 l -0.25,-2.5 -0.5,-2 v -1 l -0.25,-1.5 -0.25,-1 -0.25,-1.25 v -0.75 l -0.25,-1.5 -0.25,-1 -0.25,-1.75 -0.25,-0.75 -0.25,-1.75 v -1.25 l -0.25,-2 -0.25,-1.5 v -1.75 l -0.25,-1.75 V -338 l -0.25,-3 v -11.25 l 0.25,-2.5 v -2 l 0.25,-1.75 v -1.75 L -80,-362 v -1.5 l 0.25,-1.5 0.25,-1.25 0.25,-1.25 0.25,-1.25 0.25,-1.25 0.25,-1 0.25,-1 0.25,-1 0.25,-1 0.5,-0.75 0.25,-1 0.5,-1 0.25,-0.75 0.5,-0.75 0.25,-0.5 0.5,-1 0.25,-0.25 0.75,-1 0.25,-0.5 h 0.25 l 0.75,-1 0.25,-0.25 0.75,-0.75 0.25,-0.25 0.75,-0.75 h 0.25 l 0.25,-0.25 0.25,-0.25 h 0.25 l 0.5,-0.5 1,-0.5 v -0.25 l 0.5,-0.25 h 0.25 l 1.5,-0.75 M -73.25,0 v -217.75 l -0.25,-3.75 v -13.75 l -0.25,-2 V -241 l -0.25,-1.5 v -1.5 l -0.25,-1.5 -0.25,-1.25 v -1.75 l -0.5,-2 -0.25,-1 -0.25,-1.25 v -0.5 l -0.25,-1.5 -0.25,-0.75 -0.25,-1 v -0.5 l -0.5,-1.5 v -0.75 l -0.25,-1.25 -0.25,-0.5 -0.25,-2 -0.25,-1.5 -0.25,-1.5 -0.25,-1.5 v -1.75 L -78.5,-271 v -1.75 l -0.25,-1.75 v -2.25 l -0.25,-2 v -4.75 l -0.25,-2.75 v -8 l -0.25,-2.5 v -4.75 l -0.25,-2 v -2.25 L -80,-308 l -0.25,-2.25 -0.25,-3.75 -0.25,-1.25 -0.25,-2 v -1.25 l -0.25,-1.75 -0.25,-0.5 -0.25,-2 V -324 l -0.25,-2 -0.25,-0.75 V -329 l -0.25,-1.5 -0.25,-2 v -2 l -0.25,-2 v -4.25 l -0.25,-2.5 v -4.5 l 0.25,-3.75 v -6 l 0.25,-1.75 V -361 l 0.25,-1.5 0.25,-1.5 v -1.25 l 0.25,-1.5 0.25,-1.25 0.25,-1.25 0.25,-1 0.25,-1.25 0.25,-1 0.5,-1 0.25,-0.75 0.25,-1 0.5,-0.75 0.25,-1 0.5,-0.75 0.5,-0.75 0.25,-0.75 0.5,-0.75 0.5,-0.5 0.5,-0.75 0.25,-0.25 0.75,-0.75 0.25,-0.25 0.75,-0.75 0.25,-0.25 1,-0.75 v -0.25 l 1,-0.5 0.25,-0.25 1,-0.5 0.25,-0.25 0.5,-0.25 h 0.25 l 0.75,-0.25 v -0.25 h 0.25 l 0.5,-0.25 0.5,-0.25 1.5,-0.25 M -77.5,0 v -195.5 l -0.25,-9 v -27 L -78,-234 v -4.5 l -0.25,-2 v -2 l -0.25,-2.25 -0.25,-2 -0.25,-2.75 -0.25,-0.75 -0.25,-2.25 v -1 l -0.25,-1.5 -0.25,-1 v -0.75 l -0.5,-1.75 v -1.25 l -0.25,-1.5 -0.25,-1.5 v -1.5 l -0.25,-2.25 -0.25,-1.75 -0.25,-2.25 v -2 l -0.25,-2 v -2.25 l -0.25,-2.25 v -5.25 L -82.5,-287 v -8.25 l -0.25,-2.5 v -5 l -0.25,-2.5 -0.25,-2.75 -0.25,-3.75 v -1.75 l -0.25,-2.25 -0.25,-1.75 v -1.75 l -0.25,-1.75 -0.25,-1.75 v -1.75 l -0.25,-2 -0.25,-2 v -1.75 l -0.25,-2.25 v -2.25 L -85.5,-337 v -7.25 l -0.25,-2.75 0.25,-2.5 v -6.25 l 0.25,-2 V -361 l 0.25,-1.5 0.25,-1.5 v -1.5 l 0.25,-1.25 0.25,-1.25 0.25,-1.25 0.25,-1.25 0.25,-1 0.25,-1 0.25,-1 0.25,-1 0.5,-1 0.25,-1 0.5,-0.75 0.25,-0.75 0.5,-0.75 0.5,-0.75 0.5,-0.75 0.5,-0.75 0.5,-0.5 0.25,-0.5 0.75,-0.75 0.5,-0.25 0.25,-0.5 0.75,-0.5 0.25,-0.25 1,-0.75 1.5,-0.75 V -386 h 0.25 l 0.75,-0.25 h 0.25 l 0.75,-0.5 h 0.25 l 0.5,-0.25 h 0.25 l 0.5,-0.25 1,-0.25 h 0.75 l 0.5,-0.25 1.5,-0.25 M -81.75,0 V -9.5 L -82,-95.75 V -229.5 l -0.25,-3 v -5.25 L -82.5,-240 v -2.5 l -0.25,-2.75 v -1.25 l -0.5,-3 v -1.25 l -0.25,-2 v -1.5 l -0.25,-1.5 -0.25,-1 V -259 l -0.25,-1.5 -0.25,-2 v -1.75 l -0.25,-0.75 -0.25,-3.75 v -1.75 l -0.25,-2.75 v -2.25 l -0.25,-2.75 v -8 l -0.25,-3 V -298 l -0.25,-2.75 v -3 l -0.25,-3 -0.25,-4.25 v -2.25 l -0.25,-2.5 v -1.75 l -0.25,-2.25 v -0.75 l -0.25,-2.75 -0.25,-1.75 v -2.5 l -0.25,-1.75 v -4.5 l -0.25,-2.5 v -21 l 0.25,-1.75 v -1.5 l 0.25,-1.75 v -1.5 l 0.25,-1.5 v -1.25 l 0.25,-1 0.25,-1.5 0.25,-1.25 0.25,-1.25 0.25,-1 0.25,-1.25 0.25,-1 0.25,-0.75 0.5,-1 0.25,-1 0.5,-0.75 0.25,-1 0.5,-0.75 0.5,-0.75 0.5,-0.75 0.5,-0.75 0.75,-0.75 0.25,-0.25 0.75,-0.75 0.5,-0.5 0.25,-0.25 1,-0.75 0.5,-0.25 0.5,-0.25 0.5,-0.25 0.25,-0.25 1,-0.25 0.25,-0.25 1,-0.25 0.25,-0.25 1.25,-0.25 0.75,-0.25 h 1.25 l 0.25,-0.25 h 4.25 M -86,0 v -1 l -0.25,-8.5 V -225 l -0.25,-3.5 v -9 l -0.25,-3 v -4 l -0.25,-4.25 -0.25,-1.5 v -2.25 l -0.25,-1.75 v -2 l -0.25,-1.5 v -2.5 L -88,-262 l -0.25,-2.5 v -3.5 l -0.25,-4.5 v -2 l -0.25,-3.25 v -8.75 l -0.25,-3.25 v -10 l -0.25,-3.25 v -3.75 l -0.25,-2.5 v -4 l -0.25,-2 V -318 l -0.25,-2.25 v -4 l -0.25,-2.25 v -4.5 l -0.25,-3 v -10.25 l -0.25,-2.5 0.25,-2.25 v -10.25 l 0.25,-1.75 v -1.5 L -90,-364 v -1 l 0.25,-2.25 v -1.25 l 0.25,-1.75 v -0.5 l 0.5,-2 0.25,-1 0.25,-1.25 0.25,-1 0.25,-1 0.25,-0.75 0.25,-1 0.5,-1 0.5,-0.75 0.25,-1 0.5,-0.75 0.5,-0.75 0.5,-0.75 0.75,-0.5 0.5,-0.75 0.5,-0.5 0.5,-0.5 0.75,-0.5 0.5,-0.25 0.5,-0.5 0.75,-0.25 0.5,-0.25 0.75,-0.5 h 0.5 l 0.75,-0.25 h 0.25 L -76,-389 h 1 l 0.25,-0.25 h 5 L -69,-389 h 1 l 0.75,0.25 1.25,0.25 M -90.5,0 v -227 l -0.25,-3.75 v -10 l -0.25,-3 v -5 l -0.25,-2.25 v -4.5 l -0.25,-2.5 v -5 l -0.25,-2.5 v -4 l -0.25,-5 v -13 l -0.25,-4 v -15 l -0.25,-4.5 v -5.75 l -0.25,-2.75 v -4.75 L -93,-326.5 v -10.75 l -0.25,-3 v -10 l 0.25,-2.25 v -10.25 l 0.25,-3.5 v -1.25 l 0.25,-2 v -0.75 l 0.25,-2.5 0.25,-1 0.25,-1.25 v -1 l 0.25,-1 v -0.5 l 0.5,-1.5 0.25,-0.75 0.25,-1.25 0.25,-0.75 0.5,-1 0.25,-0.75 0.5,-1 0.5,-0.75 0.5,-0.75 0.5,-0.5 0.5,-0.75 0.5,-0.5 0.5,-0.5 0.5,-0.5 0.75,-0.25 0.5,-0.5 H -84 l 1.25,-0.75 0.75,-0.25 h 0.5 l 1,-0.25 0.25,-0.25 h 1 l 0.25,-0.25 h 5.25 v 0.25 h 1.25 l 1,0.25 h 0.25 l 0.75,0.25 0.5,0.25 h 0.5 l 0.25,0.25 H -69 l 0.5,0.25 h 0.25 l 0.5,0.25 0.75,0.25 1,0.5 M -94.75,0 V -143.5 L -95,-243 v -17.5 l -0.25,-3 v -36.75 l -0.25,-6 v -27.25 l -0.25,-4.25 v -15 l 0.25,-2.25 v -14.75 l 0.25,-3.5 v -2.25 l 0.25,-1 v -2.75 l 0.25,-1.5 v -0.5 l 0.25,-2 v -0.25 l 0.25,-1.25 0.25,-1 V -386 l 0.5,-1.75 0.5,-1 V -389 l 0.75,-1.25 v -0.25 l 0.5,-0.75 0.25,-0.25 0.25,-0.25 0.5,-0.5 0.5,-0.5 0.25,-0.25 0.5,-0.25 0.5,-0.25 0.5,-0.25 0.25,-0.25 0.5,-0.25 1.25,-0.25 h 0.25 l 1,-0.25 H -85 l 0.5,-0.25 h 3 l 0.5,0.25 h 1 l 1,0.25 h 0.75 l 0.75,0.25 h 0.25 l 0.75,0.25 h 0.5 l 0.75,0.25 h 0.5 l 1,0.5 h 0.25 l 0.25,0.25 0.75,0.25 h 0.25 l 1,0.5 0.25,0.25 0.5,0.25 h 0.5 v 0.25 l 0.75,0.25 0.25,0.25 h 0.25 l 0.25,0.25 0.75,0.5 0.5,0.25 0.5,0.5 1,0.5 M -99,0 v -24 l -0.25,-114.5 v -90 L -99,-236 v -19.25 l 0.25,-1.75 v -23.75 l 0.25,-4 v -35.75 l 0.25,-1.75 v -42.5 l -0.25,-2 v -3 l -0.25,-3.75 v -3 L -99,-378.25 V -379 l -0.25,-1.5 v -0.25 L -99.5,-383 v -0.25 l -0.25,-1.5 -0.25,-0.5 v -0.25 l -0.5,-1.75 v -0.5 l -0.25,-0.75 H -101 l -0.5,-1.25 V -390 l -1.25,-1.5 v -0.25 l -0.75,-0.5 -0.75,-0.75 h -0.25 l -0.75,-0.5 -0.25,-0.25 -0.5,-0.25 -1,-0.25 h -0.25 l -1,-0.25 h -0.25 l -0.75,-0.25 H -113 l -2.25,0.25 -0.25,0.25 h -1 l -0.5,0.25 h -0.75 l -0.5,0.25 -0.5,0.25 -1.75,0.5 -1,0.5 -1.25,0.5 H -123 l -0.5,0.25 -0.25,0.25 -0.5,0.25 h -0.25 l -0.25,0.25 H -125 v 0.25 l -0.5,0.25 -1,0.5 -0.25,0.25 -0.25,0.25 -1,0.5 M -103.25,0 V -2.5 L -103.5,-24 v -200.75 l 0.25,-4 V -241 l 0.25,-3.25 v -5 l 0.25,-2.25 v -2.25 l 0.25,-2.25 v -4.75 l 0.25,-2 v -6.5 l 0.25,-5.25 v -9.25 l 0.25,-3.75 v -15.25 l 0.25,-4 v -7 l 0.25,-3 v -3.5 l 0.25,-4 v -7 l 0.25,-3.75 v -21.5 l -0.25,-1.75 V -363 l -0.25,-2.75 v -1.75 l -0.25,-1.75 V -370 l -0.25,-2.25 v -1.25 l -0.25,-1.5 -0.25,-1 -0.25,-1 v -0.75 l -0.5,-1.25 -0.25,-0.75 v -0.75 l -0.5,-1.5 -0.25,-0.5 -0.25,-0.25 -0.75,-1.75 -0.25,-0.5 -0.75,-1 -1,-1.25 -0.5,-0.25 -0.5,-0.75 -0.5,-0.25 -0.75,-0.5 -0.25,-0.25 -1,-0.5 -0.75,-0.25 -0.25,-0.25 -1.75,-0.5 h -0.25 l -1,-0.25 h -1 l -0.5,-0.25 h -3 l -0.25,0.25 h -1.25 l -1.5,0.25 -0.75,0.25 H -123 l -0.5,0.25 h -0.75 v 0.25 l -0.75,0.25 -0.75,0.25 -0.75,0.25 -1.25,0.5 m 20,388.75 v -233.75 l 0.25,-2.25 v -3.25 l 0.25,-2.75 v -1 l 0.25,-4 v -1.5 l 0.25,-2.5 v -1.5 l 0.25,-2 v -2 l 0.25,-2.25 v -2 l 0.25,-2 V -265 l 0.25,-2.25 0.25,-4.75 v -5 l 0.25,-2.75 V -289 l 0.25,-3.25 V -302 l 0.25,-3.5 v -3.5 l 0.25,-3.5 v -2.25 l 0.25,-2.75 v -2 l 0.25,-1.25 v -3 l 0.25,-2 v -4 l 0.25,-3.25 v -9.75 l 0.25,-2.75 v -2.5 l -0.25,-2.25 v -8 l -0.25,-1.75 v -3.25 l -0.25,-1.5 v -1 l -0.25,-2.25 -0.25,-1.25 -0.25,-1.5 v -1 l -0.25,-1.5 -0.25,-1 -0.25,-1.25 -0.25,-0.75 -0.5,-1 -0.25,-1 -0.25,-0.75 -0.5,-1 -0.25,-0.75 -0.5,-1 -0.5,-0.75 -0.75,-0.75 -0.5,-0.75 -0.5,-0.75 -0.75,-0.5 -0.5,-0.5 -0.75,-0.5 -0.5,-0.25 -0.5,-0.5 -0.75,-0.25 -0.75,-0.5 H -115 l -1,-0.5 h -0.25 l -1.25,-0.5 h -0.75 L -119,-389 h -0.75 l -1.25,-0.25 h -2.5 l -0.5,0.25 h -0.75 l -1,0.25 h -0.75 l -1.25,0.25 M -112,0 v -226.5 l 0.25,-3 v -8 l 0.25,-2.5 v -2.5 l 0.25,-2.5 0.25,-3 0.25,-2 v -1.5 l 0.25,-1.75 0.25,-1.5 v -1.5 l 0.25,-1.25 0.25,-2 v -1.5 l 0.25,-2 0.25,-1.75 0.25,-3 v -2 l 0.25,-2.5 v -2.5 l 0.25,-2.5 v -5.25 l 0.25,-2.75 V -294 l 0.25,-3 v -5.5 l 0.25,-3 v -3.5 l 0.25,-3.25 0.25,-2.25 v -2.25 l 0.25,-2 0.25,-2 V -322 l 0.25,-2.25 v -2 l 0.25,-2.75 v -1.25 L -106,-333 v -4.75 l 0.25,-2.25 v -12.5 l -0.25,-2 v -3.75 l -0.25,-1.75 v -1.5 l -0.25,-1.5 v -1.5 l -0.25,-1.5 v -1.25 l -0.25,-1.5 -0.25,-1.25 -0.25,-1.25 -0.25,-1 -0.25,-1.25 -0.25,-1 -0.25,-0.75 -0.5,-1 -0.25,-1 -0.5,-0.75 -0.25,-1 -0.5,-0.75 -0.5,-0.75 -0.5,-0.75 -0.5,-0.75 -0.75,-0.75 -0.5,-0.5 -0.5,-0.75 -0.75,-0.5 -0.25,-0.25 -0.75,-0.5 -0.5,-0.25 -0.25,-0.25 -0.75,-0.5 h -0.5 l -0.75,-0.5 -0.5,-0.25 -0.75,-0.25 h -0.25 l -0.25,-0.25 h -0.75 v -0.25 h -1 l -0.75,-0.25 h -1 l -0.25,-0.25 h -4 M -116.25,0 v -230.75 l 0.25,-2.5 v -4.5 l 0.25,-2 v -2 l 0.25,-2 0.25,-2 0.25,-2.5 0.25,-2 v -0.5 l 0.25,-2.25 0.25,-1 0.25,-1.25 v -1.25 l 0.25,-1 0.25,-1.5 0.25,-1.25 0.25,-1.5 v -1.75 l 0.25,-2 0.25,-2 0.25,-2 v -2 l 0.25,-2 v -2.25 l 0.25,-2.25 v -4.75 l 0.25,-2.75 v -8.25 l 0.25,-2.75 v -5 l 0.25,-2.5 v -2.5 l 0.25,-3 0.25,-3 0.25,-1.75 0.25,-2 V -318 l 0.25,-1.75 v -0.75 l 0.25,-2.25 0.25,-1.5 v -2.25 l 0.25,-2.25 0.25,-1.5 v -2.25 l 0.25,-2 v -4.5 l 0.25,-2.5 v -10.25 l -0.25,-2 v -4 l -0.25,-1.75 v -1.5 l -0.25,-1.5 v -1.5 l -0.25,-1.5 -0.25,-1.25 -0.25,-1.25 v -1.25 l -0.25,-1.25 -0.25,-1 -0.5,-1 -0.25,-1 -0.25,-1 -0.25,-1 -0.5,-0.75 -0.25,-1 -0.5,-0.75 -0.5,-0.75 -0.5,-0.75 -0.25,-0.75 -0.5,-0.5 -0.5,-0.75 -0.75,-0.75 -0.5,-0.5 -0.5,-0.5 -0.5,-0.5 -0.5,-0.5 H -118 l -1,-0.75 -0.5,-0.25 -0.25,-0.25 -0.75,-0.25 -0.25,-0.25 -0.5,-0.25 h -0.25 l -0.75,-0.5 h -0.5 l -0.5,-0.25 h -0.5 v -0.25 H -124 l -0.75,-0.25 h -0.75 l -0.75,-0.25 -1.25,-0.25 m 7,388 v -9.5 l -0.25,-86.25 V -216.5 l 0.25,-4 v -14.25 l 0.25,-2.25 v -3.5 l 0.25,-1.5 v -1.5 l 0.25,-1.5 v -1.5 l 0.25,-1.5 0.25,-1.75 0.5,-2 v -0.75 l 0.25,-1.25 0.25,-0.25 0.25,-1.5 0.25,-0.75 0.25,-1 0.25,-1 0.25,-1 v -1.25 l 0.25,-0.5 0.25,-2 0.25,-1.25 0.25,-1.75 0.25,-1.5 v -1.75 l 0.25,-1.5 0.25,-1.75 v -4 l 0.25,-2 v -4.75 l 0.25,-2.75 v -5.25 l 0.25,-2.75 v -4.75 l 0.25,-2.5 v -4.25 l 0.25,-2.25 0.25,-2.25 0.25,-3 0.25,-1.75 0.25,-1.75 v -1.5 l 0.25,-1.5 0.25,-1.25 v -0.75 l 0.25,-2 0.25,-1.5 0.25,-2 v -0.5 l 0.25,-2.75 0.25,-1.5 V -334 l 0.25,-1.75 V -338 l 0.25,-2 v -12.75 l -0.25,-2.5 v -3.5 l -0.25,-1.5 V -362 l -0.25,-1.25 -0.25,-1.5 -0.25,-1.5 v -1.25 l -0.25,-1.25 -0.25,-1 -0.25,-1.25 -0.5,-1 -0.25,-1 -0.25,-0.75 -0.25,-1 -0.5,-1 -0.25,-0.75 -0.5,-0.75 -0.25,-1 -0.5,-0.5 -0.25,-0.5 -0.75,-1 -0.25,-0.5 -0.5,-0.5 -0.5,-0.75 -0.5,-0.5 -0.25,-0.25 -0.75,-0.75 H -120 l -1,-0.75 v -0.25 l -0.75,-0.5 H -122 l -0.25,-0.25 -0.5,-0.25 -0.25,-0.25 h -0.25 l -0.5,-0.25 -0.75,-0.5 -0.75,-0.25 -0.75,-0.25 -0.5,-0.25 -1.25,-0.25 M -125,0 v -231.25 l 0.25,-2.5 v -7.75 l 0.25,-1 v -2.5 l 0.25,-1.25 V -248 l 0.25,-1 0.25,-0.75 v -1 l 0.25,-1 0.5,-1.5 0.25,-0.5 0.25,-0.5 0.25,-0.75 0.25,-0.5 v -0.25 l 0.25,-0.75 0.25,-0.75 0.25,-0.75 0.25,-0.5 0.25,-0.75 0.5,-1.5 0.25,-0.75 0.25,-1.25 0.25,-1 V -265 l 0.25,-1 0.25,-1.25 v -1.5 l 0.25,-1.25 v -1.5 l 0.25,-1.75 V -275 l 0.25,-1.75 v -4.5 l 0.25,-2.25 v -8 l 0.25,-2.5 v -4.75 l 0.25,-2.25 v -4 l 0.25,-1.75 v -1.75 l 0.25,-1.75 0.25,-2 0.5,-3.25 v -1 l 0.25,-1.5 0.25,-1 0.25,-1.25 0.25,-1 0.25,-1.25 v -1.25 l 0.25,-1.5 0.25,-1 0.25,-1.5 0.25,-1.5 V -331 l 0.25,-1.5 0.25,-1.75 v -3.5 l 0.25,-2.25 v -14.75 l -0.25,-1.75 v -2 l -0.25,-1.75 v -1.5 l -0.25,-1.5 -0.25,-1.5 v -1.5 l -0.25,-1.25 -0.25,-1.25 -0.25,-1 -0.25,-1.25 -0.25,-1 -0.5,-1 -0.25,-1 -0.25,-0.75 -0.5,-1 -0.25,-0.75 -0.5,-1 -0.25,-0.75 -0.5,-0.75 -0.5,-0.5 v -0.25 l -1,-1.25 v -0.25 l -1,-1.25 h -0.25 l -0.75,-0.75 -0.25,-0.25 v -0.25 l -0.75,-0.5 -0.25,-0.25 -0.5,-0.5 H -124 l -0.5,-0.5 h -0.25 l -0.75,-0.75 h -0.25 l -0.5,-0.25 -1.5,-0.75 M -129.25,0 v -253.75 l -0.25,-0.25 v -1 l -0.25,-0.25 v -0.25 h -0.5 l -0.25,-0.25 h -0.5 l -0.25,-0.25 -0.5,-0.25 -0.25,-0.25 h -0.25 v -0.25 l -0.5,-0.25 v -0.25 l -0.5,-0.25 v -0.25 l -0.25,-0.25 -0.25,-0.5 -0.25,-0.5 -0.5,-0.5 -0.25,-0.5 -0.25,-0.75 -0.25,-0.5 V -262 l -0.25,-0.5 -0.25,-0.75 V -264 l -0.25,-1 -0.25,-0.75 v -1 l -0.25,-1 V -269 l -0.25,-1.25 v -1.25 l -0.25,-1.75 v -3.5 l -0.25,-2 v -10.5 l -0.25,-2.75 v -7.25 l -0.25,-2 v -3.5 l -0.25,-1.5 v -1.5 l -0.25,-1.5 v -1.5 l -0.25,-1.25 -0.25,-1.5 -0.25,-2 -0.25,-1.25 -0.25,-1 -0.25,-0.75 -0.25,-1 -0.25,-1 -0.25,-1 v -0.5 l -0.25,-1.25 -0.25,-1 -0.25,-0.5 -0.25,-1.5 v -1 l -0.25,-1.5 -0.25,-1.25 -0.25,-1.5 v -0.5 l -0.25,-2.5 v -1.25 l -0.25,-2 v -4 l -0.25,-2.75 v -7 l 0.25,-2.25 V -356 l 0.25,-2 v -1.75 l 0.25,-1.75 v -1.75 l 0.25,-1.25 0.25,-1.5 0.25,-1.25 v -1.25 l 0.25,-1.25 0.25,-1 0.5,-1.25 0.25,-1 0.25,-1 0.25,-1 0.25,-0.5 0.5,-1.25 0.25,-0.75 0.5,-0.75 0.5,-0.75 0.75,-1.5 0.25,-0.25 0.5,-0.75 0.25,-0.25 0.75,-1 0.25,-0.25 v -0.25 l 0.5,-0.5 0.25,-0.25 0.25,-0.25 h 0.25 l 0.5,-0.75 h 0.25 l 0.5,-0.5 0.25,-0.25 0.5,-0.25 1,-1 h 0.25 m -3,387 v -218.5 l -0.25,-4.25 V -239 l -0.25,-1.75 v -3.75 l -0.25,-1 v -1.25 l -0.25,-0.75 v -1 l -0.25,-1 v -0.75 l -0.25,-1 -0.5,-1.25 -0.25,-0.75 V -254 l -0.25,-0.5 -0.25,-0.5 -0.25,-0.75 V -256 l -0.5,-0.75 -0.25,-0.5 -0.25,-0.75 -0.25,-0.75 v -0.5 l -0.25,-1 -0.25,-1 -0.5,-1.25 v -1 l -0.25,-1 -0.25,-1.25 -0.25,-1.25 v -1.25 l -0.25,-1.5 V -271 l -0.25,-1.75 v -1.75 l -0.25,-1.75 v -4.25 l -0.25,-2.5 v -5.25 l -0.25,-2.5 v -7.5 l -0.25,-2.25 v -4 l -0.25,-1.75 V -308 l -0.25,-1.75 -0.25,-2 -0.25,-2.75 -0.25,-1.25 -0.25,-1.25 -0.25,-1.25 -0.25,-1.25 v -1.25 l -0.25,-0.5 -0.25,-1.5 -0.25,-1.25 -0.25,-1.5 v -0.75 l -0.25,-2 -0.25,-1.25 -0.25,-1.75 V -333 l -0.25,-1.75 v -2.75 l -0.25,-2.75 v -14.5 l 0.25,-1.75 v -2 l 0.25,-1.75 V -362 l 0.25,-1.5 0.25,-1.5 v -1.25 l 0.25,-1.25 0.25,-1.25 0.25,-1.25 0.25,-1 0.25,-1 0.5,-1 0.25,-1 0.25,-0.75 0.5,-1 0.25,-0.75 0.5,-1 0.25,-0.75 0.5,-0.5 0.5,-0.75 v -0.5 l 0.75,-0.75 0.5,-0.75 1,-1 v -0.25 l 0.75,-0.75 h 0.25 v -0.25 l 1,-0.75 h 0.25 v -0.25 l 0.5,-0.25 0.25,-0.25 0.75,-0.5 0.75,-0.5 0.75,-0.5 1.25,-0.5 M -137.75,0 V -93.25 L -138,-204 v -27.5 l -0.25,-2.5 v -5.75 l -0.25,-1.75 v -1.5 l -0.25,-1.5 v -1.5 l -0.25,-1.25 -0.25,-1.75 -0.5,-2.5 v -0.75 l -0.5,-1.25 v -0.5 l -0.25,-1.25 -0.25,-1 -0.25,-1 -0.25,-1 -0.25,-1 -0.25,-1.25 v -0.5 l -0.25,-1.75 -0.25,-1.5 -0.25,-1.75 -0.25,-1.5 -0.25,-1.75 v -1.5 l -0.25,-1.75 v -2 l -0.25,-2 v -4.5 l -0.25,-2.5 v -7.75 L -144,-294 v -5 l -0.25,-2.25 v -2.25 l -0.25,-2 v -2.25 l -0.25,-2.25 -0.25,-3.5 -0.25,-1.25 -0.25,-2 -0.25,-1.25 v -1.75 l -0.25,-1.25 -0.25,-1.25 -0.25,-1.5 v -1.75 l -0.25,-2 -0.25,-1.25 -0.25,-2 v -1.75 l -0.25,-2 v -4 l -0.25,-2.25 v -12.5 l 0.25,-2.5 v -3.5 l 0.25,-1.5 0.25,-1.75 v -1.5 l 0.25,-1.25 0.25,-1.5 0.25,-1.25 0.25,-1 0.25,-1.25 0.25,-1 0.25,-1.25 0.25,-1 0.25,-0.5 0.5,-1.25 0.25,-0.75 0.5,-0.75 0.25,-0.75 0.5,-1 0.5,-0.5 0.25,-0.75 0.5,-0.75 0.5,-0.5 0.25,-0.25 0.75,-1 0.25,-0.25 1,-0.75 v -0.25 l 1,-0.75 h 0.25 l 0.75,-0.75 h 0.25 l 1,-0.75 h 0.25 l 0.5,-0.25 v -0.25 l 0.75,-0.25 h 0.25 l 0.5,-0.25 h 0.25 l 0.5,-0.25 0.75,-0.25 1,-0.25 M -142.25,0 v -225.75 l -0.25,-3 v -7.5 l -0.25,-2 v -2.25 l -0.25,-2 v -2 l -0.25,-2 -0.25,-2.75 -0.25,-1.25 -0.25,-1.5 -0.25,-1.25 v -1.25 l -0.25,-1.25 -0.25,-1.5 -0.25,-1.25 -0.25,-1.25 v -1.5 l -0.25,-1.5 -0.25,-1.25 -0.25,-2.5 -0.25,-1.75 v -2 l -0.25,-2 v -2.25 l -0.25,-2 v -5 L -147,-284 v -8.25 l -0.25,-2.75 v -5 l -0.25,-2.5 v -2.5 l -0.25,-2.75 -0.25,-3.25 v -2 l -0.25,-2.5 -0.25,-1.5 -0.25,-1.75 v -1.75 l -0.25,-1 -0.25,-2 v -1.75 l -0.25,-2.25 v -1 l -0.25,-2.5 v -2 l -0.25,-2.25 v -2.25 l -0.25,-2.25 v -12.5 l 0.25,-2.25 v -3.5 l 0.25,-1.75 v -1.75 l 0.25,-1.5 v -1.5 l 0.25,-1.25 0.25,-1.25 0.25,-1.25 0.25,-1.25 0.25,-1.25 0.25,-1 0.25,-1 0.25,-1 0.25,-1 0.5,-1 0.25,-0.75 0.5,-1 0.25,-0.75 0.5,-0.75 0.5,-0.75 0.5,-0.75 0.5,-0.5 0.5,-0.75 0.5,-0.5 0.5,-0.5 0.5,-0.5 0.5,-0.5 0.75,-0.5 v -0.25 l 1.25,-0.5 0.25,-0.25 0.25,-0.25 1,-0.5 h 0.25 l 0.75,-0.5 h 0.25 l 0.5,-0.25 h 0.25 l 0.5,-0.25 h 0.25 l 0.5,-0.25 0.75,-0.25 h 1 l 0.75,-0.25 1.25,-0.25 M -146.5,0 v -223.75 l -0.25,-3 v -8.5 l -0.25,-2.5 v -2.5 l -0.25,-2.5 -0.25,-2.75 v -1 l -0.25,-3.5 v -1 l -0.25,-2 -0.25,-1.5 -0.25,-1.75 V -258 l -0.25,-1.5 -0.25,-1.75 V -263 l -0.25,-2 v -1.25 l -0.25,-3.5 -0.25,-1.75 v -2.75 l -0.25,-2.5 V -282 l -0.25,-2.75 v -8.75 l -0.25,-3 v -5.5 l -0.25,-3 v -3.5 l -0.25,-2.5 -0.25,-3 v -2 l -0.25,-2 -0.25,-2 v -1.5 l -0.25,-2.25 v -2 l -0.25,-2.5 V -329 l -0.25,-3.25 V -337 l -0.25,-2.25 v -14.5 l 0.25,-2 v -3.5 l 0.25,-1.75 v -1.5 l 0.25,-1.5 v -1.5 l 0.25,-1.25 v -0.75 l 0.5,-2 v -1 l 0.25,-1.25 0.25,-1 0.5,-1.25 0.25,-1 0.25,-1 0.5,-1 0.25,-0.75 0.5,-1 0.5,-0.75 0.25,-0.75 0.5,-0.75 0.75,-0.75 0.5,-0.75 0.5,-0.75 0.5,-0.5 0.75,-0.5 0.5,-0.5 0.5,-0.5 0.75,-0.25 v -0.25 l 1.25,-0.5 0.25,-0.25 0.75,-0.25 0.5,-0.25 0.75,-0.25 h 0.25 l 1.25,-0.5 h 0.25 l 0.75,-0.25 h 1.25 l 0.25,-0.25 h 4.25 M -150.75,0 v -222 l -0.25,-3 v -10 l -0.25,-2.75 v -3 l -0.25,-3 v -1 l -0.25,-4.25 v -1.25 l -0.25,-2.5 v -1.75 l -0.25,-2 v -1.75 l -0.25,-2.25 v -2 l -0.25,-2.25 V -267 l -0.25,-1.5 v -4.25 l -0.25,-2 v -6 l -0.25,-3 v -13 l -0.25,-3.25 v -3.25 L -154,-307 v -3 l -0.25,-3.25 v -5 l -0.25,-2.25 v -1 l -0.25,-3 v -2.25 L -155,-330 v -7 l -0.25,-2.5 V -354 l 0.25,-2 v -5.25 l 0.25,-1.75 v -1.5 l 0.25,-0.75 v -2.25 l 0.25,-1.25 0.25,-1.75 v -0.75 l 0.5,-1.75 v -1 l 0.5,-1.25 V -376 l 0.5,-1 0.25,-1 0.25,-1 0.5,-0.75 0.25,-1 0.5,-0.75 0.5,-0.75 0.5,-0.75 0.5,-0.75 0.75,-0.75 0.5,-0.5 0.5,-0.5 0.75,-0.5 0.5,-0.5 0.5,-0.25 0.5,-0.5 0.5,-0.25 1,-0.5 h 0.5 l 0.75,-0.25 v -0.25 l 1.5,-0.25 h 0.25 L -140,-389 h 0.5 l 0.25,-0.25 h 4.75 l 0.75,0.25 h 1 l 0.5,0.25 1.5,0.25 M -155,0 v -210 l -0.25,-3 v -25.5 l -0.25,-3.25 v -5.5 l -0.25,-1.75 v -4.75 L -156,-256 v -4.75 l -0.25,-2.25 v -5.5 l -0.25,-1.75 v -10.25 l -0.25,-3.25 V -299 l -0.25,-3.75 v -8 l -0.25,-3 v -6.5 l -0.25,-4 V -331 l -0.25,-4.25 v -23.25 l 0.25,-1.75 v -2.5 l 0.25,-3.25 v -1.5 l 0.25,-1.75 V -370 l 0.25,-2.75 v -1 l 0.25,-1.25 0.25,-1 0.25,-1 v -0.75 l 0.25,-1.25 0.25,-0.75 0.25,-0.5 0.5,-1.5 0.25,-0.75 0.25,-0.5 0.5,-1.25 0.5,-0.5 0.5,-1 0.5,-0.5 0.5,-0.75 0.5,-0.5 0.5,-0.5 0.5,-0.5 0.75,-0.5 0.5,-0.25 0.25,-0.25 1.25,-0.5 0.75,-0.25 0.25,-0.25 1,-0.25 h 0.5 l 0.75,-0.25 h 0.25 l 1,-0.25 h 4 l 0.75,0.25 h 0.5 l 1.25,0.25 h 0.25 l 0.75,0.25 0.75,0.25 h 0.5 l 0.25,0.25 h 0.5 l 0.25,0.25 1,0.25 0.25,0.25 1.5,0.5 M -159.5,0 v -247.5 l -0.25,-3 v -19.25 l -0.25,-4.5 v -40.5 l -0.25,-3 v -48.5 l 0.25,-1.5 v -6 l 0.25,-2 v -1.5 l 0.25,-1.25 v -2.25 l 0.25,-0.5 0.25,-2 v -0.25 l 0.25,-1.25 v -1 l 0.25,-0.25 0.5,-1.75 0.25,-1 V -389 l 0.5,-1 1,-1.5 h 0.25 l 0.5,-0.75 0.25,-0.25 0.5,-0.5 0.5,-0.25 0.5,-0.25 0.25,-0.25 h 0.25 l 0.75,-0.5 h 0.5 l 1.25,-0.5 h 1.25 l 0.25,-0.25 h 3 l 0.75,0.25 h 1.75 l 1,0.25 h 0.25 l 0.25,0.25 h 1 l 0.5,0.25 0.75,0.25 h 0.5 l 1.25,0.5 0.5,0.25 0.5,0.25 h 0.25 l 1,0.5 1,0.5 h 0.25 l 0.5,0.5 h 0.25 l 0.5,0.25 0.5,0.5 h 0.25 l 0.5,0.5 h 0.25 l 0.75,0.5 0.75,0.5 M -163.75,0 v -240.25 l 0.25,-5.25 v -14.75 l 0.25,-2.25 v -40 l 0.25,-4.5 v -20.5 l 0.25,-6 V -356 l -0.25,-2 v -10.25 l -0.25,-3.75 v -3.75 l -0.25,-1 v -2.5 l -0.25,-1.5 V -381 l -0.25,-2.5 -0.25,-0.25 -0.25,-1.25 v -0.75 l -0.5,-1.75 v -0.25 l -0.5,-0.75 v -0.5 l -0.5,-0.75 V -390 l -1,-1.5 -0.25,-0.25 -0.75,-0.75 -0.25,-0.25 -0.5,-0.25 -0.5,-0.25 -0.5,-0.25 -0.25,-0.25 -0.5,-0.25 -1,-0.25 -0.25,-0.25 H -172 l -1.5,-0.25 h -5.5 l -0.25,0.25 h -1.25 l -0.25,0.25 H -181 l -0.75,0.25 h -0.5 l -0.75,0.25 -0.5,0.25 h -0.25 l -1.5,0.5 -1,0.5 h -0.25 l -1,0.5 -0.75,0.25 -0.25,0.25 -0.5,0.25 -0.25,0.25 h -0.25 l -0.25,0.25 H -190 l -0.5,0.25 v 0.25 h -0.25 l -0.5,0.25 v 0.25 l -1.5,0.75 M -168,0 v -231.25 l 0.25,-3.25 v -8 l 0.25,-4.5 v -4.5 l 0.25,-2 v -4 l 0.25,-3 v -2.25 l 0.25,-2.75 v -3.75 l 0.25,-5.25 V -291 l 0.25,-4 v -11.75 l 0.25,-4 v -6 l 0.25,-2.5 v -7.25 l 0.25,-3.75 v -12.25 l 0.25,-2.75 v -2.5 l -0.25,-2.25 v -12 l -0.25,-1 v -3 l -0.25,-1.5 v -2.5 l -0.25,-2.75 -0.25,-1 -0.25,-1.25 v -1 l -0.25,-1 -0.25,-0.75 -0.25,-1.25 -0.25,-0.75 -0.25,-0.75 -0.5,-1.5 -0.25,-0.5 v -0.5 l -0.75,-1.25 -0.25,-0.5 -0.75,-1 -0.75,-1 -0.25,-0.5 -0.75,-0.5 -0.5,-0.5 -0.5,-0.5 -0.5,-0.25 -0.5,-0.25 -1,-0.5 -0.75,-0.5 h -0.25 l -1.5,-0.5 H -178 l -1,-0.25 h -0.5 l -0.75,-0.25 H -184 l -1,0.25 h -0.25 l -1.5,0.25 -0.75,0.25 h -0.25 l -0.75,0.25 h -0.25 l -0.5,0.25 h -0.25 l -0.75,0.25 -0.5,0.25 -0.5,0.25 -1.25,0.5 M -172.25,0 v -232.25 l 0.25,-3 V -241 l 0.25,-3 v -1.25 l 0.25,-3.5 v -1.5 l 0.25,-2.5 0.25,-1.5 v -2 l 0.25,-1.75 v -2.25 l 0.25,-2 v -2.25 l 0.25,-2.25 v -1 l 0.25,-4.75 v -5.25 l 0.25,-2.75 v -9.25 l 0.25,-3.5 v -6.25 l 0.25,-3.25 V -309 l 0.25,-4.5 v -1.75 l 0.25,-2.75 v -2.25 l 0.25,-1 v -3 l 0.25,-2.25 v -4.25 L -168,-334 v -23.25 l -0.25,-2 v -3.25 l -0.25,-1.5 v -0.75 l -0.25,-2.5 v -1.25 l -0.25,-1.75 -0.25,-0.5 -0.25,-2 -0.25,-1 -0.25,-1.25 -0.25,-1 -0.25,-1 -0.25,-1 -0.5,-0.75 -0.25,-1 -0.5,-0.75 -0.5,-1 -0.25,-0.5 -0.5,-0.75 -0.5,-0.75 -0.75,-0.75 -0.5,-0.5 -0.5,-0.5 -0.5,-0.5 -0.75,-0.5 -0.5,-0.5 -0.5,-0.25 -0.75,-0.5 -0.75,-0.25 -0.75,-0.25 -0.5,-0.25 -1.5,-0.5 h -0.25 l -1,-0.25 H -184 l -1,-0.25 h -3.75 L -189,-389 h -1 l -0.5,0.25 h -0.75 l -1,0.25 M -176.75,0 v -215.75 l 0.25,-6.25 v -12 l 0.25,-2.5 v -2.5 l 0.25,-2.5 v -2.5 l 0.25,-2.75 0.25,-1.25 0.25,-2.5 v -1.25 l 0.25,-1.75 v -1.5 l 0.25,-1.5 0.25,-1.75 0.25,-1.75 v -1.5 l 0.25,-2 0.25,-2 v -1.5 l 0.25,-3.25 v -2 l 0.25,-2.5 v -2.5 l 0.25,-2.5 v -8.5 l 0.25,-3 V -300 l 0.25,-2.75 v -3 l 0.25,-3.5 0.25,-3.25 v -2.25 l 0.25,-2.25 0.25,-1.75 V -321 l 0.25,-2 v -2 l 0.25,-2.25 0.25,-2.75 v -4 l 0.25,-2.25 v -19 l -0.25,-2 v -3.5 l -0.25,-1.5 v -1.5 l -0.25,-1.5 -0.25,-1.25 v -1.5 l -0.25,-1.25 -0.25,-1.25 -0.25,-1.25 -0.25,-1 -0.25,-1.25 -0.25,-1 -0.25,-0.75 -0.5,-1 -0.25,-0.75 -0.5,-1 -0.5,-0.75 -0.5,-1 -0.5,-0.75 -0.5,-0.75 -0.5,-0.5 -0.5,-0.75 -0.75,-0.5 -0.5,-0.75 -0.5,-0.25 -0.5,-0.5 -0.75,-0.5 -1.25,-0.75 -0.5,-0.25 -0.75,-0.25 -0.25,-0.25 -0.75,-0.25 h -0.25 l -1.5,-0.5 -1,-0.25 H -188 l -0.5,-0.25 h -3.75 M -181,0 v -218.75 l 0.25,-4.25 v -11.25 l 0.25,-2 v -2.25 l 0.25,-2 v -2 l 0.25,-2 0.25,-2.25 0.25,-2.75 v -0.75 l 0.25,-2 0.25,-1 0.25,-1.25 0.25,-1.25 V -257 l 0.25,-1.5 0.25,-1.25 0.25,-1.25 0.25,-1.75 v -0.75 l 0.25,-2.5 0.25,-1.75 V -270 l 0.25,-2 0.25,-2 v -4.5 l 0.25,-2.5 v -5.25 L -176,-289 v -8 l 0.25,-2.5 v -2.5 l 0.25,-2.5 v -2.75 l 0.25,-3 0.25,-2.5 0.25,-2 v -2 l 0.25,-1.75 0.25,-1.5 v -1 l 0.25,-2.25 v -1.5 l 0.25,-2.25 v -0.75 l 0.25,-2.75 0.25,-1.75 v -2.25 l 0.25,-2.25 v -19 l -0.25,-1.75 v -1.75 l -0.25,-1.75 v -1.5 l -0.25,-1.5 v -1.25 l -0.25,-1.5 -0.25,-1.25 -0.25,-1.25 -0.25,-1 -0.25,-1.25 -0.25,-1 -0.25,-1 -0.25,-1 -0.5,-1 -0.25,-0.75 -0.5,-1 -0.25,-0.75 -0.5,-0.75 -0.5,-0.75 -0.5,-0.75 -0.5,-0.5 -0.5,-0.75 v -0.25 l -1,-1 -0.25,-0.25 -0.75,-0.5 -0.5,-0.5 -0.25,-0.25 -1,-0.75 h -0.25 l -1,-0.75 H -185 l -0.25,-0.25 -0.75,-0.25 h -0.25 l -0.75,-0.5 h -0.25 L -188,-387 h -0.25 l -0.75,-0.25 -0.75,-0.25 H -190 l -0.5,-0.25 h -1.75 m 7,387.75 v -226.75 l 0.25,-3 v -7 l 0.25,-1.75 v -3.5 l 0.25,-1.5 v -1.25 l 0.25,-1.5 0.25,-1.5 0.25,-1.75 0.25,-2.25 0.25,-0.75 0.25,-1.25 0.25,-0.5 0.25,-1.25 0.25,-1 v -0.5 l 0.25,-1.25 0.25,-1 0.25,-1 V -261 l 0.5,-1.75 0.25,-1.5 0.25,-1.5 v -1.75 l 0.25,-1.5 0.25,-1.75 v -1.75 l 0.25,-1.75 v -4.25 l 0.25,-2.25 v -5 l 0.25,-2.75 v -7.75 l 0.25,-2.5 V -301 l 0.25,-2.25 v -2.25 l 0.25,-2 v -2.25 l 0.5,-3.25 v -1.75 l 0.25,-1.75 0.25,-1.5 0.25,-1.5 v -1.25 l 0.25,-0.75 0.25,-2 0.25,-1.5 0.25,-2 v -0.5 l 0.25,-2.75 v -1.5 l 0.25,-2.25 v -1.75 l 0.25,-2 v -4.75 l 0.25,-2.5 v -2 l -0.25,-3.75 v -5.5 l -0.25,-2.25 v -1.5 l -0.25,-1.75 -0.25,-1.5 v -1.5 l -0.25,-1.25 -0.25,-1.5 -0.25,-1 -0.25,-1.25 -0.25,-1.25 -0.25,-1 -0.25,-1 -0.25,-0.75 -0.5,-1 -0.25,-1 -0.5,-0.75 -0.25,-0.75 -0.5,-1 -0.5,-0.75 -0.25,-0.25 -0.5,-1 -0.5,-0.5 -0.5,-0.75 -0.5,-0.5 -0.5,-0.5 -0.25,-0.25 -1,-1 -0.25,-0.25 -0.75,-0.5 -0.25,-0.25 h -0.25 l -0.75,-0.75 h -0.25 l -0.75,-0.25 V -386 l -0.5,-0.25 -1,-0.25 -0.25,-0.25 -0.5,-0.25 -0.75,-0.25 -1.25,-0.25 M -189.5,0 v -236 l 0.25,-2 v -4.25 L -189,-244 v -2 l 0.25,-1 v -1 l 0.25,-0.75 v -1 l 0.25,-0.75 0.25,-1 0.5,-1.75 v -0.5 l 0.25,-0.5 0.25,-0.5 0.25,-0.75 0.5,-1 0.25,-0.75 0.25,-0.5 0.25,-0.75 0.25,-0.75 v -0.5 l 0.5,-1.25 0.25,-1 0.25,-1 v -1.25 l 0.25,-1 0.25,-1.25 0.25,-1.25 v -1.5 l 0.25,-1.25 v -1.75 l 0.25,-1.5 v -3.75 l 0.25,-2.25 v -4.75 l 0.25,-2.75 V -295 l 0.25,-2.5 v -4.25 l 0.25,-2 v -1.75 l 0.25,-2 v -1.75 l 0.25,-1.75 0.25,-2.25 0.5,-2.75 v -1 l 0.25,-1.5 0.25,-1 0.25,-1.25 v -0.5 l 0.25,-1.5 0.25,-1.25 0.25,-1.5 0.25,-0.75 0.25,-2 v -1.25 l 0.25,-1.75 0.25,-1.75 v -1.75 l 0.25,-1.75 v -3.75 l 0.25,-2.25 v -9.5 l -0.25,-2.75 v -1.75 l -0.25,-2 v -1.75 l -0.25,-1.75 v -1.5 l -0.25,-1.5 -0.25,-1.25 -0.25,-1.25 -0.25,-1.25 -0.25,-1.25 -0.25,-1 -0.25,-1 -0.25,-1 -0.5,-1 v -0.75 l -0.5,-1 -0.5,-0.75 -0.25,-1 -0.5,-0.75 -0.5,-0.75 -0.25,-0.5 -0.25,-0.25 -0.75,-1.25 -0.25,-0.25 -0.75,-0.75 -0.25,-0.5 -0.25,-0.25 -0.5,-0.5 -1,-0.75 v -0.25 l -1,-0.75 -0.75,-0.5 h -0.25 l -0.75,-0.75 h -0.25 l -0.5,-0.25 -1.25,-0.75 M -193.75,0 V -255.5 M -198.25,0 v -235.5 l -0.25,-2 v -6.25 l -0.25,-1 v -2 l -0.25,-1 v -1 l -0.25,-0.75 -0.25,-1 -0.25,-0.75 -0.25,-1.5 -0.25,-0.5 -0.25,-0.75 -0.25,-0.5 -0.25,-0.75 v -0.5 l -0.25,-0.25 -0.25,-0.75 -0.25,-0.5 -0.25,-0.75 -0.25,-0.75 V -259 l -0.5,-1.25 -0.25,-1 -0.25,-1 -0.25,-1.25 -0.25,-1 v -1.25 l -0.25,-1.25 -0.25,-1.25 v -1.25 l -0.25,-1.5 v -1.5 l -0.25,-1.75 v -4 l -0.25,-2 v -5 l -0.25,-2.75 v -7.75 l -0.25,-2.25 v -4.25 l -0.25,-2 V -306 l -0.25,-2 v -1.75 l -0.25,-1.75 -0.25,-2.5 -0.25,-1.75 -0.25,-1.25 -0.25,-1.25 -0.25,-1 -0.25,-1.25 v -0.75 l -0.25,-1.5 -0.25,-1 -0.25,-1.75 -0.25,-0.75 -0.25,-1.75 v -1.25 l -0.25,-1.75 -0.25,-1.75 v -1.75 l -0.25,-1.75 V -340 l -0.25,-2.25 V -352 l 0.25,-2.5 v -2 l 0.25,-2 v -1.75 l 0.25,-1.5 v -1.5 l 0.25,-1.5 0.25,-1.5 0.25,-1.25 0.25,-1.25 0.25,-1 0.25,-1.25 0.25,-1 0.25,-1 0.25,-1 0.25,-0.75 0.5,-1 0.5,-0.75 0.25,-1 0.5,-0.75 0.25,-0.5 0.5,-0.75 0.25,-0.5 0.75,-0.75 0.25,-0.5 0.25,-0.25 1,-1 v -0.25 l 0.75,-0.75 h 0.25 l 0.25,-0.25 0.5,-0.5 v -0.25 l 0.5,-0.25 0.25,-0.25 0.75,-0.5 1,-0.5 v -0.25 l 0.5,-0.25 0.75,-0.25 0.75,-0.5 M -202.5,0 v -226.25 l -0.25,-3 v -9 L -203,-240 v -1.5 l -0.25,-1.75 v -1.25 l -0.25,-1.5 v -1.5 l -0.25,-1.75 -0.5,-2.5 -0.25,-0.75 -0.25,-1.25 v -0.5 l -0.5,-1.5 -0.25,-0.5 V -257 l -0.25,-1.25 -0.25,-1 -0.25,-1 V -261 l -0.5,-1.75 -0.25,-1.5 -0.25,-1.5 v -1.75 l -0.25,-1.5 -0.25,-1.75 v -1.75 l -0.25,-1.75 v -4.25 l -0.25,-2.25 v -5 l -0.25,-2.75 v -7.75 l -0.25,-2.5 V -301 l -0.25,-2.25 v -2.25 l -0.25,-2 v -2.25 l -0.5,-3.25 v -2 l -0.25,-1.5 -0.25,-1.5 -0.25,-1.5 v -1.25 l -0.25,-0.75 -0.25,-2 -0.25,-1.5 -0.25,-2 v -0.5 l -0.25,-2.75 v -1.5 L -212,-334 v -1.75 l -0.25,-2.25 v -4.5 l -0.25,-2.75 V -347 l 0.25,-3.75 v -5.75 l 0.25,-2.25 v -1.5 l 0.25,-1.75 0.25,-1.25 v -1.5 l 0.25,-1.5 0.25,-1.25 0.25,-1.25 0.25,-1 0.25,-1.25 0.25,-1 0.25,-1 0.25,-0.75 0.5,-1 0.25,-1 0.5,-0.75 0.25,-1 0.5,-0.75 0.5,-0.75 0.25,-0.25 0.5,-1 0.5,-0.5 0.5,-0.75 0.5,-0.5 0.5,-0.5 0.25,-0.25 1,-1 0.25,-0.25 0.75,-0.5 0.5,-0.25 0.25,-0.25 0.75,-0.5 h 0.25 l 0.5,-0.5 h 0.25 l 0.5,-0.25 h 0.25 l 0.75,-0.5 0.5,-0.25 h 0.25 l 0.5,-0.25 1.25,-0.25 M -206.75,0 v -221.25 l -0.25,-3.5 V -233 l -0.25,-2.5 v -4.25 l -0.25,-2 v -2 l -0.25,-2 -0.25,-2.5 -0.25,-1.75 v -0.75 l -0.5,-2.25 v -1 l -0.25,-1.25 -0.25,-1.25 -0.25,-1 -0.25,-1.5 v -1.25 l -0.25,-1.5 -0.25,-1.75 -0.25,-1.75 -0.25,-2.25 v -2 l -0.25,-2 v -2 l -0.25,-2.25 V -278 l -0.25,-2.25 v -8 l -0.25,-2.75 v -5.5 L -212,-299 v -5 l -0.25,-2.5 -0.25,-3 -0.25,-3.5 v -1.75 l -0.25,-2 -0.25,-1.75 -0.25,-1.75 v -1 l -0.25,-2 V -325 l -0.25,-2 v -0.75 l -0.25,-3 -0.25,-1.5 v -2.5 l -0.25,-2.25 v -19 l 0.25,-1.75 v -1.75 l 0.25,-1.5 v -1.75 L -214,-364 v -1.5 l 0.25,-1.25 0.25,-1.25 0.25,-1.25 0.25,-1.25 0.25,-1 0.25,-1 0.25,-1.25 0.5,-0.75 0.25,-1 0.25,-1 0.5,-0.75 0.5,-0.75 0.25,-0.75 0.5,-0.75 0.5,-0.75 0.5,-0.75 0.5,-0.5 0.25,-0.25 0.75,-1 0.5,-0.25 0.25,-0.5 0.75,-0.5 0.25,-0.25 1,-0.75 1.25,-0.75 h 0.25 l 0.75,-0.5 1,-0.25 v -0.25 l 1,-0.25 h 0.25 l 0.5,-0.25 0.75,-0.25 h 1 l 0.5,-0.25 1.5,-0.25 M -211,0 v -214.5 l -0.25,-6.5 v -12.25 l -0.25,-2.5 v -2.5 l -0.25,-2.5 v -2.5 L -212,-246 v -0.5 l -0.5,-4.25 v -1 l -0.25,-2.25 -0.25,-1.25 v -1.5 l -0.25,-1.75 -0.25,-1.5 v -1.75 l -0.25,-2 -0.25,-1.75 v -2.75 l -0.25,-2.25 v -2.25 l -0.25,-2.5 v -2.5 l -0.25,-2.5 v -8.5 l -0.25,-3 v -5.75 l -0.25,-2.75 v -6 l -0.25,-2.75 -0.25,-4.25 V -315 l -0.25,-2.25 -0.25,-2 v -1 l -0.25,-2.5 v -1.75 l -0.25,-2.25 v -2.5 L -217,-330 v -3.75 l -0.25,-1.75 V -357 l 0.25,-1.75 v -1.5 l 0.25,-1.75 v -1.5 l 0.25,-1.5 v -1.25 l 0.25,-1.5 0.25,-0.75 0.25,-1.75 0.25,-1 0.25,-1.25 0.25,-1 0.25,-1 0.25,-1 0.5,-1 0.25,-0.75 0.5,-1 0.25,-0.75 0.5,-0.75 0.5,-1 0.5,-0.75 0.5,-0.5 0.75,-0.75 0.5,-0.75 0.5,-0.5 0.5,-0.5 0.5,-0.25 0.75,-0.5 0.5,-0.5 0.75,-0.5 0.75,-0.25 0.5,-0.25 0.5,-0.25 0.75,-0.25 h 0.25 l 1.25,-0.5 h 1 L -201,-388 h 1.5 v -0.25 h 4 M -215.5,0 v -231.75 l -0.25,-3 v -5.75 l -0.25,-3 v -1.5 l -0.25,-3.5 v -1.5 l -0.25,-2.25 V -254 l -0.25,-2 v -1.5 l -0.25,-2.25 -0.25,-2 V -264 l -0.25,-2.25 v -1.5 l -0.25,-4 V -277 l -0.25,-2.75 V -289 l -0.25,-3.25 V -302 l -0.25,-3.5 v -3.25 l -0.25,-4 v -2 l -0.25,-2.75 v -3.5 l -0.25,-2.75 v -2 l -0.25,-3 v -1 l -0.25,-3.5 v -25.25 l 0.25,-1.75 V -362 l 0.25,-1.5 v -1.5 l 0.25,-1.75 v -1.5 l 0.25,-1.5 0.25,-1.5 0.25,-1 0.25,-1.25 0.25,-1 0.25,-1.25 0.25,-1 0.25,-1 0.25,-0.75 0.5,-1 0.25,-0.75 0.5,-1 0.5,-0.75 0.5,-0.75 0.5,-0.75 0.75,-0.75 0.5,-0.5 0.5,-0.5 0.5,-0.5 0.75,-0.5 0.5,-0.5 0.5,-0.25 0.75,-0.25 0.75,-0.5 0.75,-0.25 0.5,-0.25 h 0.25 l 1.25,-0.5 h 0.25 l 1,-0.25 h 0.75 l 1,-0.25 h 3.75 v 0.25 h 1.75 v 0.25 h 0.75 l 1,0.25 M -219.75,0 v -231 l -0.25,-3.5 v -8 l -0.25,-4 v -4.75 l -0.25,-2 v -4.25 l -0.25,-2.75 v -2.25 l -0.25,-2.75 v -9 l -0.25,-2.25 V -291 l -0.25,-3.75 v -12.5 l -0.25,-3.75 v -6 l -0.25,-2.75 v -7 l -0.25,-3.75 v -31.75 l 0.25,-0.5 v -3.5 l 0.25,-1.25 v -2.75 l 0.5,-2.5 v -1 L -221,-375 v -1 l 0.25,-1 0.25,-0.75 0.25,-1.25 0.25,-0.75 0.25,-0.75 0.5,-1.5 0.25,-0.5 v -0.5 l 0.75,-1.25 0.25,-0.5 0.75,-1 0.75,-1 0.5,-0.5 0.5,-0.75 0.5,-0.25 0.75,-0.5 0.5,-0.5 0.5,-0.25 0.75,-0.25 1,-0.5 h 0.25 l 1.25,-0.5 h 0.25 l 1,-0.25 h 1 l 0.5,-0.25 h 3.5 l 0.25,0.25 h 1 l 1.25,0.25 h 0.25 l 0.5,0.25 h 0.5 l 0.75,0.25 h 0.25 l 0.5,0.25 1,0.25 0.5,0.25 h 0.25 v 0.25 h 0.5 l 1,0.5 M -224,0 v -239.75 l -0.25,-3.75 v -17.75 l -0.25,-3.5 v -36.5 l -0.25,-6 v -26 l -0.25,-3.25 v -19.75 l 0.25,-2 v -10.25 l 0.25,-4.5 v -2.5 l 0.25,-1 v -2.75 l 0.25,-1.5 V -381 l 0.25,-2.25 0.25,-0.5 0.25,-1.25 v -0.75 l 0.5,-1.75 v -0.25 l 0.5,-0.75 v -0.25 l 0.5,-1 V -390 l 1,-1.25 v -0.25 l 0.25,-0.25 0.5,-0.5 0.5,-0.5 0.5,-0.25 0.5,-0.25 0.25,-0.25 0.5,-0.25 0.5,-0.25 0.5,-0.25 1,-0.25 1.5,-0.25 h 5.5 l 0.25,0.25 h 1 l 0.5,0.25 1.5,0.25 h 0.25 l 0.25,0.25 h 0.75 l 0.25,0.25 1.25,0.5 1,0.25 0.25,0.25 1.25,0.5 0.75,0.25 0.25,0.25 0.75,0.25 0.5,0.25 v 0.25 l 0.5,0.25 0.75,0.25 v 0.25 l 0.5,0.25 1.25,0.75 M -228.25,0 v -247 l 0.25,-3.25 v -18 l 0.25,-5.75 v -40.25 l 0.25,-2.75 v -50.25 l -0.25,-1 v -6.25 l -0.25,-1.25 v -1 l -0.25,-1.75 v -2.25 l -0.25,-0.5 -0.25,-2 v -0.25 l -0.25,-1.25 -0.25,-1.25 v -0.25 l -0.5,-1.5 V -388 l -0.25,-0.75 V -389 l -0.75,-1 v -0.25 l -0.25,-0.5 -0.5,-0.5 -0.25,-0.5 -0.25,-0.25 -0.5,-0.5 -0.5,-0.25 -0.25,-0.5 -0.5,-0.25 -0.5,-0.25 h -0.25 l -0.5,-0.25 -0.5,-0.25 h -0.5 l -0.75,-0.25 -1.5,-0.25 h -0.25 L -240,-395 h -1.5 l -0.75,0.25 H -244 l -1,0.25 h -0.25 l -0.5,0.25 h -0.75 l -0.5,0.25 -0.75,0.25 h -0.5 l -0.25,0.25 -1.25,0.5 H -250 l -1,0.5 -1,0.5 h -0.25 l -0.5,0.25 H -253 l -0.25,0.25 -0.5,0.25 -0.25,0.25 -0.5,0.25 -0.75,0.25 v 0.25 l -0.5,0.25 -0.5,0.5 -1,0.5 m 24.5,389 v -95.75 l 0.25,-104.75 v -37 l 0.25,-3.25 v -5.5 l 0.25,-2 V -253 l 0.25,-2.25 V -260 l 0.25,-2.25 v -5.25 l 0.25,-2.75 v -9.5 L -231,-283 v -15.25 l 0.25,-3.75 v -7.75 l 0.25,-3.75 v -6.5 l 0.25,-3.75 v -6.75 l 0.25,-4 V -358 l -0.25,-1.75 v -4.5 l -0.25,-2.75 v -2.25 l -0.25,-2.5 -0.25,-1.25 v -0.75 l -0.25,-1.25 -0.25,-1 -0.25,-1.25 v -0.25 l -0.5,-1.75 V -380 l -0.25,-0.75 -0.5,-1.25 -0.25,-0.75 -0.5,-1 -0.5,-0.75 -0.25,-0.75 -0.5,-0.5 -0.5,-0.75 -0.5,-0.5 -0.5,-0.75 -0.75,-0.5 -0.5,-0.25 -0.5,-0.5 -0.5,-0.25 -0.75,-0.5 -0.75,-0.25 -1,-0.5 h -0.25 l -1.25,-0.25 -0.5,-0.25 h -0.25 l -1,-0.25 h -3.75 l -1.25,0.25 h -0.25 l -1.5,0.25 -0.75,0.25 h -0.25 l -1,0.25 -0.5,0.25 H -254 l -0.75,0.25 H -255 l -0.5,0.25 -0.75,0.5 -0.75,0.25 M -237,0 v -219.75 l 0.25,-4.5 v -9.5 l 0.25,-3 v -5.75 l 0.25,-0.75 0.25,-4.75 v -1.5 l 0.25,-2.5 v -1.5 l 0.25,-2.25 V -257 l 0.25,-2.5 v -2 l 0.25,-2 v -3.25 l 0.25,-4.75 0.25,-2 v -5.75 l 0.25,-3 v -13 l 0.25,-3 V -305 l 0.25,-4.25 v -3 l 0.25,-2.75 v -2.25 l 0.25,-2.5 v -1 l 0.25,-3 v -2 l 0.25,-3 V -335 l 0.25,-2.75 v -17 l -0.25,-1.75 v -3.75 l -0.25,-1.5 v -1.75 l -0.25,-1.75 v -1.5 l -0.25,-1.75 -0.25,-1.5 v -1 l -0.25,-1.5 -0.25,-1 -0.25,-1.25 -0.25,-1 -0.25,-1 -0.5,-1 -0.25,-1 -0.25,-0.75 -0.5,-1 -0.5,-0.75 -0.25,-0.5 -0.5,-1 -0.5,-0.75 -0.75,-0.75 -0.5,-0.5 -0.5,-0.5 -0.75,-0.75 -0.5,-0.5 -0.75,-0.25 -0.5,-0.5 -0.5,-0.25 -1,-0.5 h -0.5 l -0.75,-0.25 v -0.25 l -1.5,-0.25 H -247 l -0.75,-0.25 h -0.75 v -0.25 h -5 l -0.25,0.25 H -255 l -0.25,0.25 h -0.5 l -1.25,0.25 M -241.25,0 v -229.25 l 0.25,-2.5 V -237 l 0.25,-2.5 v -2.5 l 0.25,-2.5 0.25,-3 v -1 l 0.25,-2.75 0.25,-1.25 v -1.75 l 0.25,-1.5 0.25,-1 V -259 l 0.25,-1.25 0.25,-2 V -264 l 0.25,-1 0.25,-3.5 v -1.75 L -238,-273 v -2.25 l 0.25,-2.5 V -283 l 0.25,-2.75 v -9 l 0.25,-2.75 v -5.75 l 0.25,-3 V -309 l 0.25,-4.25 0.25,-1.5 v -2.5 l 0.25,-2 v -1 l 0.25,-2.5 0.25,-1.75 v -2.25 l 0.25,-2.5 V -330 l 0.25,-3.75 v -4.75 l 0.25,-2.25 v -10 l -0.25,-2.25 v -5.75 l -0.25,-1.5 V -362 l -0.25,-1.5 v -1.5 l -0.25,-1.25 -0.25,-1.5 v -0.75 l -0.25,-1.5 -0.25,-1.25 -0.25,-1.25 -0.25,-1 -0.5,-1 -0.25,-0.75 -0.25,-1.25 -0.25,-0.75 -0.5,-1 -0.5,-0.75 -0.5,-0.75 -0.25,-0.75 -0.75,-0.75 -0.5,-0.75 -0.5,-0.75 -0.5,-0.5 -0.75,-0.75 -0.5,-0.5 -0.5,-0.25 -0.75,-0.5 -0.5,-0.5 -0.5,-0.25 -0.5,-0.25 -0.5,-0.25 -0.75,-0.25 V -387 l -1.25,-0.25 -1.25,-0.5 h -1 V -388 h -1.25 l -0.5,-0.25 h -4 M -245.5,0 v -227.5 l 0.25,-2.75 v -5 l 0.25,-2.25 v -4 l 0.25,-2.25 0.25,-2 0.25,-2.25 0.25,-2 v -0.75 l 0.25,-2.25 0.25,-0.75 0.25,-1.5 0.25,-1.25 v -1.25 l 0.25,-1.25 0.25,-1.5 0.25,-1.5 0.25,-1.5 0.25,-2.25 v -1.75 l 0.25,-2.25 0.25,-2 v -2 L -241,-276 v -4.5 l 0.25,-2.75 v -8 l 0.25,-2.75 v -5.25 l 0.25,-2.5 v -2.5 l 0.25,-2.5 v -3 l 0.5,-4.25 v -1.25 l 0.25,-2.25 0.25,-1.5 v -1.75 l 0.25,-1.25 0.25,-2 v -1.75 l 0.25,-2.25 v -0.75 l 0.25,-3 0.25,-2 v -4.5 l 0.25,-2.5 v -12.5 l -0.25,-2 v -3.5 l -0.25,-1.75 v -1.5 l -0.25,-1.5 -0.25,-1.5 v -1.25 l -0.25,-1.25 -0.25,-1.25 -0.25,-1.25 -0.25,-1.25 -0.25,-1 -0.25,-1 -0.5,-1 -0.25,-1 -0.25,-0.75 -0.5,-1 -0.25,-0.75 -0.5,-0.75 -0.5,-0.75 -0.5,-0.75 -0.5,-0.75 -0.25,-0.5 -0.25,-0.25 -1,-1 -0.25,-0.5 -0.5,-0.25 -0.75,-0.75 -0.5,-0.25 -0.5,-0.5 -0.5,-0.25 -0.5,-0.25 -0.75,-0.5 -0.5,-0.25 -0.25,-0.25 h -0.5 l -0.25,-0.25 -0.75,-0.25 H -252 l -0.75,-0.25 -0.25,-0.25 h -0.75 l -1,-0.25 -0.75,-0.25 -1.5,-0.25 m 7,388 v -9.5 l 0.25,-86.25 v -135 l 0.25,-2.25 v -6.25 l 0.25,-1.5 v -1.75 l 0.25,-1.5 v -1.25 l 0.25,-1.5 0.25,-1.5 0.25,-2.25 0.25,-1 0.25,-1.25 0.25,-0.75 v -1 l 0.25,-1 0.25,-1 0.25,-0.5 0.25,-1.25 0.25,-1 0.25,-1 V -261 l 0.25,-1.75 0.25,-1.5 0.25,-1.75 0.25,-1.5 0.25,-1.5 v -1.75 l 0.25,-1.75 v -2 l 0.25,-2 v -4.5 l 0.25,-2.25 v -5.25 l 0.25,-2.75 v -7.5 l 0.25,-2.5 v -2 l 0.25,-2.25 v -2.25 l 0.25,-2.25 0.25,-3.5 0.25,-1.25 0.25,-2 0.25,-1.25 v -1.5 l 0.25,-1.5 0.25,-1 0.25,-1.75 v -1.5 l 0.25,-2 0.25,-0.75 0.25,-2.5 v -1.5 l 0.25,-2.25 v -4 l 0.25,-2.25 V -353 l -0.25,-2.5 v -3.5 l -0.25,-1.75 -0.25,-1.5 v -1.5 l -0.25,-1.5 -0.25,-1.25 -0.25,-1.25 -0.25,-1.25 -0.25,-1.25 -0.25,-1 -0.25,-1 -0.25,-1 -0.25,-0.75 -0.5,-1 -0.25,-1 -0.5,-0.75 -0.25,-0.75 -0.5,-0.75 -0.5,-0.75 -0.25,-0.75 -0.5,-0.75 -0.5,-0.5 -0.25,-0.25 -0.75,-1 -0.25,-0.25 -0.75,-0.75 H -249 l -1,-1 -0.75,-0.5 -0.25,-0.25 -0.75,-0.5 H -252 l -0.5,-0.25 V -386 l -0.75,-0.25 -0.75,-0.25 -1,-0.5 h -0.25 l -0.5,-0.25 -1.25,-0.25 M -254.25,0 v -219 l 0.25,-3.5 V -239 l 0.25,-1.75 v -4 l 0.25,-1 v -1 l 0.25,-1 v -1 l 0.25,-0.75 v -1 l 0.25,-1 0.5,-1.25 0.25,-0.75 v -0.25 l 0.25,-0.75 0.25,-0.75 0.25,-0.5 0.25,-0.25 0.25,-1 0.25,-0.25 0.25,-0.75 0.25,-0.75 V -259 l 0.25,-1.25 0.25,-1 0.5,-1.25 0.25,-1 v -1.25 l 0.25,-1 0.25,-1.25 v -1.25 l 0.25,-1.5 v -1.5 l 0.25,-1.5 v -1.75 l 0.25,-1.75 v -4.25 l 0.25,-2.5 v -5.25 L -247,-291 v -7.25 l 0.25,-2.25 v -4 l 0.25,-1.75 v -2 l 0.25,-1.75 0.25,-1.75 0.25,-2.75 0.25,-1.5 0.25,-1 0.25,-1.25 0.25,-1.25 0.25,-1.25 v -0.5 l 0.25,-1.75 0.25,-1 0.25,-1.75 v -0.5 l 0.25,-2 0.25,-1.5 0.25,-1.75 v -1.5 l 0.25,-1.75 v -2.75 l 0.25,-3 v -14.25 l -0.25,-1.75 v -2 l -0.25,-1.75 V -362 l -0.25,-1.5 -0.25,-1.25 v -1.5 l -0.25,-1.25 -0.25,-1.25 -0.25,-1.25 -0.25,-1 -0.25,-1 -0.5,-1 -0.25,-1 -0.25,-0.75 -0.5,-1 -0.25,-0.75 -0.5,-1 -0.25,-0.75 -0.5,-0.5 -0.5,-0.75 -0.25,-0.5 -0.5,-0.75 -0.5,-0.75 -1,-1 v -0.25 l -0.75,-0.75 h -0.25 v -0.25 l -1,-0.75 -0.25,-0.25 -0.5,-0.25 v -0.25 l -0.75,-0.25 v -0.25 l -0.75,-0.25 -0.5,-0.5 h -0.25 l -0.5,-0.25 -1,-0.5 M -258.5,0 v -253.75 l 0.25,-0.25 v -1 l 0.25,-0.25 v -0.25 h 0.75 v -0.25 h 0.5 V -256 h 0.25 l 0.25,-0.25 0.5,-0.25 h 0.25 l 0.25,-0.25 0.25,-0.25 0.25,-0.25 0.25,-0.25 v -0.25 l 0.25,-0.25 0.25,-0.5 0.5,-0.5 0.25,-0.5 0.25,-0.5 0.25,-0.75 0.25,-0.5 V -262 l 0.25,-0.5 0.25,-0.75 0.25,-0.75 v -1 l 0.25,-0.75 v -1 l 0.25,-1 V -269 l 0.25,-1.25 v -1.5 l 0.25,-1.5 v -3.5 l 0.25,-2 v -7.75 l 0.25,-2.75 v -10 l 0.25,-2 v -3.5 l 0.25,-1.5 v -1.5 l 0.25,-1.5 v -1.5 l 0.25,-1.25 0.25,-1.5 0.25,-1.75 0.25,-1.5 0.25,-1 0.25,-0.75 0.25,-1 0.25,-1 0.25,-1 v -0.5 l 0.25,-1.25 0.25,-1 0.25,-0.5 0.25,-1.5 v -1 l 0.25,-1.5 0.25,-1.25 0.25,-1.5 v -0.75 l 0.25,-2 v -1.5 l 0.25,-2 v -4 l 0.25,-2.75 v -7 l -0.25,-2.25 V -358 l -0.25,-1.75 -0.25,-1.75 v -1.5 l -0.25,-1.5 -0.25,-1.5 -0.25,-1.25 v -1.25 l -0.25,-1.25 -0.25,-1 -0.5,-1.25 -0.25,-1 -0.25,-1 -0.25,-1 -0.25,-0.5 -0.5,-1.25 -0.25,-0.5 -0.5,-0.75 -0.25,-1 -0.25,-0.25 -0.75,-1 -0.25,-0.5 -0.5,-0.75 -0.25,-0.25 -0.75,-1 -0.75,-1 h -0.25 l -0.25,-0.5 -0.75,-0.75 -0.75,-0.5 v -0.25 l -0.75,-0.5 -1,-0.75 h -0.25 m -5.5,387 V -229.25 L -263,-232 v -10 l -0.25,-1 v -2.5 l -0.25,-1 v -1 l -0.25,-0.75 v -1 L -264,-250 v -1 l -0.5,-1 -0.25,-1.5 -0.25,-0.25 -0.25,-0.5 -0.25,-0.75 -0.25,-0.5 v -0.5 l -0.25,-0.75 -0.25,-0.5 -0.25,-0.75 -0.25,-0.75 -0.25,-0.25 -0.25,-1.25 -0.25,-1 -0.25,-1 -0.25,-1 -0.25,-1.25 -0.25,-1.25 -0.25,-1 v -1.5 l -0.25,-1.25 v -1.5 l -0.25,-1.5 v -1.75 l -0.25,-1.75 v -4.25 l -0.25,-2.5 v -7.75 L -270,-293 v -7.25 l -0.25,-2 v -2 l -0.25,-1.75 v -1.75 l -0.25,-1.75 -0.25,-2 -0.25,-2.25 -0.25,-2 -0.25,-1.25 -0.25,-1.25 v -1 l -0.25,-1.25 -0.25,-0.75 -0.25,-1.5 -0.25,-1 -0.25,-1.75 v -0.75 l -0.25,-1.75 -0.25,-1.25 V -331 l -0.25,-1.5 -0.25,-1.75 v -3.25 l -0.25,-2.5 v -14.25 l 0.25,-2 v -2 l 0.25,-1.5 v -1.75 l 0.25,-1.5 0.25,-1.5 v -1.5 l 0.25,-1.25 0.25,-1.25 0.25,-1.25 0.25,-1 0.25,-1 0.5,-1 0.25,-1 0.25,-0.75 0.25,-1 0.5,-1 0.5,-0.75 0.25,-0.75 0.25,-0.5 0.5,-1 0.5,-0.5 0.25,-0.5 0.5,-0.75 0.25,-0.25 0.75,-1 h 0.25 l 0.75,-1 h 0.25 v -0.25 l 1,-0.75 0.25,-0.25 0.25,-0.25 h 0.25 l 0.75,-0.5 0.75,-0.5 0.75,-0.5 1.5,-0.75 M -267.25,0 v -9.5 l 0.25,-86.25 v -123 l -0.25,-3.5 v -13.5 l -0.25,-2 v -3.5 l -0.25,-1.5 v -1.5 l -0.25,-1.5 -0.25,-1.25 v -1.75 l -0.5,-2 -0.25,-1 -0.25,-1.25 v -0.5 l -0.25,-1.25 -0.25,-0.75 -0.25,-1.25 -0.25,-0.5 -0.25,-1.25 -0.25,-1 -0.25,-1 v -0.5 l -0.25,-2 -0.25,-1.5 -0.25,-1.75 -0.25,-1.5 v -1.5 l -0.25,-1.75 -0.25,-1.75 v -4 l -0.25,-2 v -4.75 l -0.25,-2.75 v -5.25 l -0.25,-2.5 v -5 l -0.25,-2.25 v -4.5 l -0.25,-2 -0.25,-2.5 -0.25,-3.25 -0.25,-1.25 -0.25,-2 v -1.5 l -0.25,-1.5 -0.25,-1.25 -0.25,-1.5 -0.25,-1.5 v -1.5 l -0.25,-1.25 -0.25,-1.75 v -1.75 l -0.25,-1.75 v -2 l -0.25,-2 v -2 l -0.25,-2.25 v -12.5 l 0.25,-2.5 v -1.25 l 0.25,-2.5 v -1.25 l 0.25,-1.75 v -1.5 l 0.25,-1.5 0.25,-1.25 0.25,-1.25 v -1.25 l 0.5,-1.25 0.25,-1 0.25,-1.25 0.25,-1 0.25,-0.5 0.5,-1.25 0.25,-0.75 0.25,-1 0.5,-0.75 0.5,-0.75 0.25,-0.75 0.5,-0.5 0.5,-0.75 0.5,-0.75 1,-1 0.25,-0.5 0.25,-0.25 1,-0.75 1,-0.75 0.25,-0.25 0.5,-0.5 0.5,-0.25 1,-0.5 0.5,-0.25 0.25,-0.25 h 0.25 l 0.5,-0.25 h 0.25 l 0.5,-0.5 h 0.25 l 0.5,-0.25 1.5,-0.25 M -271.5,0 v -231.5 l -0.25,-2.5 v -4.5 l -0.25,-2 v -2 l -0.25,-2 -0.25,-2.25 -0.25,-2.5 -0.25,-1.25 v -1 l -0.25,-1.75 -0.25,-1 -0.25,-1.25 -0.25,-1.25 V -258 l -0.25,-1.5 -0.25,-1.25 -0.25,-1.5 V -263 l -0.25,-2.5 -0.25,-1.75 -0.25,-2.25 v -2 l -0.25,-2 v -2.25 L -276,-278 v -4.75 l -0.25,-2.75 v -8.25 l -0.25,-2.75 v -5 l -0.25,-2.5 v -2.5 l -0.25,-2.75 -0.25,-3 -0.25,-2 v -2 l -0.25,-1.75 -0.25,-1.75 v -0.75 l -0.25,-2.25 -0.25,-1.5 v -2.25 l -0.25,-2 -0.25,-1.25 v -2.5 l -0.25,-2 v -4.5 l -0.25,-2.5 v -10.25 l 0.25,-2 v -4 l 0.25,-1.75 v -1.5 l 0.25,-1.75 v -1.25 l 0.25,-1.5 0.25,-1.25 v -1.5 l 0.25,-1 0.25,-1.25 0.25,-1.25 0.25,-1 0.5,-1 0.25,-1 0.25,-1 0.5,-0.75 0.25,-0.75 0.5,-1 0.5,-0.75 0.25,-0.75 0.5,-0.75 0.5,-0.5 0.5,-0.75 0.25,-0.25 0.75,-0.75 0.5,-0.5 0.5,-0.5 0.5,-0.5 h 0.25 l 1.25,-1 1.25,-0.75 h 0.25 l 0.25,-0.25 0.5,-0.25 h 0.25 l 1,-0.5 0.75,-0.25 h 0.5 l 0.75,-0.25 0.75,-0.25 h 0.25 l 0.5,-0.25 1.5,-0.25 m -15.5,388 v -229 l -0.25,-3 v -5.25 l -0.25,-2.25 v -2.5 l -0.25,-2.5 -0.25,-3 v -1 l -0.25,-2.75 -0.25,-1.25 -0.25,-1.75 v -1.5 l -0.25,-1 -0.25,-2.25 v -1.25 l -0.25,-2 -0.25,-1.75 v -1 l -0.25,-3.5 v -1.75 L -279,-273 v -2.25 l -0.25,-2.5 V -283 l -0.25,-2.75 v -9 l -0.25,-2.75 v -5.75 l -0.25,-3 V -309 l -0.25,-4.25 -0.25,-1.5 -0.25,-2.5 v -3 l -0.25,-2.5 -0.25,-1.75 v -2.25 l -0.25,-2.5 V -330 l -0.25,-3.75 v -4.75 l -0.25,-2.25 V -353 l 0.25,-2 v -3.75 l 0.25,-1.5 V -362 l 0.25,-1.5 v -1.5 l 0.25,-1.25 0.25,-1.5 v -0.75 l 0.25,-1.75 0.25,-1 0.25,-1.25 0.25,-1 0.25,-1 0.25,-0.75 0.5,-1.25 0.25,-0.75 0.5,-1 0.5,-0.75 0.25,-0.75 0.5,-0.75 0.5,-0.75 0.75,-0.75 0.5,-0.75 0.5,-0.5 0.5,-0.75 0.75,-0.5 0.5,-0.25 0.5,-0.5 0.75,-0.5 h 0.25 l 0.75,-0.5 h 0.25 l 0.75,-0.5 0.5,-0.25 0.75,-0.25 h 0.25 l 1.5,-0.5 h 0.25 l 1,-0.25 h 1 l 0.5,-0.25 H -260 M -280,0 v -224.25 l -0.25,-3.5 V -237 l -0.25,-2.75 v -3.75 l -0.25,-4.5 -0.25,-1.5 v -2.25 l -0.25,-1.75 v -2 l -0.25,-1.25 v -2.75 l -0.25,-1.75 v -2.25 l -0.25,-2.25 v -0.75 l -0.25,-4.5 v -2 l -0.25,-3.25 v -5.5 l -0.25,-3 v -13 L -283,-301 v -6.25 l -0.25,-4.5 -0.25,-2 v -3 l -0.25,-2 v -4 l -0.25,-2 v -2.75 l -0.25,-3 v -6.75 l -0.25,-3 v -12 l 0.25,-2.25 v -5.5 l 0.25,-1.75 v -3 l 0.25,-0.75 0.25,-2.25 V -369 l 0.25,-1.75 0.25,-1.25 0.25,-1.25 0.25,-1 0.25,-1.25 0.25,-0.75 0.25,-1 0.25,-1 0.5,-1 0.25,-0.75 0.5,-0.75 0.5,-1 0.25,-0.5 0.75,-0.75 0.5,-0.75 0.5,-0.75 0.5,-0.5 1,-0.75 0.5,-0.5 0.5,-0.5 0.75,-0.25 0.5,-0.25 0.75,-0.5 0.75,-0.25 0.5,-0.25 h 0.25 l 1.5,-0.5 h 0.25 l 0.75,-0.25 h 0.75 l 1,-0.25 h 3.25 l 0.5,0.25 h 1.75 v 0.25 h 0.75 l 1.25,0.25 M -284.5,0 v -2.5 l 0.25,-21.5 v -216.5 l -0.25,-4.5 v -4.75 l -0.25,-2 V -254 l -0.25,-2.25 v -5 l -0.25,-2.5 v -3.75 l -0.25,-4.5 v -8.75 l -0.25,-3.5 v -15 L -286,-303 v -7.75 l -0.25,-3 V -320 l -0.25,-4 v -5.75 l -0.25,-0.75 V -360 l 0.25,-1.75 V -365 l 0.25,-2.25 v -1.5 l 0.25,-1 v -2 l 0.25,-1.25 0.25,-1 v -1.25 l 0.25,-1 0.25,-1 v -0.5 l 0.5,-1.5 0.25,-0.75 0.25,-0.5 0.5,-1.5 0.25,-0.75 0.25,-0.5 0.5,-1 0.5,-0.75 0.5,-0.75 0.5,-0.5 1.25,-1.5 0.25,-0.25 0.75,-0.5 0.75,-0.5 0.75,-0.25 0.75,-0.5 0.5,-0.25 1,-0.25 0.25,-0.25 h 1 l 0.25,-0.25 h 0.75 l 0.5,-0.25 h 3.75 l 1,0.25 h 0.25 l 1.5,0.25 h 1 l 0.75,0.25 h 0.25 v 0.25 h 0.75 l 0.5,0.25 0.25,0.25 h 0.5 l 0.25,0.25 0.5,0.25 1,0.25 M -288.75,0 v -24 l 0.25,-144.75 v -56 l -0.25,-5.5 V -254.5 L -289,-256 v -23.75 l -0.25,-4 v -36.5 l -0.25,-4.75 v -38.5 l 0.25,-4.75 v -0.5 l 0.25,-5 v -3 l 0.25,-1.75 v -0.75 l 0.25,-1.5 V -381 l 0.25,-2.5 v -0.25 l 0.25,-0.5 0.25,-1 v -0.25 l 0.25,-1.5 0.25,-0.25 0.5,-1.5 0.25,-0.5 0.25,-0.75 0.25,-0.25 1,-1.25 v -0.25 l 0.75,-0.5 1,-1 h 0.25 l 0.75,-0.5 h 0.25 l 2,-0.75 1.5,-0.25 h 4 l 1.25,0.25 1.25,0.25 h 0.75 l 0.75,0.25 h 0.5 l 0.75,0.25 0.5,0.25 h 0.25 l 1.25,0.5 h 0.25 l 1,0.5 1,0.5 0.75,0.25 0.25,0.25 0.75,0.25 0.25,0.25 0.25,0.25 h 0.25 l 0.75,0.5 0.5,0.25 0.25,0.25 1.25,0.75 M -293,0 v -145.75 l 0.25,-97 v -18 l 0.25,-3 v -35.5 l 0.25,-5.5 v -30.5 L -292,-340 v -14.5 l -0.25,-2 V -369 l -0.25,-5.5 v -0.5 l -0.25,-2 v -2.75 l -0.25,-1.5 v -0.25 l -0.5,-2.5 v -0.75 l -0.25,-0.5 v -0.25 l -0.5,-1.75 v -0.25 l -0.25,-1 -0.25,-0.25 -0.5,-1.25 -0.75,-1.25 -0.25,-0.25 -0.5,-0.5 -0.5,-0.5 -0.25,-0.25 -0.5,-0.5 -0.5,-0.25 -0.25,-0.25 H -299 l -0.75,-0.25 -0.5,-0.25 -0.25,-0.25 h -1 l -1.5,-0.25 -1.75,-0.25 h -1.5 l -0.75,0.25 h -1.5 l -1,0.25 h -0.5 l -0.25,0.25 -1,0.25 h -0.25 l -0.75,0.25 h -0.5 l -0.25,0.25 -1.25,0.25 -0.25,0.25 -1,0.25 -1.25,0.75 H -317 l -0.5,0.25 -0.25,0.25 -0.5,0.25 h -0.25 l -0.25,0.25 H -319 l -0.5,0.5 -0.75,0.25 -0.5,0.5 -1.25,0.75 m 24.75,389 v -224 l 0.25,-4 v -13.75 l 0.25,-1.5 V -249 l 0.25,-2.75 V -256 l 0.25,-1.75 V -263 l 0.25,-2.75 V -270 l 0.25,-4.25 v -13.25 l 0.25,-3.75 v -15.25 l 0.25,-4.25 v -6 l 0.25,-2.5 v -5 l 0.25,-2.25 v -10.75 l 0.25,-3 v -12 l -0.25,-2.25 v -8.25 L -295,-366 v -1.5 l -0.25,-2 v -0.5 l -0.25,-2.75 -0.25,-1 V -375 l -0.25,-1 -0.25,-1 v -0.5 l -0.5,-1.5 -0.25,-0.75 v -0.75 l -0.5,-1.25 -0.25,-0.75 -0.25,-0.5 -0.5,-1.25 -0.5,-0.5 -0.25,-0.5 -0.5,-1 -0.5,-0.5 -0.5,-0.5 -0.5,-0.5 -0.75,-0.5 -0.5,-0.5 -0.5,-0.5 -0.5,-0.25 -0.75,-0.25 -1,-0.5 -1,-0.25 -0.5,-0.25 h -0.5 l -0.5,-0.25 h -0.5 l -0.75,-0.25 h -4 l -1,0.25 h -0.75 l -0.75,0.25 h -1 l -0.5,0.25 h -0.25 l -0.5,0.25 H -318 l -0.5,0.25 -0.75,0.25 h -0.25 l -0.5,0.25 -0.75,0.25 -1,0.5 M -301.5,0 v -226.75 l 0.25,-3 v -9 l 0.25,-3 v -1 l 0.25,-4 v -1.75 l 0.25,-2.25 v -1.75 l 0.25,-2 0.25,-2.25 v -2 l 0.25,-2 v -2 l 0.25,-2.25 v -2.5 l 0.25,-3.5 v -2.5 l 0.25,-2.75 V -285 l 0.25,-3.25 v -10 l 0.25,-3.25 v -6.75 l 0.25,-4.25 v -2 l 0.25,-2.75 v -2.25 l 0.25,-1 v -3 l 0.25,-2 v -4.25 l 0.25,-3 v -10 l 0.25,-2.5 v -2.5 l -0.25,-2.5 v -8 l -0.25,-1.75 v -3.25 l -0.25,-1.5 v -1.5 l -0.25,-1.75 -0.25,-1.25 v -1.5 l -0.25,-0.75 -0.25,-1.75 -0.25,-1 -0.25,-1.25 -0.25,-0.75 -0.25,-1.25 -0.5,-0.75 -0.25,-1 -0.5,-0.75 -0.25,-1 -0.5,-0.5 -0.5,-1 -0.5,-0.75 -0.5,-0.75 -0.5,-0.5 -0.75,-0.75 -0.5,-0.5 -1,-0.75 -0.25,-0.25 -0.75,-0.5 -0.5,-0.25 -0.75,-0.25 -0.75,-0.25 -0.5,-0.25 -0.5,-0.25 h -0.25 l -1.5,-0.5 h -0.75 l -0.5,-0.25 h -5.25 l -1,0.25 -0.5,0.25 h -0.75 l -1.25,0.25 M -306,0 v -9.5 l 0.25,-86.25 v -132 l 0.25,-3 V -236 l 0.25,-2.5 v -2.5 l 0.25,-2.5 v -2.75 l 0.25,-1 0.25,-3.25 v -1.25 l 0.25,-1.75 0.25,-1.5 0.25,-1.75 v -1.75 l 0.25,-1.75 0.25,-1.75 v -1.75 l 0.25,-1.5 0.25,-2.75 v -2.25 l 0.25,-2.5 V -275 l 0.25,-2.5 v -8.25 l 0.25,-3 v -8.75 l 0.25,-2.75 v -3 l 0.25,-3 V -309 l 0.25,-4.25 0.25,-1.75 v -2.5 l 0.25,-1.75 v -1 l 0.25,-2.5 v -1.75 l 0.25,-2.25 0.25,-2.75 v -4.25 l 0.25,-2 V -357 l -0.25,-1.75 v -1.75 l -0.25,-1.5 v -1.5 l -0.25,-1.5 v -1.5 l -0.25,-1.5 -0.25,-1.25 -0.25,-1.25 -0.25,-1 -0.25,-1.25 -0.25,-1 -0.25,-1.25 -0.25,-0.75 -0.5,-1 -0.25,-1 -0.5,-0.75 -0.5,-1 -0.25,-0.75 -0.5,-0.75 -0.75,-0.75 -0.5,-0.75 -0.5,-0.5 -0.5,-0.75 -0.75,-0.5 -0.5,-0.5 -0.25,-0.25 -1,-0.5 -0.25,-0.25 -1,-0.5 -0.25,-0.25 -0.75,-0.25 h -0.25 l -1.25,-0.5 -0.25,-0.25 H -314 l -0.5,-0.25 h -1 l -0.25,-0.25 h -1 l -0.5,-0.25 h -4.25 M -310.25,0 v -199.5 l 0.25,-8.5 v -22.5 l 0.25,-2.5 v -4.5 l 0.25,-2.25 v -2 l 0.25,-2 0.25,-2 0.25,-2.5 V -250 l 0.25,-1 0.25,-1.75 0.25,-1 v -1.5 l 0.25,-1.25 0.25,-1.25 0.25,-1.25 0.25,-1.5 v -1.5 l 0.25,-1.5 0.25,-3 0.25,-1.5 0.25,-2.25 v -2 l 0.25,-2 v -2.25 l 0.25,-2.5 v -5 l 0.25,-2.5 v -8.5 l 0.25,-2.5 v -5 l 0.25,-2.5 v -2.75 l 0.25,-3.5 0.25,-1.75 0.25,-2.5 0.25,-1.5 v -2 l 0.25,-1.5 v -1 l 0.25,-2.25 0.25,-1.5 0.25,-2.25 v -1.25 l 0.25,-2.25 v -2 l 0.25,-2.5 v -7 l 0.25,-2.5 v -2.75 l -0.25,-2.5 v -6.25 l -0.25,-1.75 V -360 l -0.25,-1.5 v -1.5 l -0.25,-1.5 -0.25,-1.25 v -1.5 l -0.25,-1.25 -0.25,-1 -0.25,-1.25 -0.25,-1 -0.25,-1.25 -0.5,-1 -0.25,-0.75 -0.25,-1 -0.5,-1 -0.25,-0.75 -0.5,-0.75 -0.5,-0.75 -0.25,-0.75 -0.5,-0.75 -0.5,-0.5 -0.5,-0.75 -0.5,-0.5 -0.5,-0.5 -0.5,-0.5 -0.5,-0.5 -0.75,-0.5 -1,-0.75 H -313 l -1.25,-0.75 -0.25,-0.25 -0.75,-0.25 -0.25,-0.25 -0.75,-0.25 h -0.25 L -317,-387 h -0.25 l -0.5,-0.25 -1,-0.25 h -0.75 l -0.5,-0.25 -1.5,-0.25 m 7,388 v -218.5 l 0.25,-3.75 v -13.5 l 0.25,-2 v -1.75 l 0.25,-1.75 v -3 l 0.25,-1.5 0.25,-1.5 0.25,-1.5 0.25,-2.5 0.25,-0.75 0.25,-1.25 v -0.5 l 0.5,-1.25 v -0.75 l 0.25,-1.25 0.25,-1 0.25,-1 0.25,-1 0.25,-1.25 0.25,-0.75 0.25,-2 0.25,-1.25 V -267 l 0.25,-1.5 0.25,-1.75 V -272 l 0.25,-2 v -1.75 l 0.25,-2.25 v -7.25 l 0.25,-2.5 v -5.5 l 0.25,-2.5 v -4.75 l 0.25,-2.25 V -305 l 0.25,-2 v -2.25 l 0.25,-3 0.25,-2 0.25,-1.75 0.25,-1.5 0.25,-1.5 v -1.25 l 0.25,-0.75 0.25,-2 v -1.25 l 0.25,-2 0.25,-0.5 0.25,-2.5 v -1.5 L -305,-333 v -1.75 l 0.25,-2 v -4.5 l 0.25,-2.5 V -349 l -0.25,-2.75 v -3.75 l -0.25,-2.25 V -361 l -0.25,-1.5 -0.25,-1.5 v -1.5 l -0.25,-1.25 -0.25,-1.25 -0.25,-1.25 -0.25,-1 -0.25,-1.25 -0.25,-1 -0.5,-1 -0.25,-0.75 -0.25,-1 -0.5,-0.75 -0.25,-1 -0.5,-0.75 -0.5,-0.75 -0.25,-0.75 -0.5,-0.75 -0.5,-0.5 -0.5,-0.75 -0.25,-0.25 -0.75,-0.75 -0.25,-0.25 -0.75,-0.75 -0.25,-0.25 -1,-0.75 -1,-0.75 -0.25,-0.25 -1,-0.5 -0.75,-0.5 -1,-0.25 -0.25,-0.25 h -0.25 l -0.25,-0.25 h -0.25 l -0.75,-0.25 -1,-0.25 M -318.75,0 v -229 l 0.25,-2.75 v -8.5 l 0.25,-1.5 v -3.5 l 0.25,-1.25 v -0.75 l 0.25,-1 v -1 l 0.25,-0.75 0.25,-1 0.25,-1.25 0.25,-1 0.25,-0.5 0.25,-0.5 0.25,-0.75 0.25,-0.5 v -0.25 l 0.25,-1 0.25,-0.5 0.25,-0.75 0.25,-0.75 0.25,-0.5 0.25,-1 0.25,-1 0.25,-1.25 0.25,-1 0.25,-1.25 0.25,-1 V -267 l 0.25,-1.25 0.25,-1.5 v -1.5 l 0.25,-1.5 v -3.75 l 0.25,-2 v -4.5 l 0.25,-2.75 v -7.75 l 0.25,-2.5 v -4.5 l 0.25,-2 v -2 l 0.25,-2 v -1.75 l 0.25,-1.75 0.25,-2 0.25,-2.75 0.25,-1.25 0.25,-1.5 0.25,-1 v -1.25 l 0.25,-1.25 0.25,-0.75 0.25,-1.5 0.25,-1.25 0.25,-1.5 v -1.25 l 0.25,-1.5 0.25,-1.5 V -332 l 0.25,-1.75 0.25,-1.75 v -3.5 l 0.25,-2.5 V -353 l -0.25,-2.25 v -2 l -0.25,-1.75 v -1.75 l -0.25,-1.5 v -1.5 l -0.25,-1.5 -0.25,-1.25 -0.25,-1.25 -0.25,-1.25 -0.25,-1.25 -0.25,-1 -0.25,-1 -0.25,-1 -0.5,-1 -0.25,-0.75 -0.5,-1 -0.25,-0.75 -0.5,-1 V -378 l -0.75,-1 -0.25,-0.75 -0.25,-0.25 -0.75,-1 -0.25,-0.5 -0.5,-0.5 -0.5,-0.5 -0.25,-0.25 -0.5,-0.5 -0.25,-0.25 -0.75,-0.5 -0.25,-0.25 v -0.25 l -0.5,-0.25 -0.25,-0.25 -0.5,-0.25 -0.5,-0.5 H -319 l -0.5,-0.5 h -0.25 l -0.5,-0.5 -1.5,-0.5 M -323.25,0 V -9.5 L -323,-95.75 V -253.5 l 0.25,-0.25 v -1 l 0.25,-0.25 0.25,-0.25 0.5,-0.25 0.25,-0.25 h 0.25 V -256 h 0.25 l 0.5,-0.25 0.25,-0.25 0.25,-0.25 0.25,-0.25 0.25,-0.25 0.25,-0.25 0.25,-0.25 0.25,-0.25 0.25,-0.5 0.25,-0.25 0.25,-0.5 0.25,-0.75 0.25,-0.5 0.25,-0.5 0.25,-0.75 0.25,-0.75 v -0.5 l 0.25,-0.75 0.25,-1 v -0.75 l 0.25,-1 v -1 l 0.25,-1.25 V -270 l 0.25,-1.25 v -3.25 l 0.25,-1.75 v -4.25 l 0.25,-2.25 v -11 l 0.25,-2.5 v -6.25 l 0.25,-1.75 v -1.5 l 0.25,-1.5 v -1.5 l 0.25,-1.5 v -1.5 l 0.25,-1.25 0.25,-1.75 0.5,-2 v -0.75 l 0.25,-1 0.25,-1 0.25,-0.75 0.25,-1 0.25,-1 0.25,-1 0.25,-1.25 v -0.5 l 0.5,-1.75 v -1 l 0.25,-1.5 0.25,-1.25 0.25,-1.5 v -2 l 0.25,-1.25 v -2 l 0.25,-1.75 v -14.5 l -0.25,-2.75 V -360 l -0.25,-1.5 -0.25,-1.75 v -1.25 l -0.25,-1.5 -0.25,-1.25 -0.25,-1.25 -0.25,-1.25 -0.25,-1 -0.25,-1.25 -0.25,-1 -0.5,-1 -0.25,-1 -0.25,-0.5 -0.5,-1.25 -0.25,-0.5 -0.25,-0.5 -0.5,-1 -0.25,-0.5 -0.5,-0.75 -0.25,-0.5 v -0.25 l -0.75,-1 -0.5,-0.5 v -0.25 l -0.75,-0.75 -0.75,-0.75 -0.5,-0.5 -0.25,-0.25 -0.5,-0.5 -0.25,-0.25 -0.5,-0.5 h -0.25 l -0.5,-0.5 -0.75,-0.5 M -327.5,0 v -95.75 l 0.25,-98.75 v -21 l -0.25,-5.25 V -240 l -0.25,-1.5 v -2.5 l -0.25,-1.25 v -2 l -0.25,-0.75 v -1 l -0.25,-0.75 -0.25,-1 v -1 l -0.5,-1.25 -0.25,-0.5 v -0.5 l -0.5,-0.75 v -0.5 l -0.25,-0.5 -0.25,-0.75 -0.25,-0.5 -0.25,-0.5 -0.25,-0.75 -0.25,-0.5 v -0.5 l -0.5,-1.25 -0.25,-1 -0.25,-1 -0.25,-1 -0.25,-1.25 v -1 l -0.25,-1.25 -0.25,-1.25 v -1.5 l -0.25,-1.5 v -1.5 l -0.25,-1.75 v -4 l -0.25,-2.25 v -7.5 l -0.25,-2.75 v -5 l -0.25,-2.25 v -4.25 l -0.25,-2 v -1.75 l -0.25,-1.75 v -2 l -0.25,-1.75 -0.25,-2.5 -0.25,-1.5 -0.25,-1.25 -0.25,-1.25 -0.25,-1.25 -0.25,-1 v -0.75 l -0.25,-1.5 -0.25,-1.25 -0.25,-1.5 v -0.5 l -0.25,-2 -0.25,-1.25 -0.25,-1.75 v -1.75 l -0.25,-1.75 v -1.5 l -0.25,-1.25 V -342 l -0.25,-3 v -4.25 l 0.25,-2.25 v -4.5 l 0.25,-2 v -1.75 l 0.25,-1.75 v -1.5 l 0.25,-1.5 0.25,-1.25 0.25,-1.5 0.25,-1.25 0.25,-1 0.25,-1.25 0.25,-1 0.25,-1 0.25,-1 0.25,-0.75 0.5,-1 0.25,-1 0.5,-0.75 0.5,-0.75 0.25,-0.5 0.5,-1 0.25,-0.5 0.25,-0.25 0.75,-1 1,-1.25 1,-0.75 v -0.25 h 0.25 l 0.75,-1 0.75,-0.5 0.75,-0.5 1,-0.5 v -0.25 l 0.5,-0.25 0.25,-0.25 1.25,-0.5 m -7,387.25 v -232.5 l -0.25,-2.25 v -4 l -0.25,-1.75 v -3 l -0.25,-1.5 -0.25,-1.5 v -1.25 l -0.25,-1.75 -0.5,-2.5 -0.25,-0.5 -0.25,-1.25 v -0.5 l -0.5,-1.25 v -0.75 l -0.25,-0.75 -0.25,-1.25 -0.25,-1 -0.25,-1 V -261 l -0.25,-1.75 -0.25,-1.5 -0.25,-1.5 -0.25,-1.5 -0.25,-1.75 v -1.5 l -0.25,-1.75 v -2 l -0.25,-2 v -4.25 l -0.25,-2.5 v -5.25 l -0.25,-2.5 V -296 l -0.25,-2.5 v -4.5 l -0.25,-2.25 v -2 l -0.25,-2.25 -0.25,-3 -0.25,-1.75 -0.25,-1.75 -0.25,-1.5 v -1.5 l -0.25,-1.25 V -321 l -0.25,-2 -0.25,-1.25 -0.25,-2 v -0.5 l -0.25,-2.5 -0.25,-1.5 -0.25,-2 v -4 l -0.25,-2 v -17 l 0.25,-1.5 v -2 l 0.25,-1.5 v -1.75 l 0.25,-1.5 0.25,-1.25 v -1.5 l 0.25,-1.25 0.25,-1 0.25,-1.25 0.25,-1 0.5,-1.25 0.25,-1 0.25,-0.75 0.5,-1 0.25,-0.75 0.5,-1 0.25,-0.75 0.5,-0.75 0.5,-0.75 0.25,-0.75 0.5,-0.5 0.5,-0.75 0.25,-0.25 0.75,-0.75 0.25,-0.25 1,-1 h 0.25 l 1,-1 0.25,-0.25 0.75,-0.5 h 0.25 l 0.75,-0.5 0.5,-0.25 h 0.25 v -0.25 l 0.75,-0.25 0.75,-0.25 0.5,-0.25 h 0.25 l 1.5,-0.5 M -336,0 v -227 l -0.25,-2.75 V -237 l -0.25,-2.25 v -2 l -0.25,-2 -0.25,-2 -0.25,-2 -0.25,-3.25 v -0.25 l -0.5,-2.5 v -1 l -0.25,-1.5 -0.25,-1 -0.25,-1.5 -0.25,-1.25 v -1.5 l -0.25,-1.5 -0.25,-0.5 -0.25,-3 v -1.5 l -0.25,-2.25 -0.25,-1.75 v -2.25 l -0.25,-2 v -4.75 l -0.25,-2.5 v -5.5 l -0.25,-2.75 v -8 l -0.25,-2.5 v -2.5 l -0.25,-2.5 -0.25,-3 -0.25,-5 -0.25,-1 -0.25,-2.5 v -1.5 l -0.25,-0.75 v -2.25 l -0.25,-1.5 -0.25,-2 -0.25,-2.25 v -1 l -0.25,-2.5 v -4.5 l -0.25,-2 v -17 l 0.25,-1.75 V -359 l 0.25,-1.75 v -1.5 l 0.25,-1.5 v -1.5 l 0.25,-1.25 0.25,-1.25 0.25,-1.25 0.25,-1.25 0.25,-1 0.25,-1 0.25,-1 0.25,-1 0.5,-1 0.25,-1 0.5,-0.75 0.25,-0.75 0.5,-0.75 0.5,-0.75 0.5,-0.75 0.25,-0.75 0.5,-0.5 0.5,-0.5 0.75,-0.75 0.25,-0.5 0.75,-0.5 0.5,-0.5 1.25,-1 1.25,-0.75 h 0.25 l 0.25,-0.25 0.75,-0.25 h 0.25 l 0.75,-0.5 h 0.25 l 0.5,-0.25 h 0.5 l 0.75,-0.25 1,-0.25 0.75,-0.25 1.5,-0.25 M -340.5,0 v -9.5 l 0.25,-83.75 v -127 l -0.25,-3.75 v -11.5 l -0.25,-2.5 v -2.5 l -0.25,-2.5 -0.25,-2.5 v -1 l -0.25,-3.75 -0.25,-1 v -2 l -0.25,-1.25 -0.25,-1.75 v -1.25 l -0.25,-2 -0.25,-1.5 -0.25,-2 v -1.75 l -0.25,-2 -0.25,-2.75 v -2.25 l -0.25,-2.5 v -5 l -0.25,-2.5 v -8.75 l -0.25,-3 v -5.5 l -0.25,-3 v -2.75 l -0.25,-3.25 v -2.5 l -0.25,-3.25 v -1.75 l -0.25,-2.5 -0.25,-1.75 v -1 l -0.25,-2.5 V -325 l -0.25,-2.5 v -1.25 l -0.25,-2.75 v -2 l -0.25,-2.5 v -19 l 0.25,-2 v -3.5 l 0.25,-1.5 v -1.5 l 0.25,-1.5 v -1.25 l 0.25,-1.5 0.25,-0.75 0.25,-1.75 0.25,-1 0.25,-1.25 0.25,-1 0.25,-1 0.25,-0.75 0.5,-1.25 0.25,-0.75 0.5,-1 0.25,-0.75 0.5,-0.75 0.5,-0.75 0.5,-0.75 0.5,-0.75 0.75,-0.75 0.5,-0.5 0.5,-0.75 0.5,-0.5 h 0.25 l 1,-0.75 0.25,-0.25 0.75,-0.5 0.5,-0.25 h 0.25 l 1,-0.5 0.25,-0.25 0.75,-0.25 h 0.25 l 1.5,-0.5 1,-0.25 h 1.25 l 0.5,-0.25 h 3.75 M -344.75,0 v -91.25 l 0.25,-98 v -26.5 l -0.25,-4 v -13.75 l -0.25,-3 v -5.75 l -0.25,-0.75 -0.25,-4.5 v -1.5 l -0.25,-2.5 v -1.75 l -0.25,-2 v -1 l -0.25,-3 v -1.5 l -0.25,-2.5 v -2 l -0.25,-1.25 v -4 l -0.25,-2 v -5.75 l -0.25,-3 v -9.25 l -0.25,-3.5 v -9.5 l -0.25,-4 v -3.75 l -0.25,-2.5 v -2.5 l -0.25,-2.25 v -2.5 l -0.25,-2.25 v -2.25 l -0.25,-2.75 v -4.5 L -349,-335 v -21.5 l 0.25,-1.75 v -3.5 l 0.25,-1.5 v -2.5 l 0.25,-2.25 0.25,-1.25 0.25,-1.5 0.25,-1.25 0.25,-1.25 0.25,-1 0.25,-1.25 v -0.75 l 0.5,-1 0.25,-1 0.5,-1 0.25,-0.75 0.5,-0.75 0.5,-1 0.25,-0.75 0.75,-0.75 0.5,-0.75 0.5,-0.5 0.25,-0.5 1,-0.5 0.5,-0.5 0.5,-0.5 0.5,-0.25 0.75,-0.5 0.75,-0.25 0.75,-0.5 h 0.25 l 0.75,-0.25 0.25,-0.25 1.25,-0.25 h 0.5 l 0.75,-0.25 h 0.75 l 1.5,-0.25 h 2.5 l 0.25,0.25 h 1.75 l 0.5,0.25 1.5,0.25 M -349,0 v -238.25 l -0.25,-3.25 v -5.5 l -0.25,-1.75 v -4.75 l -0.25,-2.5 v -1.25 l -0.25,-3.5 v -4.75 l -0.25,-2.5 v -8.75 l -0.25,-3.75 V -295 l -0.25,-3.75 V -311 l -0.25,-2.75 v -5.75 l -0.25,-0.75 v -6.25 l -0.25,-3.75 v -30 l 0.25,-1.75 v -4 l 0.25,-1.5 v -1.75 l 0.25,-0.75 0.25,-2.5 v -1 l 0.25,-1.5 0.25,-1 v -1 l 0.25,-1 0.25,-1 0.25,-1 0.25,-0.5 0.5,-1.5 0.25,-0.5 0.25,-0.25 0.75,-1.75 0.25,-0.5 0.75,-1 1.25,-1.5 0.25,-0.25 0.75,-0.5 0.5,-0.5 0.25,-0.25 1,-0.5 0.75,-0.25 1,-0.5 0.5,-0.25 0.75,-0.25 h 1 l 1,-0.25 h 0.75 l 1,-0.25 h 0.75 l 1,0.25 h 1.5 l 1,0.25 1.25,0.25 h 0.25 l 0.75,0.25 0.75,0.25 h 0.5 l 1,0.5 h 0.5 l 0.25,0.25 h 0.5 l 1,0.5 M -353.25,0 v -247.25 l -0.25,-3.25 v -17 l -0.25,-0.75 v -41 l -0.25,-5 V -341 l -0.25,-2.5 v -5 l 0.25,-2.5 v -17.25 l 0.25,-4 v -2.5 l 0.25,-1 V -378 l 0.25,-1 v -0.5 l 0.25,-1.75 v -0.25 l 0.25,-2 0.25,-1.25 0.25,-1.75 h 0.25 l 0.5,-1.5 v -0.25 l 0.25,-0.75 0.25,-0.25 v -0.25 l 1,-1.5 0.5,-0.75 0.5,-0.25 0.5,-0.5 0.5,-0.25 0.5,-0.5 0.25,-0.25 0.5,-0.25 h 0.5 l 1,-0.5 h 0.25 l 1.25,-0.25 h 0.25 l 1.75,-0.25 h 2.5 l 1.25,0.25 h 0.25 l 1,0.25 h 1 l 0.75,0.25 0.25,0.25 1,0.25 h 0.25 l 1.25,0.5 h 0.5 l 0.5,0.25 h 0.25 v 0.25 l 1,0.25 0.25,0.25 h 0.25 l 0.5,0.25 0.25,0.25 h 0.25 l 0.5,0.25 0.25,0.25 0.5,0.25 0.75,0.5 0.5,0.25 0.5,0.25 1,0.75 M -357.75,0 v -9.5 l 0.25,-86.25 V -241.5 l 0.25,-4.5 v -18.75 L -357,-268 v -43.5 l 0.25,-4 V -369 l -0.25,-4.5 v -2.25 l -0.25,-0.75 v -3 l -0.25,-1.5 v -0.5 l -0.25,-2.25 -0.25,-0.75 -0.25,-1 v -0.25 l -0.25,-1.5 -0.25,-0.25 v -0.5 l -0.25,-0.5 -0.5,-1 v -0.25 l -0.5,-1 -0.25,-0.25 -0.25,-0.5 -0.25,-0.5 -0.5,-0.25 -0.25,-0.5 -0.5,-0.25 -0.5,-0.25 -0.25,-0.5 h -0.5 l -0.5,-0.25 -0.25,-0.25 -1,-0.25 -0.25,-0.25 h -1 l -1.25,-0.25 h -1.25 l -0.25,-0.25 -1.25,0.25 H -372 l -1,0.25 h -0.25 l -1,0.25 h -0.5 l -1,0.25 -0.5,0.25 -0.75,0.25 h -0.5 l -1.25,0.5 H -379 l -1,0.5 h -0.25 l -1,0.5 h -0.25 l -0.75,0.5 h -0.25 v 0.25 l -0.5,0.25 -0.5,0.25 -0.5,0.25 -0.25,0.25 -0.5,0.25 H -385 l -0.25,0.5 -1.25,0.75 M -362,0 v -9.5 l 0.25,-86.25 v -137.5 l 0.25,-3.5 V -241 l 0.25,-5 v -4.5 l 0.25,-2 v -3.75 l 0.25,-3.75 v -4.75 l 0.25,-2.5 V -276 l 0.25,-3.5 v -14.75 L -360,-298 v -11.25 l 0.25,-4 V -320 l 0.25,-3.5 v -5.75 l 0.25,-1.25 v -29.25 l -0.25,-1.75 v -2.5 l -0.25,-3.25 v -2 l -0.25,-2.5 -0.25,-1.25 v -0.75 l -0.25,-1.25 -0.25,-1 v -1.25 l -0.25,-0.25 -0.25,-1.75 -0.25,-0.75 -0.25,-0.5 -0.5,-1.75 v -0.25 l -1,-1.75 -0.25,-0.5 -0.25,-0.5 -0.5,-0.75 -0.5,-0.5 -0.5,-0.75 -0.5,-0.5 -0.5,-0.5 -0.75,-0.5 -0.5,-0.25 -0.5,-0.5 -0.5,-0.25 -1,-0.5 -1,-0.25 h -0.25 l -1,-0.5 H -372 l -1,-0.25 h -5.5 l -0.5,0.25 h -0.75 l -0.75,0.25 h -0.25 l -0.75,0.25 h -0.25 l -0.5,0.25 h -0.25 l -0.5,0.25 h -0.25 l -0.5,0.25 -0.75,0.25 -0.5,0.25 -1.5,0.5 M -366.25,0 V -24 L -366,-161.75 V -232 l 0.25,-3 v -5.75 l 0.25,-3 v -1.5 l 0.25,-3.5 v -1.5 l 0.25,-2.25 v -1.75 l 0.25,-2 v -1.5 l 0.25,-2.5 0.25,-1.75 v -2.25 l 0.25,-2.5 V -268 l 0.25,-4.5 v -5.25 l 0.25,-2.5 v -13 l 0.25,-3.25 v -6.5 l 0.25,-3.75 v -2.75 l 0.25,-3.75 v -2.25 l 0.25,-2.5 v -3.25 l 0.25,-3.25 v -2 l 0.25,-3.25 v -4.5 l 0.25,-2.25 v -19.25 l -0.25,-1.75 v -3.5 l -0.25,-1.75 v -3 l -0.25,-1.75 -0.25,-1.5 -0.25,-1.5 v -0.75 l -0.25,-1.5 -0.25,-1.25 -0.25,-1 -0.25,-1 -0.25,-1 -0.5,-1 -0.25,-1 -0.25,-0.75 -0.5,-1 -0.5,-0.75 -0.5,-0.75 -0.5,-0.75 -0.5,-0.75 -0.5,-0.75 -0.75,-0.5 -0.5,-0.75 -0.5,-0.25 -0.75,-0.5 -0.5,-0.25 -0.5,-0.5 -0.5,-0.25 -0.75,-0.25 -0.75,-0.5 h -0.5 l -0.5,-0.25 -0.25,-0.25 -1.25,-0.25 H -377 l -0.75,-0.25 H -383 l -0.25,0.25 h -1.25 l -0.75,0.25 -1,0.25 M -370.5,0 v -210.25 l 0.25,-7.5 V -231 l 0.25,-2.75 v -5 l 0.25,-2.5 v -2.5 l 0.25,-3 0.25,-2 0.25,-1.75 v -1.5 l 0.25,-1.75 0.25,-1.5 v -1.25 l 0.25,-2 0.25,-1.5 v -2 l 0.25,-1.75 0.25,-2 v -2.75 l 0.25,-2.25 V -273 l 0.25,-2.5 v -5.25 l 0.25,-2.75 v -5.75 l 0.25,-3 v -8.5 l 0.25,-3 v -3 l 0.25,-4 0.25,-2.25 v -2.5 l 0.25,-2 0.25,-2 v -0.75 l 0.25,-3 v -1.5 l 0.25,-2.5 V -330 l 0.25,-1.5 v -4.75 l 0.25,-2.75 v -14.5 l -0.25,-2 v -3.5 l -0.25,-1.75 v -1.5 l -0.25,-1.5 v -1.5 l -0.25,-1.5 v -0.5 l -0.25,-2 -0.25,-1 -0.25,-1.5 -0.25,-1 -0.25,-1 -0.5,-1.25 -0.25,-1 -0.25,-0.75 -0.5,-1 -0.25,-0.75 -0.5,-1 -0.5,-0.75 -0.5,-0.75 -0.5,-0.75 -0.5,-0.75 -0.75,-0.75 -0.5,-0.5 -0.5,-0.5 -0.75,-0.5 -0.5,-0.25 -0.5,-0.5 -0.5,-0.25 -0.5,-0.5 -0.5,-0.25 -0.75,-0.25 -0.5,-0.25 -0.75,-0.25 -1.5,-0.5 h -0.5 l -0.5,-0.25 h -1.25 l -0.5,-0.25 h -4.25 M -375,0 v -2.5 l 0.25,-21.5 v -197.25 l 0.25,-4 v -8 l 0.25,-2.5 V -240 l 0.25,-2 0.25,-2 v -2.25 l 0.25,-2.5 0.25,-1.5 0.25,-0.75 0.25,-2 v -1 l 0.25,-1.5 0.25,-1.25 0.25,-1 0.25,-1.5 v -1.5 l 0.25,-1.5 0.25,-1 0.25,-2.25 v -2 l 0.25,-2 0.25,-2 v -2 l 0.25,-2.25 v -4.75 l 0.25,-2.5 v -5.5 l 0.25,-2.75 v -8 l 0.25,-2.5 v -2.5 l 0.25,-2.5 0.25,-3 0.25,-4.25 v -1.25 l 0.25,-2.25 0.25,-1.5 0.25,-1.75 V -322 l 0.25,-2 v -1.75 l 0.25,-2.5 v -0.5 l 0.25,-3 0.25,-2 v -2.5 l 0.25,-2 v -15 l -0.25,-2 v -3.5 l -0.25,-1.75 v -1.5 l -0.25,-1.5 -0.25,-1.5 v -1.25 l -0.25,-1.25 -0.25,-1.25 -0.25,-1.25 -0.25,-1.25 -0.25,-1 -0.25,-1 -0.25,-1 -0.5,-1 -0.25,-0.75 -0.5,-1 -0.25,-0.75 -0.5,-0.75 -0.5,-0.75 -0.25,-0.75 -0.5,-0.75 -0.5,-0.5 -0.25,-0.25 -1,-1 -0.25,-0.5 -0.75,-0.5 -0.5,-0.5 -0.5,-0.5 h -0.25 l -1,-0.75 H -378 l -1,-0.75 h -0.25 l -0.75,-0.25 v -0.25 l -1,-0.25 h -0.25 l -0.5,-0.25 -0.5,-0.25 H -383 v -0.25 h -1 l -0.5,-0.25 h -0.75 l -1,-0.25 m 7,388 v -24 l 0.25,-156.5 v -45 l 0.25,-3 v -9 l 0.25,-2 v -1.5 l 0.25,-1.75 v -1.5 l 0.25,-1.5 V -247 l 0.25,-1.75 0.5,-2.25 0.25,-1 0.25,-1.25 v -0.5 l 0.25,-1.25 0.25,-0.75 0.25,-1 0.25,-1.25 0.25,-1 0.25,-1 0.25,-1.25 V -262 l 0.25,-2 0.25,-1.25 0.25,-1.75 0.25,-1.5 v -1.75 l 0.25,-1.75 v -1.75 l 0.25,-2 v -4.5 l 0.25,-2.25 v -5.25 l 0.25,-2.75 v -7.75 l 0.25,-2.25 v -2.25 l 0.25,-2.25 v -2 l 0.25,-2.25 0.25,-3 0.25,-2 0.25,-1.75 v -1.5 l 0.25,-1.5 0.25,-1.25 V -321 l 0.25,-2 0.25,-1.25 0.25,-2 V -327 l 0.25,-2.25 0.25,-1.5 V -333 l 0.25,-1.75 V -337 l 0.25,-2 v -15 l -0.25,-1.75 v -3.75 l -0.25,-1.5 -0.25,-1.5 v -1.5 l -0.25,-1.5 -0.25,-1.25 -0.25,-1.25 -0.25,-1.25 -0.25,-1.25 -0.25,-1 -0.25,-1 -0.25,-1 -0.5,-1 -0.25,-1 -0.25,-0.75 -0.5,-0.75 -0.5,-1 -0.25,-0.75 -0.5,-0.5 -0.5,-0.75 -0.5,-0.75 -0.5,-0.5 -0.25,-0.5 -0.75,-0.5 v -0.25 l -1.25,-1 -1,-0.75 v -0.25 l -0.75,-0.5 h -0.25 v -0.25 l -1,-0.5 h -0.25 l -0.5,-0.5 h -0.25 l -0.75,-0.25 -0.75,-0.25 -0.5,-0.25 -0.75,-0.25 -1,-0.25 M -383.5,0 v -24 l 0.25,-149.5 V -236 l 0.25,-2.25 v -4 l 0.25,-1.75 v -2.25 l 0.25,-0.75 v -1 l 0.25,-1 v -1 l 0.25,-0.75 0.25,-1.25 0.5,-1.25 v -0.5 l 0.5,-0.75 v -0.5 l 0.25,-0.75 0.25,-0.25 0.25,-0.75 0.25,-0.5 0.25,-0.75 0.25,-0.75 v -0.5 l 0.5,-1 0.25,-1 0.25,-1.25 0.25,-1 0.25,-1.25 V -266 l 0.25,-1.25 0.25,-1.25 v -1.25 l 0.25,-1.5 V -273 l 0.25,-1.75 v -4 l 0.25,-2 v -5 l 0.25,-2.75 v -7.75 l 0.25,-2.25 v -4.25 l 0.25,-2 v -1.75 l 0.25,-2 v -1.75 l 0.25,-2 0.5,-3.25 0.25,-1 0.25,-1.5 0.25,-1 v -1.25 l 0.25,-1 0.25,-1.25 0.25,-1.25 0.25,-1.5 v -1 l 0.25,-1.5 0.25,-1.5 0.25,-1.75 v -1.5 l 0.25,-1.75 V -336 l 0.25,-2 v -17.75 l -0.25,-2 v -1.75 l -0.25,-1.75 v -1.5 l -0.25,-1.5 -0.25,-1.5 -0.25,-1.25 -0.25,-1.25 -0.25,-1.25 -0.25,-1 -0.25,-1.25 -0.25,-1 -0.25,-1 -0.5,-0.75 -0.25,-1 -0.25,-0.75 -0.5,-1 -0.5,-0.75 v -0.25 l -0.75,-1 -0.25,-0.75 -0.25,-0.25 -0.75,-1 h -0.25 l -0.75,-1.25 h -0.25 l -0.75,-0.75 -0.5,-0.5 -1,-1 -0.5,-0.25 v -0.25 l -0.75,-0.25 v -0.25 L -384,-386 v -0.25 l -0.75,-0.25 -0.5,-0.25 -1,-0.5 M -387.75,0 v -223.75 l 0.25,-5 v -25 l 0.25,-0.25 v -0.5 l 0.25,-0.25 0.25,-0.5 h 0.25 v -0.25 h 0.25 l 0.25,-0.25 0.25,-0.25 h 0.25 l 0.25,-0.25 h 0.25 l 0.25,-0.25 0.5,-0.5 0.5,-0.5 0.25,-0.25 0.25,-0.5 0.25,-0.25 0.25,-0.75 0.25,-0.5 0.25,-0.5 0.25,-0.75 0.25,-0.5 0.25,-0.75 0.25,-0.75 v -0.75 l 0.25,-0.75 0.25,-0.75 v -1 l 0.25,-1 v -1.25 l 0.25,-1.25 V -271 l 0.25,-1.5 v -3.5 l 0.25,-1.5 v -7.5 l 0.25,-2.75 V -298 l 0.25,-2 v -3.75 l 0.25,-1.75 v -1.5 l 0.25,-1.5 v -1.5 l 0.25,-1.5 v -1.25 l 0.5,-1.75 0.5,-2.5 v -0.75 l 0.25,-1 0.25,-1 0.25,-1 0.25,-0.75 0.25,-1.25 0.25,-1 v -0.75 l 0.25,-1.25 0.25,-1 0.25,-1.25 0.25,-1.5 0.25,-1.25 v -0.75 l 0.25,-2 v -1.5 l 0.25,-1.75 v -4 l 0.25,-2.5 v -3 l -0.25,-7 v -4.25 l -0.25,-1.5 v -2 l -0.25,-1.5 -0.25,-1.5 v -1.5 l -0.25,-1.5 -0.25,-1.25 -0.25,-1 -0.25,-1 -0.25,-1.25 -0.25,-1 -0.5,-1.25 -0.25,-1 V -375 l -0.75,-1.5 -0.25,-0.5 -0.25,-0.5 -0.5,-1 -0.25,-0.75 -0.25,-0.25 -0.5,-1 -0.25,-0.5 -0.5,-0.5 -0.25,-0.25 -0.75,-1 V -383 l -0.5,-0.5 -0.25,-0.25 -0.5,-0.25 v -0.25 l -0.5,-0.5 -1,-0.75 -0.5,-0.5 -0.5,-0.5 -1,-0.5" />
+            </g>
+            <text
+               y="270.96817"
+               x="-302.17191"
+               id="text1130"
+               style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.79999924px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="scale(1,-1)">
+              <tspan
+                 id="tspan1110"
+                 sodipodi:role="line"
+                 y="270.96817"
+                 x="-302.17191 -292.27512 -287.32672"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.2414093px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes'">1.6</tspan>
+              <tspan
+                 id="tspan1112"
+                 sodipodi:role="line"
+                 y="313.68817"
+                 x="-302.17191 -292.27512 -287.32672"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.2414093px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes'">1.4</tspan>
+              <tspan
+                 id="tspan1114"
+                 sodipodi:role="line"
+                 y="356.40817"
+                 x="-302.17191 -292.27512 -287.32672"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.2414093px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes'">1.2</tspan>
+              <tspan
+                 sodipodi:role="line"
+                 x="-302.17191"
+                 y="592.76892"
+                 id="tspan13723"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.2414093px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes'" />
+              <tspan
+                 sodipodi:role="line"
+                 x="-302.17191"
+                 y="616.30994"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.2414093px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes'"
+                 id="tspan13731" />
+              <tspan
+                 id="tspan1118"
+                 sodipodi:role="line"
+                 y="441.84818"
+                 x="-302.17191 -292.27512 -287.32672"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.2414093px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes'">0.8</tspan>
+              <tspan
+                 id="tspan1120"
+                 sodipodi:role="line"
+                 y="484.56818"
+                 x="-302.17191 -292.27512 -287.32672"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.2414093px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes'">0.6</tspan>
+              <tspan
+                 id="tspan1122"
+                 sodipodi:role="line"
+                 y="527.28815"
+                 x="-302.17191 -292.27512 -287.32672"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.2414093px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes'">0.4</tspan>
+              <tspan
+                 id="tspan1124"
+                 sodipodi:role="line"
+                 y="570.00818"
+                 x="-302.17191 -292.27512 -287.32672"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.2414093px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes'">0.2</tspan>
+              <tspan
+                 sodipodi:role="line"
+                 id="tspan13717"
+                 x="-302.17191"
+                 y="715.61719" />
+              <tspan
+                 sodipodi:role="line"
+                 x="-302.17191"
+                 y="715.61719"
+                 id="tspan13719"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.2414093px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes'">0.0</tspan>
+              <tspan
+                 id="tspan1128"
+                 sodipodi:role="line"
+                 y="667.76318"
+                 x="-251.68991 -245.7625 -235.86571 -230.9173 -221.02051 -206.17531 -200.24789 -190.3511 -185.40269 -175.50591 -165.6091 -159.6817 -149.78491 -144.8365 -134.93971 -120.09452 -114.16709 -104.2703 -99.321907 -89.425117 -64.683113 -54.786289 -30.044315 -20.147495 -15.199101 -5.3023119 14.491298 24.388088 29.336483 39.233303 59.026882 68.923698 73.872093 83.768883 98.614098 108.51089 113.45928"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.2414093px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes'">-0.8 -0.6 -0.4 -0.2 0 0.2 0.4 0.6 0.8</tspan>
+            </text>
+            <text
+               y="692.67316"
+               x="69.861084"
+               id="text1134"
+               style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.79999924px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="scale(1,-1)">
+              <tspan
+                 id="tspan1132"
+                 y="692.67316"
+                 x="69.861084">z-Axis [cm]</tspan>
+            </text>
+            <text
+               y="-310.64441"
+               x="-311.30585"
+               id="text1142"
+               style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.79999924px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="matrix(0,1,1,0,0,0)">
+              <tspan
+                 id="tspan1140"
+                 sodipodi:role="line"
+                 y="-310.64441"
+                 x="-311.30585 -302.40582"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.2414093px;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes'">x-Axis [cm]</tspan>
+            </text>
+            <text
+               transform="scale(1,-1)"
+               id="text13735"
+               y="399.85529"
+               x="-302.12128"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.2414093px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.803882"
+               xml:space="preserve"><tspan
+                 style="stroke-width:1.803882"
+                 y="399.85529"
+                 x="-302.12128"
+                 id="tspan13733"
+                 sodipodi:role="line">1.0</tspan></text>
+            <text
+               transform="scale(1,-1)"
+               id="text14009"
+               y="197.79147"
+               x="-206.55246"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.2414093px;line-height:1.25;font-family:'TeX Gyre Termes';-inkscape-font-specification:'TeX Gyre Termes';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.803882"
+               xml:space="preserve"><tspan
+                 style="font-size:38.4828186px;stroke-width:1.803882"
+                 y="197.79147"
+                 x="-206.55246"
+                 id="tspan14007"
+                 sodipodi:role="line">Electron Drift Path</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
